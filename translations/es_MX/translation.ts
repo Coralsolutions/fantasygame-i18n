@@ -13,7 +13,7 @@
     </message>
     <message>
       <source>Player</source>
-      <translation type="unfinished">Player</translation>
+      <translation>Player translations</translation>
     </message>
     <message>
       <source>Value</source>
