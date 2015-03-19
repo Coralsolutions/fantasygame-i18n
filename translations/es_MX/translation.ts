@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS>
+<TS language="es_MX">
   <context>
     <name>game/dashboard</name>
     <message>
       <source>This week leaders</source>
-      <translation type="unfinished">This week leaders</translation>
+      <translation>This week leaders asdfasd asdf asd fsdf</translation>
     </message>
     <message>
       <source>Pos</source>
@@ -20,8 +20,8 @@
       <translation type="unfinished">Value</translation>
     </message>
     <message>
-      <source>(&#xA3;m)</source>
-      <translation type="unfinished">(&#xA3;m)</translation>
+      <source>(£m)</source>
+      <translation type="unfinished">(£m)</translation>
     </message>
     <message>
       <source>Points</source>
@@ -80,8 +80,8 @@
       <translation type="unfinished">Club</translation>
     </message>
     <message>
-      <source>Value (&#xA3;M)</source>
-      <translation type="unfinished">Value (&#xA3;M)</translation>
+      <source>Value (£M)</source>
+      <translation type="unfinished">Value (£M)</translation>
     </message>
     <message>
       <source>Bought by (%)</source>
@@ -216,8 +216,8 @@
       <translation type="unfinished">View full stats</translation>
     </message>
     <message>
-      <source>Leaders &#x2013; this week</source>
-      <translation type="unfinished">Leaders &#x2013; this week</translation>
+      <source>Leaders – this week</source>
+      <translation type="unfinished">Leaders – this week</translation>
     </message>
     <message>
       <source>Global Leaderboard</source>
@@ -1285,8 +1285,8 @@
       <translation type="unfinished">Live Match Centre</translation>
     </message>
     <message>
-      <source>&#xA3;m</source>
-      <translation type="unfinished">&#xA3;m</translation>
+      <source>£m</source>
+      <translation type="unfinished">£m</translation>
     </message>
     <message>
       <source>Gc</source>
@@ -1328,8 +1328,8 @@
       <translation type="unfinished">Vice captain</translation>
     </message>
     <message>
-      <source>Select a player on the pitch below to become your Vice-Captain. Then click the &#x2018;Save&#x2019; button.</source>
-      <translation type="unfinished">Select a player on the pitch below to become your Vice-Captain. Then click the &#x2018;Save&#x2019; button.</translation>
+      <source>Select a player on the pitch below to become your Vice-Captain. Then click the ‘Save’ button.</source>
+      <translation type="unfinished">Select a player on the pitch below to become your Vice-Captain. Then click the ‘Save’ button.</translation>
     </message>
     <message>
       <source>You are selecting this Vice-Captain for</source>
@@ -1364,8 +1364,8 @@
       <translation type="unfinished">Please Note: Players with boosts will not score 2x points as your captain, so choose a player without a boost.</translation>
     </message>
     <message>
-      <source>Select your captain by clicking a player on the pitch below. Then click the &#x2018;Submit&#x2019; button to confirm your choice.</source>
-      <translation type="unfinished">Select your captain by clicking a player on the pitch below. Then click the &#x2018;Submit&#x2019; button to confirm your choice.</translation>
+      <source>Select your captain by clicking a player on the pitch below. Then click the ‘Submit’ button to confirm your choice.</source>
+      <translation type="unfinished">Select your captain by clicking a player on the pitch below. Then click the ‘Submit’ button to confirm your choice.</translation>
     </message>
     <message>
       <source>Pts</source>
@@ -1471,8 +1471,8 @@
       <translation type="unfinished">Double all forward points</translation>
     </message>
     <message>
-      <source>Unlocking the &#x2018;All Out Attack&#x2019; boost will double the points for all of your forwards in the stated Gameweek.</source>
-      <translation type="unfinished">Unlocking the &#x2018;All Out Attack&#x2019; boost will double the points for all of your forwards in the stated Gameweek.</translation>
+      <source>Unlocking the ‘All Out Attack’ boost will double the points for all of your forwards in the stated Gameweek.</source>
+      <translation type="unfinished">Unlocking the ‘All Out Attack’ boost will double the points for all of your forwards in the stated Gameweek.</translation>
     </message>
     <message>
       <source>Important points to note</source>
@@ -1487,8 +1487,8 @@
       <translation type="unfinished">If one of your forwards is your captain/Vice-Captain, his points will only be doubled once.</translation>
     </message>
     <message>
-      <source>Unlocking the &#x2018;Park Bus&#x2019; boost will double the points for all of your defenders in the stated Gameweek</source>
-      <translation type="unfinished">Unlocking the &#x2018;Park Bus&#x2019; boost will double the points for all of your defenders in the stated Gameweek</translation>
+      <source>Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</source>
+      <translation type="unfinished">Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</translation>
     </message>
     <message>
       <source>Once selected, you will not be able to transfer any of your defenders out of your team until the Gameweek (for which the boost has been chosen) is complete.</source>
@@ -1599,8 +1599,8 @@
       <translation type="unfinished">Your Vice-Captain cannot be the same player as your Captain</translation>
     </message>
     <message>
-      <source>If you have unlocked the &#x2018;Park Bus&#x2019; or &#x2018;All Out Attack&#x2019; boost your Vice-Captain can only score double points (never 4x points)</source>
-      <translation type="unfinished">If you have unlocked the &#x2018;Park Bus&#x2019; or &#x2018;All Out Attack&#x2019; boost your Vice-Captain can only score double points (never 4x points)</translation>
+      <source>If you have unlocked the ‘Park Bus’ or ‘All Out Attack’ boost your Vice-Captain can only score double points (never 4x points)</source>
+      <translation type="unfinished">If you have unlocked the ‘Park Bus’ or ‘All Out Attack’ boost your Vice-Captain can only score double points (never 4x points)</translation>
     </message>
     <message>
       <source>Boost your team</source>
@@ -1895,8 +1895,8 @@
       <translation type="unfinished">Price</translation>
     </message>
     <message>
-      <source>&#xA3;</source>
-      <translation type="unfinished">&#xA3;</translation>
+      <source>£</source>
+      <translation type="unfinished">£</translation>
     </message>
     <message>
       <source>Points</source>
@@ -2411,12 +2411,12 @@
       <translation type="unfinished">Please enter your league name</translation>
     </message>
     <message>
-      <source>Please enter your friend&#x2019;s name</source>
-      <translation type="unfinished">Please enter your friend&#x2019;s name</translation>
+      <source>Please enter your friend’s name</source>
+      <translation type="unfinished">Please enter your friend’s name</translation>
     </message>
     <message>
-      <source>Please enter your friend&#x2019;s email</source>
-      <translation type="unfinished">Please enter your friend&#x2019;s email</translation>
+      <source>Please enter your friend’s email</source>
+      <translation type="unfinished">Please enter your friend’s email</translation>
     </message>
     <message>
       <source>Bad email address</source>
