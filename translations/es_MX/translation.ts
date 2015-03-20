@@ -13,11 +13,11 @@
     </message>
     <message>
       <source>Pos</source>
-      <translation type="unfinished">Pos</translation>
+      <translation></translation>
     </message>
     <message>
       <source>Player</source>
-      <translation type="unfinished"/>
+      <translation/>
     </message>
     <message>
       <source>Value</source>
