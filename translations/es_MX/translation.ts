@@ -9,7 +9,7 @@
     </message>
     <message>
       <source>This week leaders</source>
-      <translation>This week leaders leaders asd</translation>
+      <translation>This week leaders leaders asd asdasd</translation>
     </message>
     <message>
       <source>Pos</source>
