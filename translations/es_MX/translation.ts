@@ -1,6 +1,6 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS>
+<TS language="es_MX">
   <context>
     <name>game/dashboard</name>
     <message>
@@ -9,7 +9,7 @@
     </message>
     <message>
       <source>This week leaders</source>
-      <translation type="unfinished"/>
+      <translation>This week leaders leaders</translation>
     </message>
     <message>
       <source>Pos</source>
@@ -24,7 +24,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>(&#xA3;m)</source>
+      <source>(£m)</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -84,7 +84,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Value (&#xA3;M)</source>
+      <source>Value (£M)</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -220,7 +220,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Leaders &#x2013; this week</source>
+      <source>Leaders – this week</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1349,7 +1349,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>&#xA3;m</source>
+      <source>£m</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1396,7 +1396,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select a player on the pitch below to become your Vice-Captain. Then click the &#x2018;Save&#x2019; button.</source>
+      <source>Select a player on the pitch below to become your Vice-Captain. Then click the ‘Save’ button.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1432,7 +1432,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select your captain by clicking a player on the pitch below. Then click the &#x2018;Submit&#x2019; button to confirm your choice.</source>
+      <source>Select your captain by clicking a player on the pitch below. Then click the ‘Submit’ button to confirm your choice.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1543,7 +1543,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the &#x2018;All Out Attack&#x2019; boost will double the points for all of your forwards in the stated Gameweek.</source>
+      <source>Unlocking the ‘All Out Attack’ boost will double the points for all of your forwards in the stated Gameweek.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1559,7 +1559,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the &#x2018;Park Bus&#x2019; boost will double the points for all of your defenders in the stated Gameweek</source>
+      <source>Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1671,7 +1671,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>If you have unlocked the &#x2018;Park Bus&#x2019; or &#x2018;All Out Attack&#x2019; boost your Vice-Captain can only score double points (never 4x points)</source>
+      <source>If you have unlocked the ‘Park Bus’ or ‘All Out Attack’ boost your Vice-Captain can only score double points (never 4x points)</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2031,7 +2031,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>&#xA3;</source>
+      <source>£</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2571,11 +2571,11 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend&#x2019;s name</source>
+      <source>Please enter your friend’s name</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend&#x2019;s email</source>
+      <source>Please enter your friend’s email</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5542,7 +5542,7 @@
     <name>system/index</name>
     <message>
       <source>System administration panel</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>
