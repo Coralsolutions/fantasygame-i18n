@@ -13,7 +13,7 @@
     </message>
     <message>
       <source>Pos</source>
-      <translation type="unfinished"/>
+      <translation type="unfinished">Pos</translation>
     </message>
     <message>
       <source>Player</source>
