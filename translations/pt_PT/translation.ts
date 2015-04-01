@@ -1,39 +1,39 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS>
+<TS language="pt_PT">
   <context>
     <name>game/dashboard</name>
     <message>
       <source>This week leaders</source>
-      <translation type="unfinished"/>
+      <translation>Lideres da Semana</translation>
     </message>
     <message>
       <source>Pos</source>
-      <translation type="unfinished"/>
+      <translation>Pos</translation>
     </message>
     <message>
       <source>Player</source>
-      <translation type="unfinished"/>
+      <translation>Jogador</translation>
     </message>
     <message>
       <source>Value</source>
-      <translation type="unfinished"/>
+      <translation>Valor</translation>
     </message>
     <message>
-      <source>(&#xA3;m)</source>
-      <translation type="unfinished"/>
+      <source>(£m)</source>
+      <translation>(£m)</translation>
     </message>
     <message>
       <source>Points</source>
-      <translation type="unfinished"/>
+      <translation>Pontos</translation>
     </message>
     <message>
       <source>Make transfers</source>
-      <translation type="unfinished"/>
+      <translation>Fazer transferências</translation>
     </message>
     <message>
       <source>Live Match Centre</source>
-      <translation type="unfinished"/>
+      <translation>Centro de Jogos ao vivo</translation>
     </message>
     <message>
       <source>Add new widget</source>
@@ -41,155 +41,155 @@
     </message>
     <message>
       <source>View live</source>
-      <translation type="unfinished"/>
+      <translation>Ver ao vivo</translation>
     </message>
     <message>
       <source>Latest transfers</source>
-      <translation type="unfinished"/>
+      <translation>Últimas transferências</translation>
     </message>
     <message>
       <source>Sold</source>
-      <translation type="unfinished"/>
+      <translation>Vendido</translation>
     </message>
     <message>
       <source>Games in play</source>
-      <translation type="unfinished"/>
+      <translation>Jogos a decorrer</translation>
     </message>
     <message>
       <source>Live goals</source>
-      <translation type="unfinished"/>
+      <translation>Golos ao vivo</translation>
     </message>
     <message>
       <source>Live score</source>
-      <translation type="unfinished"/>
+      <translation>Resultado</translation>
     </message>
     <message>
       <source>View Matches</source>
-      <translation type="unfinished"/>
+      <translation>Ver jogos</translation>
     </message>
     <message>
       <source>Most Bought Players</source>
-      <translation type="unfinished"/>
+      <translation>Jogadores mais comprados</translation>
     </message>
     <message>
       <source>Players</source>
-      <translation type="unfinished"/>
+      <translation>Jogadores</translation>
     </message>
     <message>
       <source>Club</source>
-      <translation type="unfinished"/>
+      <translation>Clube</translation>
     </message>
     <message>
-      <source>Value (&#xA3;M)</source>
-      <translation type="unfinished"/>
+      <source>Value (£M)</source>
+      <translation>Valor (M€)</translation>
     </message>
     <message>
       <source>Bought by (%)</source>
-      <translation type="unfinished"/>
+      <translation>Comprado por (%)</translation>
     </message>
     <message>
       <source>Bought By(%)</source>
-      <translation type="unfinished"/>
+      <translation>Comprado Por(%)</translation>
     </message>
     <message>
       <source>Most sold players</source>
-      <translation type="unfinished"/>
+      <translation>Jogadores mais vendidos</translation>
     </message>
     <message>
       <source>Sold By(%)</source>
-      <translation type="unfinished"/>
+      <translation>Vendido Por(%)</translation>
     </message>
     <message>
       <source>My head-to-heads live</source>
-      <translation type="unfinished"/>
+      <translation>Os meus desafios ao vivo</translation>
     </message>
     <message>
       <source>You</source>
-      <translation type="unfinished"/>
+      <translation>Tu</translation>
     </message>
     <message>
       <source>View</source>
-      <translation type="unfinished"/>
+      <translation>Ver</translation>
     </message>
     <message>
       <source>View all</source>
-      <translation type="unfinished"/>
+      <translation>Ver todos</translation>
     </message>
     <message>
       <source>My team live points</source>
-      <translation type="unfinished"/>
+      <translation>Pontos da minha equipa</translation>
     </message>
     <message>
       <source>Current week leader</source>
-      <translation type="unfinished"/>
+      <translation>Líder da semana atual</translation>
     </message>
     <message>
       <source>pts</source>
-      <translation type="unfinished"/>
+      <translation>pts</translation>
     </message>
     <message>
       <source>My head-to-head live</source>
-      <translation type="unfinished"/>
+      <translation>Os meus desafios ao vivo</translation>
     </message>
     <message>
       <source>Game</source>
-      <translation type="unfinished"/>
+      <translation>Jogo</translation>
     </message>
     <message>
       <source>Latest transfer</source>
-      <translation type="unfinished"/>
+      <translation>Última transferência</translation>
     </message>
     <message>
       <source>Games In Play</source>
-      <translation type="unfinished"/>
+      <translation>Jogos a Decorrer</translation>
     </message>
     <message>
       <source>Live points</source>
-      <translation type="unfinished"/>
+      <translation>Pontos ao Vivo</translation>
     </message>
     <message>
       <source>This week most managers are selling</source>
-      <translation type="unfinished"/>
+      <translation>Esta semana a maioria dos treinadores está a vender</translation>
     </message>
     <message>
       <source>No data</source>
-      <translation type="unfinished"/>
+      <translation>Sem dados</translation>
     </message>
     <message>
       <source>My current top scoring player</source>
-      <translation type="unfinished"/>
+      <translation>Meu atual melhor marcador</translation>
     </message>
     <message>
       <source>Private league position</source>
-      <translation type="unfinished"/>
+      <translation>Posição na liga privada</translation>
     </message>
     <message>
       <source>starts at</source>
-      <translation type="unfinished"/>
+      <translation>começa</translation>
     </message>
     <message>
       <source>My private league position</source>
-      <translation type="unfinished"/>
+      <translation>Posição da minha liga privada</translation>
     </message>
     <message>
       <source>User</source>
-      <translation type="unfinished"/>
+      <translation>Utilizador</translation>
     </message>
     <message>
       <source>Change</source>
-      <translation type="unfinished"/>
+      <translation>Alterar</translation>
     </message>
     <message>
       <source>Week points</source>
-      <translation type="unfinished"/>
+      <translation>Pontos semanais</translation>
     </message>
     <message>
       <source>Month points</source>
-      <translation type="unfinished"/>
+      <translation>Pontos mensais</translation>
     </message>
     <message>
       <source>Total points</source>
-      <translation type="unfinished"/>
+      <translation>Pontos totais</translation>
     </message>
     <message>
       <source>APP</source>
@@ -209,78 +209,78 @@
     </message>
     <message>
       <source>%Teams</source>
-      <translation type="unfinished"/>
+      <translation>%Equipas</translation>
     </message>
     <message>
       <source>View full stats</source>
-      <translation type="unfinished"/>
+      <translation>Ver estatísticas totais</translation>
     </message>
     <message>
-      <source>Leaders &#x2013; this week</source>
-      <translation type="unfinished"/>
+      <source>Leaders – this week</source>
+      <translation>Lideres - Esta semana</translation>
     </message>
     <message>
       <source>Global Leaderboard</source>
-      <translation type="unfinished"/>
+      <translation>Tabela Global dos Lideres</translation>
     </message>
     <message>
       <source>Best 3 Weeks</source>
-      <translation type="unfinished"/>
+      <translation>Melhores 3 Semanas</translation>
     </message>
     <message>
       <source>Club Championship</source>
-      <translation type="unfinished"/>
+      <translation>Campeonato de Clubes</translation>
     </message>
     <message>
       <source>Private Superleague</source>
-      <translation type="unfinished"/>
+      <translation>Superliga Privada</translation>
     </message>
   </context>
   <context>
     <name>gameadmin/gameinfo</name>
     <message>
       <source>General game information</source>
-      <translation type="unfinished"/>
+      <translation>Informação geral do jogo</translation>
     </message>
     <message>
       <source>Current week (with display periods)</source>
-      <translation type="unfinished"/>
+      <translation>Semana atual (com períodos referenciados)</translation>
     </message>
     <message>
       <source>Live week (only start and end dates take effect)</source>
-      <translation type="unfinished"/>
+      <translation>Semana ao vivo (apenas entre as datas de inicio e fim)</translation>
     </message>
     <message>
       <source>Current or next week (without display periods)</source>
-      <translation type="unfinished"/>
+      <translation>Semana atual ou próxima (sem períodos referenciados)</translation>
     </message>
     <message>
       <source>Vice captain week (without display periods)</source>
-      <translation type="unfinished"/>
+      <translation>Semana do vice capitão (sem períodos referenciados)</translation>
     </message>
     <message>
       <source>Can buy extra player</source>
-      <translation type="unfinished"/>
+      <translation>Podes comprar um jogador extra</translation>
     </message>
     <message>
       <source>played first match</source>
-      <translation type="unfinished"/>
+      <translation>primeiro jogo terminado</translation>
     </message>
     <message>
       <source>played last match</source>
-      <translation type="unfinished"/>
+      <translation>último jogo terminado</translation>
     </message>
     <message>
       <source>Users cannot buy boost for this week because</source>
-      <translation type="unfinished"/>
+      <translation>Os jogadores não podem comprar "impulso" esta semana porque</translation>
     </message>
     <message>
       <source>yes</source>
-      <translation type="unfinished"/>
+      <translation>sim</translation>
     </message>
     <message>
       <source>no, because</source>
-      <translation type="unfinished"/>
+      <translation>não, porque</translation>
     </message>
     <message>
       <source>12 man cut off date is not set</source>
@@ -288,129 +288,129 @@
     </message>
     <message>
       <source>cut off date is greated than today</source>
-      <translation type="unfinished"/>
+      <translation>a data para retirar é maior que hoje</translation>
     </message>
   </context>
   <context>
     <name>admin/pricerange</name>
     <message>
       <source>Price range</source>
-      <translation type="unfinished"/>
+      <translation>Classe de preços</translation>
     </message>
     <message>
       <source>Min</source>
-      <translation type="unfinished"/>
+      <translation>Min</translation>
     </message>
     <message>
       <source>Max</source>
-      <translation type="unfinished"/>
+      <translation>Max</translation>
     </message>
     <message>
       <source>Step</source>
-      <translation type="unfinished"/>
+      <translation>Passo</translation>
     </message>
   </context>
   <context>
     <name>system/button</name>
     <message>
       <source>Submit</source>
-      <translation type="unfinished"/>
+      <translation>Enviar</translation>
     </message>
     <message>
       <source>All</source>
-      <translation type="unfinished"/>
+      <translation>Tudo</translation>
     </message>
     <message>
       <source>All Teams</source>
-      <translation type="unfinished"/>
+      <translation>Todas as equipas</translation>
     </message>
     <message>
       <source>Load more</source>
-      <translation type="unfinished"/>
+      <translation>Carregar mais</translation>
     </message>
     <message>
       <source>Back</source>
-      <translation type="unfinished"/>
+      <translation>Atrás</translation>
     </message>
     <message>
       <source>Close</source>
-      <translation type="unfinished"/>
+      <translation>Fechar</translation>
     </message>
     <message>
       <source>Update</source>
-      <translation type="unfinished"/>
+      <translation>Atualizar</translation>
     </message>
     <message>
       <source>Reset Password</source>
-      <translation type="unfinished"/>
+      <translation>Restabelecer a palavra-passe</translation>
     </message>
     <message>
       <source>Login</source>
-      <translation type="unfinished"/>
+      <translation>Entrar</translation>
     </message>
     <message>
       <source>Register</source>
-      <translation type="unfinished"/>
+      <translation>Registar</translation>
     </message>
     <message>
       <source>Save</source>
-      <translation type="unfinished"/>
+      <translation>Salvar</translation>
     </message>
     <message>
       <source>Cancel</source>
-      <translation type="unfinished"/>
+      <translation>Cancelar</translation>
     </message>
     <message>
       <source>Update and send test email</source>
-      <translation type="unfinished"/>
+      <translation>Atualizar e enviar email de teste</translation>
     </message>
     <message>
       <source>Edit</source>
-      <translation type="unfinished"/>
+      <translation>Editar</translation>
     </message>
     <message>
       <source>Delete</source>
-      <translation type="unfinished"/>
+      <translation>Apagar</translation>
     </message>
     <message>
       <source>New</source>
-      <translation type="unfinished"/>
+      <translation>Novo</translation>
     </message>
     <message>
       <source>New category</source>
-      <translation type="unfinished"/>
+      <translation>Nova categoria</translation>
     </message>
     <message>
       <source>Edit category</source>
-      <translation type="unfinished"/>
+      <translation>Editar categoria</translation>
     </message>
     <message>
       <source>Remove selected policy</source>
-      <translation type="unfinished"/>
+      <translation>Remover a regra selecionada</translation>
     </message>
     <message>
       <source>Assign function</source>
-      <translation type="unfinished"/>
+      <translation>Atribuir função</translation>
     </message>
     <message>
       <source>Assign</source>
-      <translation type="unfinished"/>
+      <translation>Atribuir</translation>
     </message>
     <message>
       <source>Restore password</source>
-      <translation type="unfinished"/>
+      <translation>Restaurar a palavra-passe</translation>
     </message>
     <message>
       <source>Confirm</source>
-      <translation type="unfinished"/>
+      <translation>Confirmar</translation>
     </message>
     <message>
       <source>Remove user from the group</source>
-      <translation type="unfinished"/>
+      <translation>Retirar o utilizador do grupo</translation>
     </message>
     <message>
       <source>Assign user</source>
-      <translation type="unfinished"/>
+      <translation>Atribuir utilizador</translation>
     </message>
     <message>
       <source>Login as</source>
@@ -1285,7 +1285,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>&#xA3;m</source>
+      <source>£m</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1328,7 +1328,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select a player on the pitch below to become your Vice-Captain. Then click the &#x2018;Save&#x2019; button.</source>
+      <source>Select a player on the pitch below to become your Vice-Captain. Then click the ‘Save’ button.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1364,7 +1364,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select your captain by clicking a player on the pitch below. Then click the &#x2018;Submit&#x2019; button to confirm your choice.</source>
+      <source>Select your captain by clicking a player on the pitch below. Then click the ‘Submit’ button to confirm your choice.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1471,7 +1471,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the &#x2018;All Out Attack&#x2019; boost will double the points for all of your forwards in the stated Gameweek.</source>
+      <source>Unlocking the ‘All Out Attack’ boost will double the points for all of your forwards in the stated Gameweek.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1487,7 +1487,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the &#x2018;Park Bus&#x2019; boost will double the points for all of your defenders in the stated Gameweek</source>
+      <source>Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1599,7 +1599,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>If you have unlocked the &#x2018;Park Bus&#x2019; or &#x2018;All Out Attack&#x2019; boost your Vice-Captain can only score double points (never 4x points)</source>
+      <source>If you have unlocked the ‘Park Bus’ or ‘All Out Attack’ boost your Vice-Captain can only score double points (never 4x points)</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1895,7 +1895,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>&#xA3;</source>
+      <source>£</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2411,11 +2411,11 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend&#x2019;s name</source>
+      <source>Please enter your friend’s name</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend&#x2019;s email</source>
+      <source>Please enter your friend’s email</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5382,7 +5382,7 @@
     <name>system/index</name>
     <message>
       <source>System administration panel</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>
