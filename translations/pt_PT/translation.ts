@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"?>
 <!DOCTYPE TS>
-<TS language="pt_PT">
+<TS>
   <context>
     <name>game/dashboard</name>
     <message>
@@ -20,8 +20,8 @@
       <translation>Valor</translation>
     </message>
     <message>
-      <source>(£m)</source>
-      <translation>(£m)</translation>
+      <source>(&#xA3;m)</source>
+      <translation>(&#xA3;m)</translation>
     </message>
     <message>
       <source>Points</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
       <source>Make transfers</source>
-      <translation>Fazer transferências</translation>
+      <translation>Fazer transfer&#xEA;ncias</translation>
     </message>
     <message>
       <source>Live Match Centre</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
       <source>Latest transfers</source>
-      <translation>Últimas transferências</translation>
+      <translation>&#xDA;ltimas transfer&#xEA;ncias</translation>
     </message>
     <message>
       <source>Sold</source>
@@ -80,8 +80,8 @@
       <translation>Clube</translation>
     </message>
     <message>
-      <source>Value (£M)</source>
-      <translation>Valor (M€)</translation>
+      <source>Value (&#xA3;M)</source>
+      <translation>Valor (M&#x20AC;)</translation>
     </message>
     <message>
       <source>Bought by (%)</source>
@@ -121,7 +121,7 @@
     </message>
     <message>
       <source>Current week leader</source>
-      <translation>Líder da semana atual</translation>
+      <translation>L&#xED;der da semana atual</translation>
     </message>
     <message>
       <source>pts</source>
@@ -137,7 +137,7 @@
     </message>
     <message>
       <source>Latest transfer</source>
-      <translation>Última transferência</translation>
+      <translation>&#xDA;ltima transfer&#xEA;ncia</translation>
     </message>
     <message>
       <source>Games In Play</source>
@@ -149,7 +149,7 @@
     </message>
     <message>
       <source>This week most managers are selling</source>
-      <translation>Esta semana a maioria dos treinadores está a vender</translation>
+      <translation>Esta semana a maioria dos treinadores est&#xE1; a vender</translation>
     </message>
     <message>
       <source>No data</source>
@@ -161,15 +161,15 @@
     </message>
     <message>
       <source>Private league position</source>
-      <translation>Posição na liga privada</translation>
+      <translation>Posi&#xE7;&#xE3;o na liga privada</translation>
     </message>
     <message>
       <source>starts at</source>
-      <translation>começa</translation>
+      <translation>come&#xE7;a</translation>
     </message>
     <message>
       <source>My private league position</source>
-      <translation>Posição da minha liga privada</translation>
+      <translation>Posi&#xE7;&#xE3;o da minha liga privada</translation>
     </message>
     <message>
       <source>User</source>
@@ -209,14 +209,14 @@
     </message>
     <message>
       <source>%Teams</source>
-      <translation>%Equipas</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>View full stats</source>
-      <translation>Ver estatísticas totais</translation>
+      <translation>Ver estat&#xED;sticas totais</translation>
     </message>
     <message>
-      <source>Leaders – this week</source>
+      <source>Leaders &#x2013; this week</source>
       <translation>Lideres - Esta semana</translation>
     </message>
     <message>
@@ -240,11 +240,11 @@
     <name>gameadmin/gameinfo</name>
     <message>
       <source>General game information</source>
-      <translation>Informação geral do jogo</translation>
+      <translation>Informa&#xE7;&#xE3;o geral do jogo</translation>
     </message>
     <message>
       <source>Current week (with display periods)</source>
-      <translation>Semana atual (com períodos referenciados)</translation>
+      <translation>Semana atual (com per&#xED;odos referenciados)</translation>
     </message>
     <message>
       <source>Live week (only start and end dates take effect)</source>
@@ -252,11 +252,11 @@
     </message>
     <message>
       <source>Current or next week (without display periods)</source>
-      <translation>Semana atual ou próxima (sem períodos referenciados)</translation>
+      <translation>Semana atual ou pr&#xF3;xima (sem per&#xED;odos referenciados)</translation>
     </message>
     <message>
       <source>Vice captain week (without display periods)</source>
-      <translation>Semana do vice capitão (sem períodos referenciados)</translation>
+      <translation>Semana do vice capit&#xE3;o (sem per&#xED;odos referenciados)</translation>
     </message>
     <message>
       <source>Can buy extra player</source>
@@ -268,11 +268,11 @@
     </message>
     <message>
       <source>played last match</source>
-      <translation>último jogo terminado</translation>
+      <translation>&#xFA;ltimo jogo terminado</translation>
     </message>
     <message>
       <source>Users cannot buy boost for this week because</source>
-      <translation>Os jogadores não podem comprar "impulso" esta semana porque</translation>
+      <translation>Os jogadores n&#xE3;o podem comprar "impulso" esta semana porque</translation>
     </message>
     <message>
       <source>yes</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
       <source>no, because</source>
-      <translation>não, porque</translation>
+      <translation>n&#xE3;o, porque</translation>
     </message>
     <message>
       <source>12 man cut off date is not set</source>
@@ -288,14 +288,14 @@
     </message>
     <message>
       <source>cut off date is greated than today</source>
-      <translation>a data para retirar é maior que hoje</translation>
+      <translation>a data para retirar &#xE9; maior que hoje</translation>
     </message>
   </context>
   <context>
     <name>admin/pricerange</name>
     <message>
       <source>Price range</source>
-      <translation>Classe de preços</translation>
+      <translation>Classe de pre&#xE7;os</translation>
     </message>
     <message>
       <source>Min</source>
@@ -330,7 +330,7 @@
     </message>
     <message>
       <source>Back</source>
-      <translation>Atrás</translation>
+      <translation>Atr&#xE1;s</translation>
     </message>
     <message>
       <source>Close</source>
@@ -390,7 +390,7 @@
     </message>
     <message>
       <source>Assign function</source>
-      <translation>Atribuir função</translation>
+      <translation>Atribuir fun&#xE7;&#xE3;o</translation>
     </message>
     <message>
       <source>Assign</source>
@@ -1285,7 +1285,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>£m</source>
+      <source>&#xA3;m</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1328,7 +1328,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select a player on the pitch below to become your Vice-Captain. Then click the ‘Save’ button.</source>
+      <source>Select a player on the pitch below to become your Vice-Captain. Then click the &#x2018;Save&#x2019; button.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1364,7 +1364,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select your captain by clicking a player on the pitch below. Then click the ‘Submit’ button to confirm your choice.</source>
+      <source>Select your captain by clicking a player on the pitch below. Then click the &#x2018;Submit&#x2019; button to confirm your choice.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1380,6 +1380,10 @@
     <name>game/boostteam</name>
     <message>
       <source> for Week</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>for Week</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1471,7 +1475,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the ‘All Out Attack’ boost will double the points for all of your forwards in the stated Gameweek.</source>
+      <source>Unlocking the &#x2018;All Out Attack&#x2019; boost will double the points for all of your forwards in the stated Gameweek.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1487,7 +1491,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</source>
+      <source>Unlocking the &#x2018;Park Bus&#x2019; boost will double the points for all of your defenders in the stated Gameweek</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1599,7 +1603,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>If you have unlocked the ‘Park Bus’ or ‘All Out Attack’ boost your Vice-Captain can only score double points (never 4x points)</source>
+      <source>If you have unlocked the &#x2018;Park Bus&#x2019; or &#x2018;All Out Attack&#x2019; boost your Vice-Captain can only score double points (never 4x points)</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1895,7 +1899,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>£</source>
+      <source>&#xA3;</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2411,11 +2415,11 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend’s name</source>
+      <source>Please enter your friend&#x2019;s name</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend’s email</source>
+      <source>Please enter your friend&#x2019;s email</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2775,6 +2779,10 @@
   <context>
     <name>user/login</name>
     <message>
+      <source>No account exists with that email address. </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Login</source>
       <translation type="unfinished"/>
     </message>
@@ -2855,7 +2863,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>No account exists with that email address. </source>
+      <source>No account exists with that email address.</source>
       <translation type="unfinished"/>
     </message>
   </context>
@@ -3965,6 +3973,10 @@
   <context>
     <name>form/contactus</name>
     <message>
+      <source>Nature of query </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Contact Us</source>
       <translation type="unfinished"/>
     </message>
@@ -3977,7 +3989,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Nature of query </source>
+      <source>Nature of query</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4435,6 +4447,18 @@
   <context>
     <name>h2h/createaddusers</name>
     <message>
+      <source>You can not send invitation to yourself </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You can not invite this user </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You can not send an invitation this Gameweek to </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Search Game Users</source>
       <translation type="unfinished"/>
     </message>
@@ -4463,11 +4487,11 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>You can not send invitation to yourself </source>
+      <source>You can not send invitation to yourself</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>You can not invite this user </source>
+      <source>You can not invite this user</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4475,7 +4499,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>You can not send an invitation this Gameweek to </source>
+      <source>You can not send an invitation this Gameweek to</source>
       <translation type="unfinished"/>
     </message>
   </context>
@@ -4900,11 +4924,15 @@
   <context>
     <name>abstract/edit</name>
     <message>
+      <source>Updated and Email send </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Updated</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Updated and Email send </source>
+      <source>Updated and Email send</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5383,6 +5411,69 @@
     <message>
       <source>System administration panel</source>
       <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>angular/translate</name>
+    <message>
+      <source>Enter team name</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Team is not ready</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Full team</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Already assigned</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>list is full</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>No more than 2 players from any one club</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>During match period you can not change captain</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>You can not change vice captain</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Park Bus is active. You can not transfer this player.</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>All Out Attack is active. You can not transfer this player.</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Your team is already complete!</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Too many Goalkeepers on your pitch</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Too many Defenders on your pitch</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Too many Midfielders on your pitch</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Too many Forwards on your pitch</source>
+      <translation type="unfinished"></translation>
     </message>
   </context>
 </TS>

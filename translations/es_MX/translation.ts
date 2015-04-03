@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"?>
 <!DOCTYPE TS>
-<TS language="es_MX">
+<TS>
   <context>
     <name>game/dashboard</name>
     <message>
@@ -13,18 +13,18 @@
     </message>
     <message>
       <source>Pos</source>
-      <translation/>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Player</source>
-      <translation/>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>(£m)</source>
+      <source>(&#xA3;m)</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -84,7 +84,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Value (£M)</source>
+      <source>Value (&#xA3;M)</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -220,7 +220,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Leaders – this week</source>
+      <source>Leaders &#x2013; this week</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1349,7 +1349,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>£m</source>
+      <source>&#xA3;m</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1396,7 +1396,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select a player on the pitch below to become your Vice-Captain. Then click the ‘Save’ button.</source>
+      <source>Select a player on the pitch below to become your Vice-Captain. Then click the &#x2018;Save&#x2019; button.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1432,7 +1432,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select your captain by clicking a player on the pitch below. Then click the ‘Submit’ button to confirm your choice.</source>
+      <source>Select your captain by clicking a player on the pitch below. Then click the &#x2018;Submit&#x2019; button to confirm your choice.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1452,6 +1452,10 @@
     </message>
     <message>
       <source> for Week</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>for Week</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1543,7 +1547,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the ‘All Out Attack’ boost will double the points for all of your forwards in the stated Gameweek.</source>
+      <source>Unlocking the &#x2018;All Out Attack&#x2019; boost will double the points for all of your forwards in the stated Gameweek.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1559,7 +1563,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</source>
+      <source>Unlocking the &#x2018;Park Bus&#x2019; boost will double the points for all of your defenders in the stated Gameweek</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1671,7 +1675,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>If you have unlocked the ‘Park Bus’ or ‘All Out Attack’ boost your Vice-Captain can only score double points (never 4x points)</source>
+      <source>If you have unlocked the &#x2018;Park Bus&#x2019; or &#x2018;All Out Attack&#x2019; boost your Vice-Captain can only score double points (never 4x points)</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2031,7 +2035,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>£</source>
+      <source>&#xA3;</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2571,11 +2575,11 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend’s name</source>
+      <source>Please enter your friend&#x2019;s name</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend’s email</source>
+      <source>Please enter your friend&#x2019;s email</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2935,6 +2939,10 @@
   <context>
     <name>user/login</name>
     <message>
+      <source>No account exists with that email address. </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Login</source>
       <translation type="unfinished"/>
     </message>
@@ -3015,7 +3023,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>No account exists with that email address. </source>
+      <source>No account exists with that email address.</source>
       <translation type="unfinished"/>
     </message>
   </context>
@@ -4125,6 +4133,10 @@
   <context>
     <name>form/contactus</name>
     <message>
+      <source>Nature of query </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Contact Us</source>
       <translation type="unfinished"/>
     </message>
@@ -4137,7 +4149,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Nature of query </source>
+      <source>Nature of query</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4595,6 +4607,18 @@
   <context>
     <name>h2h/createaddusers</name>
     <message>
+      <source>You can not send invitation to yourself </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You can not invite this user </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You can not send an invitation this Gameweek to </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Search Game Users</source>
       <translation type="unfinished"/>
     </message>
@@ -4623,11 +4647,11 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>You can not send invitation to yourself </source>
+      <source>You can not send invitation to yourself</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>You can not invite this user </source>
+      <source>You can not invite this user</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4635,7 +4659,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>You can not send an invitation this Gameweek to </source>
+      <source>You can not send an invitation this Gameweek to</source>
       <translation type="unfinished"/>
     </message>
   </context>
@@ -5060,11 +5084,15 @@
   <context>
     <name>abstract/edit</name>
     <message>
+      <source>Updated and Email send </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Updated</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Updated and Email send </source>
+      <source>Updated and Email send</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5543,6 +5571,69 @@
     <message>
       <source>System administration panel</source>
       <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>angular/translate</name>
+    <message>
+      <source>Enter team name</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Team is not ready</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Full team</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Already assigned</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>list is full</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>No more than 2 players from any one club</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>During match period you can not change captain</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>You can not change vice captain</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Park Bus is active. You can not transfer this player.</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>All Out Attack is active. You can not transfer this player.</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Your team is already complete!</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Too many Goalkeepers on your pitch</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Too many Defenders on your pitch</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Too many Midfielders on your pitch</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Too many Forwards on your pitch</source>
+      <translation type="unfinished"></translation>
     </message>
   </context>
 </TS>
