@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"?>
 <!DOCTYPE TS>
-<TS language="pt_PT">
+<TS>
   <context>
     <name>game/dashboard</name>
     <message>
@@ -20,8 +20,8 @@
       <translation>Valor</translation>
     </message>
     <message>
-      <source>(£m)</source>
-      <translation>(£m)</translation>
+      <source>(&#xA3;m)</source>
+      <translation>(&#xA3;m)</translation>
     </message>
     <message>
       <source>Points</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
       <source>Make transfers</source>
-      <translation>Fazer transferências</translation>
+      <translation>Fazer transfer&#xEA;ncias</translation>
     </message>
     <message>
       <source>Live Match Centre</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
       <source>Latest transfers</source>
-      <translation>Últimas transferências</translation>
+      <translation>&#xDA;ltimas transfer&#xEA;ncias</translation>
     </message>
     <message>
       <source>Sold</source>
@@ -80,8 +80,8 @@
       <translation>Clube</translation>
     </message>
     <message>
-      <source>Value (£M)</source>
-      <translation>Valor (M€)</translation>
+      <source>Value (&#xA3;M)</source>
+      <translation>Valor (M&#x20AC;)</translation>
     </message>
     <message>
       <source>Bought by (%)</source>
@@ -121,7 +121,7 @@
     </message>
     <message>
       <source>Current week leader</source>
-      <translation>Líder da semana atual</translation>
+      <translation>L&#xED;der da semana atual</translation>
     </message>
     <message>
       <source>pts</source>
@@ -137,7 +137,7 @@
     </message>
     <message>
       <source>Latest transfer</source>
-      <translation>Última transferência</translation>
+      <translation>&#xDA;ltima transfer&#xEA;ncia</translation>
     </message>
     <message>
       <source>Games In Play</source>
@@ -149,7 +149,7 @@
     </message>
     <message>
       <source>This week most managers are selling</source>
-      <translation>Esta semana a maioria dos treinadores está a vender</translation>
+      <translation>Esta semana a maioria dos treinadores est&#xE1; a vender</translation>
     </message>
     <message>
       <source>No data</source>
@@ -161,15 +161,15 @@
     </message>
     <message>
       <source>Private league position</source>
-      <translation>Posição na liga privada</translation>
+      <translation>Posi&#xE7;&#xE3;o na liga privada</translation>
     </message>
     <message>
       <source>starts at</source>
-      <translation>começa</translation>
+      <translation>come&#xE7;a</translation>
     </message>
     <message>
       <source>My private league position</source>
-      <translation>Posição da minha liga privada</translation>
+      <translation>Posi&#xE7;&#xE3;o da minha liga privada</translation>
     </message>
     <message>
       <source>User</source>
@@ -213,10 +213,10 @@
     </message>
     <message>
       <source>View full stats</source>
-      <translation>Ver estatísticas totais</translation>
+      <translation>Ver estat&#xED;sticas totais</translation>
     </message>
     <message>
-      <source>Leaders – this week</source>
+      <source>Leaders &#x2013; this week</source>
       <translation>Lideres - Esta semana</translation>
     </message>
     <message>
@@ -240,11 +240,11 @@
     <name>gameadmin/gameinfo</name>
     <message>
       <source>General game information</source>
-      <translation>Informação geral do jogo</translation>
+      <translation>Informa&#xE7;&#xE3;o geral do jogo</translation>
     </message>
     <message>
       <source>Current week (with display periods)</source>
-      <translation>Semana atual (com períodos referenciados)</translation>
+      <translation>Semana atual (com per&#xED;odos referenciados)</translation>
     </message>
     <message>
       <source>Live week (only start and end dates take effect)</source>
@@ -252,11 +252,11 @@
     </message>
     <message>
       <source>Current or next week (without display periods)</source>
-      <translation>Semana atual ou próxima (sem períodos referenciados)</translation>
+      <translation>Semana atual ou pr&#xF3;xima (sem per&#xED;odos referenciados)</translation>
     </message>
     <message>
       <source>Vice captain week (without display periods)</source>
-      <translation>Semana do vice capitão (sem períodos referenciados)</translation>
+      <translation>Semana do vice capit&#xE3;o (sem per&#xED;odos referenciados)</translation>
     </message>
     <message>
       <source>Can buy extra player</source>
@@ -268,11 +268,11 @@
     </message>
     <message>
       <source>played last match</source>
-      <translation>último jogo terminado</translation>
+      <translation>&#xFA;ltimo jogo terminado</translation>
     </message>
     <message>
       <source>Users cannot buy boost for this week because</source>
-      <translation>Os jogadores não podem comprar "impulso" esta semana porque</translation>
+      <translation>Os jogadores n&#xE3;o podem comprar "impulso" esta semana porque</translation>
     </message>
     <message>
       <source>yes</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
       <source>no, because</source>
-      <translation>não, porque</translation>
+      <translation>n&#xE3;o, porque</translation>
     </message>
     <message>
       <source>12 man cut off date is not set</source>
@@ -288,14 +288,14 @@
     </message>
     <message>
       <source>cut off date is greated than today</source>
-      <translation>a data para retirar é maior que hoje</translation>
+      <translation>a data para retirar &#xE9; maior que hoje</translation>
     </message>
   </context>
   <context>
     <name>admin/pricerange</name>
     <message>
       <source>Price range</source>
-      <translation>Classe de preços</translation>
+      <translation>Classe de pre&#xE7;os</translation>
     </message>
     <message>
       <source>Min</source>
@@ -330,7 +330,7 @@
     </message>
     <message>
       <source>Back</source>
-      <translation>Atrás</translation>
+      <translation>Atr&#xE1;s</translation>
     </message>
     <message>
       <source>Close</source>
@@ -390,7 +390,7 @@
     </message>
     <message>
       <source>Assign function</source>
-      <translation>Atribuir função</translation>
+      <translation>Atribuir fun&#xE7;&#xE3;o</translation>
     </message>
     <message>
       <source>Assign</source>
@@ -424,16 +424,20 @@
   <context>
     <name>user/edit</name>
     <message>
-      <source>User time zone</source>
-      <translation>Fuso horário do utilizador</translation>
+      <source>Application default time zone</source>
+      <translation>Fuso hor&#xE1;rio da aplica&#xE7;&#xE3;o</translation>
     </message>
     <message>
-      <source>Application default time zone</source>
-      <translation>Fuso horário da aplicação</translation>
+      <source>User time zone</source>
+      <translation>Fuso hor&#xE1;rio do utilizador</translation>
+    </message>
+    <message>
+      <source>Select</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuração de sistema</translation>
+      <translation>Configura&#xE7;&#xE3;o de sistema</translation>
     </message>
     <message>
       <source>Users</source>
@@ -441,7 +445,7 @@
     </message>
     <message>
       <source>User edit</source>
-      <translation>Edição de utilizador</translation>
+      <translation>Edi&#xE7;&#xE3;o de utilizador</translation>
     </message>
   </context>
   <context>
@@ -532,7 +536,11 @@
     </message>
     <message>
       <source>Birthday</source>
-      <translation>Aniversário</translation>
+      <translation>Anivers&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Time zone</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Club Supported</source>
@@ -548,7 +556,7 @@
     </message>
     <message>
       <source>Receive email with new 12th Man Options</source>
-      <translation>Recebe o email de opções do 12º jogador</translation>
+      <translation>Recebe o email de op&#xE7;&#xF5;es do 12&#xBA; jogador</translation>
     </message>
     <message>
       <source>Opt-out of client emails</source>
@@ -560,7 +568,7 @@
     </message>
     <message>
       <source>I accept the T&amp;C and Privacy Policy</source>
-      <translation>Aceito as Condições de Serviço e Política de Privacidade</translation>
+      <translation>Aceito as Condi&#xE7;&#xF5;es de Servi&#xE7;o e Pol&#xED;tica de Privacidade</translation>
     </message>
     <message>
       <source>Select</source>
@@ -572,15 +580,15 @@
     </message>
     <message>
       <source>Game period</source>
-      <translation>Período de jogo</translation>
+      <translation>Per&#xED;odo de jogo</translation>
     </message>
     <message>
       <source>Period type</source>
-      <translation>Tipo de período</translation>
+      <translation>Tipo de per&#xED;odo</translation>
     </message>
     <message>
       <source>Season</source>
-      <translation>Época</translation>
+      <translation>&#xC9;poca</translation>
     </message>
     <message>
       <source>Private league</source>
@@ -604,7 +612,7 @@
     </message>
     <message>
       <source>Edition</source>
-      <translation>Edição</translation>
+      <translation>Edi&#xE7;&#xE3;o</translation>
     </message>
     <message>
       <source>Team</source>
@@ -640,11 +648,15 @@
     </message>
     <message>
       <source>Email Address</source>
-      <translation>Endereço de E-Mail</translation>
+      <translation>Endere&#xE7;o de E-Mail</translation>
+    </message>
+    <message>
+      <source>dd/mm/yyyy</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Promo code group</source>
-      <translation>Código promocional de grupo</translation>
+      <translation>C&#xF3;digo promocional de grupo</translation>
     </message>
     <message>
       <source>Head-to-Head Emails</source>
@@ -660,11 +672,11 @@
     </message>
     <message>
       <source>Receive pre-gameweek Head-to-head summary</source>
-      <translation>Recebe um sumário semanal dos frente-a-frente a realizar</translation>
+      <translation>Recebe um sum&#xE1;rio semanal dos frente-a-frente a realizar</translation>
     </message>
     <message>
       <source>Receive post-gameweek Head-to-Head summary</source>
-      <translation>Recebe um sumário semanal dos frente-a-frente realizados</translation>
+      <translation>Recebe um sum&#xE1;rio semanal dos frente-a-frente realizados</translation>
     </message>
   </context>
   <context>
@@ -678,19 +690,19 @@
     <name>pagelayout/front</name>
     <message>
       <source>Bonus feature list</source>
-      <translation>Lista de atributos de bónus</translation>
+      <translation>Lista de atributos de b&#xF3;nus</translation>
     </message>
     <message>
       <source>Extra transfer</source>
-      <translation>Transferência extra</translation>
+      <translation>Transfer&#xEA;ncia extra</translation>
     </message>
     <message>
       <source>Vice captain</source>
-      <translation>Vice capitão</translation>
+      <translation>Vice capit&#xE3;o</translation>
     </message>
     <message>
       <source>12th man</source>
-      <translation>12º jogador</translation>
+      <translation>12&#xBA; jogador</translation>
     </message>
     <message>
       <source>Refresh</source>
@@ -706,7 +718,7 @@
     </message>
     <message>
       <source>What is a Team boost ?</source>
-      <translation>O que é um Impulso de Equipa?</translation>
+      <translation>O que &#xE9; um Impulso de Equipa?</translation>
     </message>
     <message>
       <source>Game type feature</source>
@@ -714,7 +726,7 @@
     </message>
     <message>
       <source>H2H series</source>
-      <translation>Série F-a-F</translation>
+      <translation>S&#xE9;rie F-a-F</translation>
     </message>
     <message>
       <source>One - off</source>
@@ -737,7 +749,7 @@
     </message>
     <message>
       <source>Can not download file content</source>
-      <translation>Não é possível receber o conteúdo do ficheiro</translation>
+      <translation>N&#xE3;o &#xE9; poss&#xED;vel receber o conte&#xFA;do do ficheiro</translation>
     </message>
   </context>
   <context>
@@ -751,11 +763,11 @@
     <name>game/matches</name>
     <message>
       <source>No matches at this moment found</source>
-      <translation>Não há jogos neste momento</translation>
+      <translation>N&#xE3;o h&#xE1; jogos neste momento</translation>
     </message>
     <message>
       <source>No results at this moment</source>
-      <translation>Não há resultados neste momento</translation>
+      <translation>N&#xE3;o h&#xE1; resultados neste momento</translation>
     </message>
   </context>
   <context>
@@ -766,7 +778,7 @@
     </message>
     <message>
       <source>Position</source>
-      <translation>Posição</translation>
+      <translation>Posi&#xE7;&#xE3;o</translation>
     </message>
     <message>
       <source>Choose league</source>
@@ -778,7 +790,7 @@
     </message>
     <message>
       <source>Showing stat</source>
-      <translation>Mostra a estatística</translation>
+      <translation>Mostra a estat&#xED;stica</translation>
     </message>
     <message>
       <source>Player list</source>
@@ -790,7 +802,7 @@
     </message>
     <message>
       <source>Price range</source>
-      <translation>Intervalo de preços</translation>
+      <translation>Intervalo de pre&#xE7;os</translation>
     </message>
     <message>
       <source>Save Team</source>
@@ -798,23 +810,23 @@
     </message>
     <message>
       <source>Transfers</source>
-      <translation>Transferências</translation>
+      <translation>Transfer&#xEA;ncias</translation>
     </message>
     <message>
       <source>Make Transfers</source>
-      <translation>Faz transferências</translation>
+      <translation>Faz transfer&#xEA;ncias</translation>
     </message>
     <message>
       <source>Confirm Transfers</source>
-      <translation>Confirma transferências</translation>
+      <translation>Confirma transfer&#xEA;ncias</translation>
     </message>
     <message>
       <source>Before completing your transfers please make sure you are happy with your team captain, before clicking the submit button to confirm your changes.</source>
-      <translation>Antes de finalizares as transferências, verifica que estás satisfeito com o capitão de equipa e clica no botão para confirmar as alterações.</translation>
+      <translation>Antes de finalizares as transfer&#xEA;ncias, verifica que est&#xE1;s satisfeito com o capit&#xE3;o de equipa e clica no bot&#xE3;o para confirmar as altera&#xE7;&#xF5;es.</translation>
     </message>
     <message>
       <source>Select a captain</source>
-      <translation>Seleciona um capitão</translation>
+      <translation>Seleciona um capit&#xE3;o</translation>
     </message>
     <message>
       <source>Submit</source>
@@ -830,18 +842,18 @@
     </message>
     <message>
       <source>Make a transfer</source>
-      <translation>Faz uma transferência</translation>
+      <translation>Faz uma transfer&#xEA;ncia</translation>
     </message>
   </context>
   <context>
     <name>game/notifications</name>
     <message>
       <source>Facebook notifications</source>
-      <translation>Notificações no Facebook</translation>
+      <translation>Notifica&#xE7;&#xF5;es no Facebook</translation>
     </message>
     <message>
       <source>Notifications</source>
-      <translation>Notificações</translation>
+      <translation>Notifica&#xE7;&#xF5;es</translation>
     </message>
     <message>
       <source>Close message</source>
@@ -1285,7 +1297,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>£m</source>
+      <source>&#xA3;m</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1328,7 +1340,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select a player on the pitch below to become your Vice-Captain. Then click the ‘Save’ button.</source>
+      <source>Select a player on the pitch below to become your Vice-Captain. Then click the &#x2018;Save&#x2019; button.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1364,7 +1376,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Select your captain by clicking a player on the pitch below. Then click the ‘Submit’ button to confirm your choice.</source>
+      <source>Select your captain by clicking a player on the pitch below. Then click the &#x2018;Submit&#x2019; button to confirm your choice.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1475,7 +1487,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the ‘All Out Attack’ boost will double the points for all of your forwards in the stated Gameweek.</source>
+      <source>Unlocking the &#x2018;All Out Attack&#x2019; boost will double the points for all of your forwards in the stated Gameweek.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1491,7 +1503,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</source>
+      <source>Unlocking the &#x2018;Park Bus&#x2019; boost will double the points for all of your defenders in the stated Gameweek</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1603,7 +1615,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>If you have unlocked the ‘Park Bus’ or ‘All Out Attack’ boost your Vice-Captain can only score double points (never 4x points)</source>
+      <source>If you have unlocked the &#x2018;Park Bus&#x2019; or &#x2018;All Out Attack&#x2019; boost your Vice-Captain can only score double points (never 4x points)</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1754,6 +1766,14 @@
       <source>Close</source>
       <translation type="unfinished"/>
     </message>
+    <message>
+      <source>Yes</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>No</source>
+      <translation type="unfinished"/>
+    </message>
   </context>
   <context>
     <name>gameajax/12thman</name>
@@ -1899,7 +1919,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>£</source>
+      <source>&#xA3;</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2188,6 +2208,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Update</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Home</source>
       <translation type="unfinished"/>
     </message>
@@ -2415,11 +2439,11 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend’s name</source>
+      <source>Please enter your friend&#x2019;s name</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Please enter your friend’s email</source>
+      <source>Please enter your friend&#x2019;s email</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2736,6 +2760,14 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Choose your time zone</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid time zone</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please accept T&amp;Cs &amp; Privacy Policy</source>
       <translation type="unfinished"/>
     </message>
@@ -2824,6 +2856,10 @@
     </message>
     <message>
       <source>Frontpage</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Oh snap! Something went wrong. We are working on it to already.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -3000,6 +3036,10 @@
     </message>
     <message>
       <source>Empty</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Import check log</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -3905,6 +3945,10 @@
     </message>
     <message>
       <source>Registration</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Register Your Details</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5474,6 +5518,57 @@
     <message>
       <source>Too many Forwards on your pitch</source>
       <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>system/update</name>
+    <message>
+      <source>System update</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Database</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Comparing current structure, please wait...</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Elastic</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Database structure check</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Your database does not require any updates</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Queries which will be executed on update</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Updating...</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Elastic structure check</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Your elastic does not require any updates</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Update information</source>
+      <translation type="unfinished"></translation>
     </message>
   </context>
 </TS>

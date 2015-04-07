@@ -444,11 +444,15 @@
       <translation/>
     </message>
     <message>
+      <source>Application default time zone</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>User time zone</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Application default time zone</source>
+      <source>Select</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -559,6 +563,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Time zone</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Club Supported</source>
       <translation type="unfinished"/>
     </message>
@@ -664,6 +672,10 @@
     </message>
     <message>
       <source>Email Address</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>dd/mm/yyyy</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1858,6 +1870,14 @@
       <source>Close</source>
       <translation type="unfinished"/>
     </message>
+    <message>
+      <source>Yes</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>No</source>
+      <translation type="unfinished"/>
+    </message>
   </context>
   <context>
     <name>gameajax/12thman</name>
@@ -2333,6 +2353,10 @@
     </message>
     <message>
       <source>Clean cache</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Update</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2896,6 +2920,14 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Choose your time zone</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid time zone</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please accept T&amp;Cs &amp; Privacy Policy</source>
       <translation type="unfinished"/>
     </message>
@@ -2984,6 +3016,10 @@
     </message>
     <message>
       <source>Frontpage</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Oh snap! Something went wrong. We are working on it to already.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -3160,6 +3196,10 @@
     </message>
     <message>
       <source>Empty</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Import check log</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4065,6 +4105,10 @@
     </message>
     <message>
       <source>Registration</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Register Your Details</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5577,62 +5621,113 @@
     <name>angular/translate</name>
     <message>
       <source>Enter team name</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Team is not ready</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Full team</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Already assigned</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>list is full</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No more than 2 players from any one club</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>During match period you can not change captain</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>You can not change vice captain</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Park Bus is active. You can not transfer this player.</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>All Out Attack is active. You can not transfer this player.</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Your team is already complete!</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Too many Goalkeepers on your pitch</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Too many Defenders on your pitch</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Too many Midfielders on your pitch</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Too many Forwards on your pitch</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>system/update</name>
+    <message>
+      <source>System update</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Database</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Comparing current structure, please wait...</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Elastic</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Database structure check</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Your database does not require any updates</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Queries which will be executed on update</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Updating...</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Elastic structure check</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Your elastic does not require any updates</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Update information</source>
       <translation type="unfinished"></translation>
     </message>
   </context>
