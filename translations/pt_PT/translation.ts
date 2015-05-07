@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -148,6 +148,10 @@
       <translation>Pontos ao Vivo</translation>
     </message>
     <message>
+      <source>This week most managers are buying</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>This week most managers are selling</source>
       <translation>Esta semana a maioria dos treinadores está a vender</translation>
     </message>
@@ -209,7 +213,7 @@
     </message>
     <message>
       <source>%Teams</source>
-      <translation>%Equipas</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>View full stats</source>
@@ -424,12 +428,16 @@
   <context>
     <name>user/edit</name>
     <message>
+      <source>Application default time zone</source>
+      <translation>Fuso horário da aplicação</translation>
+    </message>
+    <message>
       <source>User time zone</source>
       <translation>Fuso horário do utilizador</translation>
     </message>
     <message>
-      <source>Application default time zone</source>
-      <translation>Fuso horário da aplicação</translation>
+      <source>Select</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>System configuration</source>
@@ -535,6 +543,10 @@
       <translation>Aniversário</translation>
     </message>
     <message>
+      <source>Time zone</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Club Supported</source>
       <translation>Clube favorito</translation>
     </message>
@@ -565,6 +577,10 @@
     <message>
       <source>Select</source>
       <translation>Seleciona</translation>
+    </message>
+    <message>
+      <source>Default</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Select from the list:</source>
@@ -641,6 +657,10 @@
     <message>
       <source>Email Address</source>
       <translation>Endereço de E-Mail</translation>
+    </message>
+    <message>
+      <source>dd/mm/yyyy</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Promo code group</source>
@@ -1377,10 +1397,10 @@
     </message>
   </context>
   <context>
-    <name>game/boostteam</name>   
+    <name>game/boostteam</name>
     <message>
-      <source>for Week</source>
-      <translation>para a semana</translation>
+      <source> for Week</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>My game boosts</source>
@@ -1409,6 +1429,10 @@
     <message>
       <source>Select a boost</source>
       <translation>Seleciona um impulso</translation>
+    </message>
+    <message>
+      <source>for Week</source>
+      <translation>para a semana</translation>
     </message>
     <message>
       <source>Game coins</source>
@@ -1749,6 +1773,14 @@
     <message>
       <source>Close</source>
       <translation>Fechar</translation>
+    </message>
+    <message>
+      <source>Yes</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>No</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -2182,6 +2214,10 @@
     <message>
       <source>Clean cache</source>
       <translation>Limpar a cache</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Home</source>
@@ -2732,6 +2768,10 @@
       <translation>Por favor insere o teu apelido</translation>
     </message>
     <message>
+      <source>Invalid time zone</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please accept T&amp;Cs &amp; Privacy Policy</source>
       <translation>Por favor aceita os T&amp;Cs e a Política de Privacidade</translation>
     </message>
@@ -2766,6 +2806,10 @@
     <message>
       <source>Please enter password</source>
       <translation>Por favor insere a palavra-passe</translation>
+    </message>
+    <message>
+      <source>Choose your time zone</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Please choose a default user group</source>
@@ -2821,6 +2865,10 @@
     <message>
       <source>Frontpage</source>
       <translation>Página principal</translation>
+    </message>
+    <message>
+      <source>Oh snap! Something went wrong. We are working on it to already.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Quick navigation</source>
@@ -2997,6 +3045,10 @@
     <message>
       <source>Empty</source>
       <translation>Limpar</translation>
+    </message>
+    <message>
+      <source>Import check log</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Queue</source>
@@ -3904,6 +3956,10 @@
       <translation>Registo</translation>
     </message>
     <message>
+      <source>Register Your Details</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Register</source>
       <translation>Registar</translation>
     </message>
@@ -4444,7 +4500,7 @@
     <name>h2h/createaddusers</name>
     <message>
       <source>You can not send invitation to yourself</source>
-      <translation>Não podes desafiar-te a ti próprio</translation>
+      <translation>Não podes enviar convites a ti próprio</translation>
     </message>
     <message>
       <source>You can not invite this user</source>
@@ -4452,7 +4508,7 @@
     </message>
     <message>
       <source>You can not send an invitation this Gameweek to</source>
-      <translation>Não podes enviar convite nesta semana de jogos a</translation>
+      <translation>Não podes enviar convites esta semana de jogos a</translation>
     </message>
     <message>
       <source>Search Game Users</source>
@@ -5010,6 +5066,10 @@
       <translation>Insere o número de transferências que queres desbloquear</translation>
     </message>
     <message>
+      <source>The Gameweek limit is</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Extra Gameweek Transfers</source>
       <translation>Transferências Extra da Semana de Jogos</translation>
     </message>
@@ -5470,6 +5530,57 @@
     <message>
       <source>Too many Forwards on your pitch</source>
       <translation>Demasiados Avançados no terreno</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/update</name>
+    <message>
+      <source>System update</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Database</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Comparing current structure, please wait...</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Elastic</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Database structure check</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Your database does not require any updates</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Queries which will be executed on update</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Updating...</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Elastic structure check</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Your elastic does not require any updates</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>Update information</source>
+      <translation type="unfinished"></translation>
     </message>
   </context>
 </TS>

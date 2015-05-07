@@ -152,6 +152,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>This week most managers are buying</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>This week most managers are selling</source>
       <translation type="unfinished"/>
     </message>
@@ -596,6 +600,10 @@
     </message>
     <message>
       <source>Select</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Default</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1467,10 +1475,6 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>for Week</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>My game boosts</source>
       <translation type="unfinished"/>
     </message>
@@ -1496,6 +1500,10 @@
     </message>
     <message>
       <source>Select a boost</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>for Week</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -2920,10 +2928,6 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Choose your time zone</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>Invalid time zone</source>
       <translation type="unfinished"/>
     </message>
@@ -2961,6 +2965,10 @@
     </message>
     <message>
       <source>Please enter password</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Choose your time zone</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5215,6 +5223,10 @@
     </message>
     <message>
       <source>Enter the number of transfers you want to unlock</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>The Gameweek limit is</source>
       <translation type="unfinished"/>
     </message>
     <message>
