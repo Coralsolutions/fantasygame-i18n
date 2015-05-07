@@ -52,6 +52,18 @@
       <translation>Vendido</translation>
     </message>
     <message>
+      <source>My Position (Week)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User</source>
+      <translation>Utilizador</translation>
+    </message>
+    <message>
+      <source>Change</source>
+      <translation>Alterar</translation>
+    </message>
+    <message>
       <source>Games in play</source>
       <translation>Jogos a decorrer</translation>
     </message>
@@ -174,14 +186,6 @@
     <message>
       <source>My private league position</source>
       <translation>Posição da minha liga privada</translation>
-    </message>
-    <message>
-      <source>User</source>
-      <translation>Utilizador</translation>
-    </message>
-    <message>
-      <source>Change</source>
-      <translation>Alterar</translation>
     </message>
     <message>
       <source>Week points</source>
@@ -1651,6 +1655,22 @@
     <message>
       <source>Formation</source>
       <translation>Formação</translation>
+    </message>
+    <message>
+      <source>GK</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>DF</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>MF</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>ST</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Select a team</source>
@@ -5530,6 +5550,10 @@
     <message>
       <source>Too many Forwards on your pitch</source>
       <translation>Demasiados Avançados no terreno</translation>
+    </message>
+    <message>
+      <source>All clubs</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>

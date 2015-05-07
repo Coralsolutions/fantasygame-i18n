@@ -56,6 +56,18 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>My Position (Week)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Change</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Games in play</source>
       <translation type="unfinished"/>
     </message>
@@ -177,14 +189,6 @@
     </message>
     <message>
       <source>My private league position</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>User</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Change</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -1730,6 +1734,22 @@
     </message>
     <message>
       <source>Formation</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>GK</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>DF</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>MF</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>ST</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5689,6 +5709,10 @@
     </message>
     <message>
       <source>Too many Forwards on your pitch</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>All clubs</source>
       <translation type="unfinished"/>
     </message>
   </context>
