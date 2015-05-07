@@ -8,6 +8,10 @@
       <translation/>
     </message>
     <message>
+      <source>%Teams</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>This week leaders</source>
       <translation>This week leaders leaders asd asdasd asasd</translation>
     </message>
@@ -220,7 +224,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>%Teams</source>
+      <source>Teams</source>
       <translation type="unfinished"/>
     </message>
     <message>

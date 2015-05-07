@@ -216,7 +216,7 @@
       <translation>A</translation>
     </message>
     <message>
-      <source>%Teams</source>
+      <source>Teams</source>
       <translation type="unfinished"/>
     </message>
     <message>
