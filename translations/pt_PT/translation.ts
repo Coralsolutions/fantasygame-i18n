@@ -1377,11 +1377,7 @@
     </message>
   </context>
   <context>
-    <name>game/boostteam</name>
-    <message>
-      <source> for Week</source>
-      <translation> para a semana</translation>
-    </message>
+    <name>game/boostteam</name>   
     <message>
       <source>for Week</source>
       <translation>para a semana</translation>
@@ -2779,8 +2775,8 @@
   <context>
     <name>user/login</name>
     <message>
-      <source>No account exists with that email address. </source>
-      <translation>Não existe nenhuma conta com esse endereço de email. </translation>
+      <source>No account exists with that email address.</source>
+      <translation>Não existe nenhuma conta com esse endereço de email.</translation>
     </message>
     <message>
       <source>Login</source>
@@ -3973,8 +3969,8 @@
   <context>
     <name>form/contactus</name>
     <message>
-      <source>Nature of query </source>
-      <translation>Natureza da pergunta </translation>
+      <source>Nature of query</source>
+      <translation>Natureza da pergunta</translation>
     </message>
     <message>
       <source>Contact Us</source>
@@ -4447,16 +4443,16 @@
   <context>
     <name>h2h/createaddusers</name>
     <message>
-      <source>You can not send invitation to yourself </source>
-      <translation>Não podes desafiar-te a ti próprio </translation>
+      <source>You can not send invitation to yourself</source>
+      <translation>Não podes desafiar-te a ti próprio</translation>
     </message>
     <message>
-      <source>You can not invite this user </source>
-      <translation>Não podes convidar este jogador </translation>
+      <source>You can not invite this user</source>
+      <translation>Não podes convidar este jogador</translation>
     </message>
     <message>
-      <source>You can not send an invitation this Gameweek to </source>
-      <translation>Não podes enviar convite nesta semana de jogos a </translation>
+      <source>You can not send an invitation this Gameweek to</source>
+      <translation>Não podes enviar convite nesta semana de jogos a</translation>
     </message>
     <message>
       <source>Search Game Users</source>
@@ -4924,8 +4920,8 @@
   <context>
     <name>abstract/edit</name>
     <message>
-      <source>Updated and Email send </source>
-      <translation>Atualizado e Email enviado </translation>
+      <source>Updated and Email send</source>
+      <translation>Atualizado e Email enviado</translation>
     </message>
     <message>
       <source>Updated</source>
