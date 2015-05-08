@@ -5560,50 +5560,689 @@
     <name>system/update</name>
     <message>
       <source>System update</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Database</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Comparing current structure, please wait...</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Elastic</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Database structure check</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Update</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Your database does not require any updates</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Queries which will be executed on update</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Updating...</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Elastic structure check</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Your elastic does not require any updates</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Update information</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_game_person_stat/name_en_en</name>
+    <message>
+      <source>Goals Conceded </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Sub-Appearances </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Appearances</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Goals Conceded</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Clean Sheets</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Goals</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Assists</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Yellow Cards</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Red Cards</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Week points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Month points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total Points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Popularity</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Starts</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Sub-Appearances</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Subbed Off</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total Minutes Played</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Average Minutes Played</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Last Week Points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Points per game</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Last Month points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Form (Last 5)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Form</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred In (Overall)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred In (Month)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred In (Week)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred Out (Overall)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred Out (Month)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred Out (Week)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Points as starter</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Next Fixture</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_game_person_stat/name_short_en_en</name>
+    <message>
+      <source>App</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>GC</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>CS</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>G</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>A</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>YC</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>RC</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Wk</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Mth</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Tot</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Pop</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Pts</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>£m</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Sta</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>SubOn</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>SubOff</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Mins</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>AvMins</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Prev</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Ppg</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>LastMth</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Last5</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Form</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfIn (Tot)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfIn (Mth)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfIn (Wk)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfOut (Tot)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfOut (Mth)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfOut (Wk)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>PtsAS</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>NF</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_fgame_reward/name_en_en</name>
+    <message>
+      <source>Watch video</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Like!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Follower</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chairman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Referer</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Loyal player</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Tinkerman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Challenger</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Promo Code</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_fgame_reward/description_en_en</name>
+    <message>
+      <source>Earn them by watching a short video or doing the actions listed below:</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Like us on Facebook</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Follow us on twitter</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Create your first Private League</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invite 5 players to join your Private League</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Login 2 or more days per Gameweek (weekly)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Make your first Gameweek transfer or captain change</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Play a head-to-head with a friend (weekly)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Enter promo code</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_joyride/title_en_en</name>
+    <message>
+      <source>Transfers</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>My Team</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game coins</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Boost team</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Head-to-Head</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Private Leagues</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Live Match Centre</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Select A Formation</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Select Your Team</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Autocomplete</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Filtering And Sorting Players</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Give Your Team A Name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Select Your Captain</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_joyride/content_en_en</name>
+    <message>
+      <source>If you want to change some of your players click 'Make Transfers'. You get 2 transfers per week, but can unlock more if you have enough coins!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>This is your team page - here you can see your points and stats for each player in your team.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>These are Game Coins - you earn coins for your activity and also if you watch videos. You can use them to unlock special weekly boosts for your team.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Click 'Boost Team' to unlock extra boosts for your team, using your Game Coins. Boosts help your team get more points and include bonus players, extra transfers a vice-captain and more!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>On the Head-to-Head page you can challenge your friends to individual weekly battles - see who can get the most weekly wins!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>If you want to set-up a Private League for your friends or join a league that a friend has already created, go to the Private Leagues page.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>The Live Match Centre page is a dashboard that updates live with goals and match scores, alongside all the live scores for your team, your players, your Private League performance and your Head-to-Head challenges. All in one place!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>First, select one formation from the list provided. Your choice will be your team's formation. You can change your formation whenever you make changes to your team by clicking this area.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Next, start picking your team by clicking the empty spaces on the pitch and choosing from the players in the list that loads.     Your team can contain no more than two players from any one club and must not exceed the £150m budget.     Remove players you want to replace by clicking the 'x' button next to their name.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>If you don't know who to choose, don't worry!    The 'Autocomplete' button will fill any empty spaces in your team for you with random selections from the list of available players.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>When choosing a player from the list, use these filters and click the column headings to sort the list by important stats such as player points, goals scored, assists, clean sheets etc. You can also search for individual players by name by clicking the &lt;i class="fa fa-search"&gt;&lt;/i&gt; icon.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Use this area to enter your team name.  Your team name can be anything, so you can either be creative or just name it after yourself!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Before confirming your team you must choose one player to be your Captain.      Choose your Captain by clicking your chosen player on the pitch below. Then click 'Submit', which will confirm your team.     Choose your captain wisely - he will score double points for your team!</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_abstract_messages/name_en_en</name>
+    <message>
+      <source>Facebook send pin to wall</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Twitter send pin</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Facebook app request message</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Notification to recipient when chairman sent email promotions</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Notification to league chairman when visitor send request to league</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>H2h notification</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Private league notification when Chairman Approval turned ON</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Notification to h2h inviter who created challenge</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Message from Private League Chairman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Watch video</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Facebook LIke</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Twitter Follow</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Chairman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Loyal Player</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Tinkerman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Challenger</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Promo Code</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>When a user has not used a Team Boost for more than 3 weeks</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Head-to-Head Post weekend Summary</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Friday Reminder to use coins, get team ready for weekend</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>When the new 12th Man options are available for the new Gameweek</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_abstract_messages/msg_en_en</name>
+    <message>
+      <source>My league PIN is: {{pin}} - join my league today! </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You have been accepted into the league: {{league}} </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source> You just earned {{coins}} coins for promo code. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>My league PIN is: {{pin}} - join my league today!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>{{inviter}} invited you to join their Private League</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>{{username}} applied to join your Private League</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>{{from}} has challenged you to a Head-to-Head contest.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You have been accepted into the league: {{league}}</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>{{oponentname}} has accepted your challenge! View your challenge.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Message to {{league}} Members from {{chairmanname}}</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} video coins. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for the Facebook ‘Like’ bonus. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for the Twitter ‘Follow’ bonus. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for creating your first Private League. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for being a loyal player. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for making your first Gameweek transfer or captain change. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for having an active H2H challenge this Gameweek. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for promo code. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Reminder! You can earn more points by unlocking exciting Boosts for your team. Click here to find out more.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You played {{h2hgamecount}} H2H challenges last week. Your results were: W{{numberofwins}}, L{{numberoflosses}}, D{{numberofdraws}}. Click here  to see who you played and how many friends you are beating!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Ready for the weekend? You have {{numberofcoins}} coins to boost your team. Click here to get more!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>This week’s ‘12th Man’ options are – {{surname_players}}. Add one to your team.</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_abstract_messages/caption_en_en</name>
+    <message>
+      <source>Come take a look at my league</source>
+      <translation type="unfinished"></translation>
+    </message>
+    <message>
+      <source>You played {{h2hgamecount}} H2H challenges last week. Click here to see how you performed!</source>
       <translation type="unfinished"></translation>
     </message>
   </context>
