@@ -2934,6 +2934,10 @@
   <context>
     <name>user/account</name>
     <message>
+      <source>Login with facebook</source>
+      <translation>Entrar com o facebook</translation>
+    </message>
+    <message>
       <source>Remove</source>
       <translation>Retirar</translation>
     </message>
@@ -2976,10 +2980,6 @@
     <message>
       <source>Personal Information</source>
       <translation>Informação pessoal</translation>
-    </message>
-    <message>
-      <source>Login with facebook</source>
-      <translation>Entrar com o facebook</translation>
     </message>
     <message>
       <source>Login with Twitter</source>
@@ -5492,6 +5492,10 @@
   <context>
     <name>angular/translate</name>
     <message>
+      <source>No more than 2 players from any one club</source>
+      <translation>Não mais de 3 jogadores de qualquer clube</translation>
+    </message>
+    <message>
       <source>Enter team name</source>
       <translation>Insere o nome da equipa</translation>
     </message>
@@ -5512,8 +5516,12 @@
       <translation>lista completa</translation>
     </message>
     <message>
-      <source>No more than 2 players from any one club</source>
-      <translation>Não mais de 3 jogadores de qualquer clube</translation>
+      <source>No more than</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>players from any one club</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>During match period you can not change captain</source>
@@ -5872,15 +5880,27 @@
   <context>
     <name>lh_fgame_reward/name_en_en</name>
     <message>
-      <source>Watch video</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>Like!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <source>Follower</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Loyal player</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Watch video</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Like us on facebook</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Follow us on twitter</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5892,7 +5912,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Loyal player</source>
+      <source>Loyal players</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5911,15 +5931,23 @@
   <context>
     <name>lh_fgame_reward/description_en_en</name>
     <message>
-      <source>Earn them by watching a short video or doing the actions listed below:</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>Like us on Facebook</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <source>Follow us on twitter</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Login 2 or more days per Gameweek (weekly)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Play a head-to-head with a friend (weekly)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Earn them by watching a short video or doing the actions listed below:</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5931,7 +5959,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Login 2 or more days per Gameweek (weekly)</source>
+      <source>Login more than 2 days per week</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5939,7 +5967,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Play a head-to-head with a friend (weekly)</source>
+      <source>Play a head-to-head with a friend</source>
       <translation type="unfinished"/>
     </message>
     <message>
