@@ -12,6 +12,22 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Games in play</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Live goals</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Live score</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>View Matches</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>This week leaders</source>
       <translation>This week leaders leaders asd asdasd asasd</translation>
     </message>
@@ -69,22 +85,6 @@
     </message>
     <message>
       <source>Change</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Games in play</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Live goals</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Live score</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>View Matches</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -972,6 +972,10 @@
     </message>
     <message>
       <source>Weekly</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Phases</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -3365,6 +3369,18 @@
   <context>
     <name>articleadmin/formarticle</name>
     <message>
+      <source>Please enter article name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter article intro</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter article position</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation type="unfinished"/>
     </message>
@@ -3390,18 +3406,6 @@
     </message>
     <message>
       <source>Hide article</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Please enter article name</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Please enter article intro</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Please enter article position</source>
       <translation type="unfinished"/>
     </message>
   </context>
@@ -3983,6 +3987,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Actions</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Promo code meniu</source>
       <translation type="unfinished"/>
     </message>
@@ -4019,10 +4027,6 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Actions</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>Players points</source>
       <translation type="unfinished"/>
     </message>
@@ -4036,6 +4040,10 @@
     </message>
     <message>
       <source>Import actions</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Update match</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5393,6 +5401,10 @@
     </message>
     <message>
       <source>Current month</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Current phase</source>
       <translation type="unfinished"/>
     </message>
     <message>

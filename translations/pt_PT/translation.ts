@@ -1,8 +1,24 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
     <name>game/dashboard</name>
+    <message>
+      <source>Games in play</source>
+      <translation>Jogos a decorrer</translation>
+    </message>
+    <message>
+      <source>Live goals</source>
+      <translation>Golos</translation>
+    </message>
+    <message>
+      <source>Live score</source>
+      <translation>Resultado</translation>
+    </message>
+    <message>
+      <source>View Matches</source>
+      <translation>Ver jogos</translation>
+    </message>
     <message>
       <source>This week leaders</source>
       <translation>Lideres da Semana</translation>
@@ -62,22 +78,6 @@
     <message>
       <source>Change</source>
       <translation>Alterar</translation>
-    </message>
-    <message>
-      <source>Games in play</source>
-      <translation>Jogos a decorrer</translation>
-    </message>
-    <message>
-      <source>Live goals</source>
-      <translation>Golos</translation>
-    </message>
-    <message>
-      <source>Live score</source>
-      <translation>Resultado</translation>
-    </message>
-    <message>
-      <source>View Matches</source>
-      <translation>Ver jogos</translation>
     </message>
     <message>
       <source>Most Bought Players</source>
@@ -913,6 +913,10 @@
     <message>
       <source>Weekly</source>
       <translation>Semanal</translation>
+    </message>
+    <message>
+      <source>Phases</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Sub-League</source>
@@ -3201,6 +3205,18 @@
   <context>
     <name>articleadmin/formarticle</name>
     <message>
+      <source>Please enter article name</source>
+      <translation>Por favor introduza um nome para o artigo</translation>
+    </message>
+    <message>
+      <source>Please enter article intro</source>
+      <translation>Por favor introduza a introdução para o artigo</translation>
+    </message>
+    <message>
+      <source>Please enter article position</source>
+      <translation>Por favor introduza a posição do artigo</translation>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Nome</translation>
     </message>
@@ -3227,18 +3243,6 @@
     <message>
       <source>Hide article</source>
       <translation>Esconder o artigo</translation>
-    </message>
-    <message>
-      <source>Please enter article name</source>
-      <translation>Por favor introduza um nome para o artigo</translation>
-    </message>
-    <message>
-      <source>Please enter article intro</source>
-      <translation>Por favor introduza a introdução para o artigo</translation>
-    </message>
-    <message>
-      <source>Please enter article position</source>
-      <translation>Por favor introduza a posição do artigo</translation>
     </message>
   </context>
   <context>
@@ -3819,6 +3823,10 @@
       <translation>Informação</translation>
     </message>
     <message>
+      <source>Actions</source>
+      <translation>Ações</translation>
+    </message>
+    <message>
       <source>Promo code meniu</source>
       <translation>Menu de códigos promocionais</translation>
     </message>
@@ -3855,10 +3863,6 @@
       <translation>Equipas iniciais</translation>
     </message>
     <message>
-      <source>Actions</source>
-      <translation>Ações</translation>
-    </message>
-    <message>
       <source>Players points</source>
       <translation>Pontos dos jogadores</translation>
     </message>
@@ -3873,6 +3877,10 @@
     <message>
       <source>Import actions</source>
       <translation>Importar ações</translation>
+    </message>
+    <message>
+      <source>Update match</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>All period matches</source>
@@ -5232,6 +5240,10 @@
       <translation>Mês atual</translation>
     </message>
     <message>
+      <source>Current phase</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Total</source>
       <translation>Total</translation>
     </message>
@@ -6267,11 +6279,11 @@
     <name>lh_abstract_messages/caption_en_en</name>
     <message>
       <source>Come take a look at my league</source>
-      <translation type="unfinished"/>
+      <translation type="unfinished"></translation>
     </message>
     <message>
       <source>You played {{h2hgamecount}} H2H challenges last week. Click here to see how you performed!</source>
-      <translation type="unfinished"/>
+      <translation type="unfinished"></translation>
     </message>
   </context>
 </TS>
