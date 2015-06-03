@@ -722,7 +722,7 @@
     </message>
     <message>
       <source>Park bus</source>
-      <translation>Estacionar o autocarro</translation>
+      <translation>Tudo Ao Defesa</translation>
     </message>
     <message>
       <source>All Out Attack</source>
@@ -1484,7 +1484,7 @@
     </message>
     <message>
       <source>Park Bus</source>
-      <translation>Estacionar o autocarro</translation>
+      <translation>Tudo Ao Defesa</translation>
     </message>
     <message>
       <source>Double all defender points</source>
@@ -1516,7 +1516,7 @@
     </message>
     <message>
       <source>Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</source>
-      <translation>Desbloquear o impulso 'Estacionar o autocarro' duplica os pontos de todos os teus defesas na referida semana de jogos</translation>
+      <translation>Desbloquear o impulso 'Tudo Ao Defesa' duplica os pontos de todos os teus defesas na referida semana de jogos</translation>
     </message>
     <message>
       <source>Once selected, you will not be able to transfer any of your defenders out of your team until the Gameweek (for which the boost has been chosen) is complete.</source>
@@ -1628,7 +1628,7 @@
     </message>
     <message>
       <source>If you have unlocked the ‘Park Bus’ or ‘All Out Attack’ boost your Vice-Captain can only score double points (never 4x points)</source>
-      <translation>Se desbloqueaste o impulso 'Estacionar o autocarro' ou o 'Tudo ao ataque', o teu Vice-Capitão apenas dobra os pontos (nunca 4x)</translation>
+      <translation>Se desbloqueaste o impulso 'Tudo Ao Defesa' ou o 'Tudo ao ataque', o teu Vice-Capitão apenas dobra os pontos (nunca 4x)</translation>
     </message>
     <message>
       <source>Boost your team</source>
@@ -5147,7 +5147,7 @@
     </message>
     <message>
       <source>Park Bus</source>
-      <translation>Estacionar o Autocarro</translation>
+      <translation>Tudo Ao Defesa</translation>
     </message>
     <message>
       <source>This boost will double points for all of your defenders in</source>
@@ -5533,7 +5533,7 @@
     </message>
     <message>
       <source>Park Bus is active. You can not transfer this player.</source>
-      <translation>Estacionar o Autocarro ativo. Não podes transferir este jogador.</translation>
+      <translation>Tudo Ao Defesa ativo. Não podes transferir este jogador.</translation>
     </message>
     <message>
       <source>All Out Attack is active. You can not transfer this player.</source>
