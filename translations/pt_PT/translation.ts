@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -29,7 +29,7 @@
     </message>
     <message>
       <source>Make transfers</source>
-      <translation>Fazer transferências</translation>
+      <translation>Transferências</translation>
     </message>
     <message>
       <source>Live Match Centre</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
       <source>Live goals</source>
-      <translation>Golos ao vivo</translation>
+      <translation>Golos</translation>
     </message>
     <message>
       <source>Live score</source>
@@ -1250,7 +1250,7 @@
     </message>
     <message>
       <source>Make Transfers</source>
-      <translation>Fazer Transferências</translation>
+      <translation>Transferências</translation>
     </message>
     <message>
       <source>APP</source>
@@ -1361,7 +1361,7 @@
     </message>
     <message>
       <source>Gameweek</source>
-      <translation>Semana de jogos</translation>
+      <translation>Semana</translation>
     </message>
     <message>
       <source>which runs from</source>
@@ -1678,7 +1678,7 @@
     </message>
     <message>
       <source>Autocomplete</source>
-      <translation>Escolher automaticamente</translation>
+      <translation>Auto Escolher</translation>
     </message>
     <message>
       <source>Edit your team</source>
@@ -1846,7 +1846,7 @@
     </message>
     <message>
       <source>Gameweek</source>
-      <translation>Semana de jogos</translation>
+      <translation>Semana</translation>
     </message>
     <message>
       <source>View Team</source>
@@ -1910,7 +1910,7 @@
     <name>gameajax/extraplayerhistory</name>
     <message>
       <source>Gameweek</source>
-      <translation>Semana de jogos</translation>
+      <translation>Semana</translation>
     </message>
     <message>
       <source>Player</source>
@@ -4282,7 +4282,7 @@
     </message>
     <message>
       <source>Gameweek limit!</source>
-      <translation>Limite da semana de jogos!</translation>
+      <translation>Limite da semana!</translation>
     </message>
     <message>
       <source>You have earned maximum coins for video views this week</source>
@@ -4419,7 +4419,7 @@
     <name>coinsajax/rewardhistory</name>
     <message>
       <source>Game week not found</source>
-      <translation>Semana de jogos não encontrada</translation>
+      <translation>Semana não encontrada</translation>
     </message>
   </context>
   <context>
@@ -4509,7 +4509,7 @@
     </message>
     <message>
       <source>Challenge Requests: Gameweek</source>
-      <translation>Pedidos de Desafios: Semana de Jogos</translation>
+      <translation>Pedidos de Desafios: Semana</translation>
     </message>
     <message>
       <source>Blocked Users</source>
@@ -5048,7 +5048,7 @@
     </message>
     <message>
       <source>The Gameweek</source>
-      <translation>A Semana de Jogos</translation>
+      <translation>A Semana</translation>
     </message>
     <message>
       <source>deadline for unlocking this boost has passed.</source>
@@ -5107,7 +5107,7 @@
     </message>
     <message>
       <source>to use this Gameweek.</source>
-      <translation>para usar nesta Semana de Jogos.</translation>
+      <translation>para usar nesta Semana.</translation>
     </message>
     <message>
       <source>Please note</source>
@@ -5155,7 +5155,7 @@
     </message>
     <message>
       <source>Gameweek</source>
-      <translation>Semana de Jogos</translation>
+      <translation>Semana</translation>
     </message>
     <message>
       <source>which runs from</source>
@@ -5217,7 +5217,7 @@
     </message>
     <message>
       <source>Gameweek</source>
-      <translation>Semana de Jogos</translation>
+      <translation>Semana</translation>
     </message>
     <message>
       <source>Current week</source>
@@ -6267,11 +6267,11 @@
     <name>lh_abstract_messages/caption_en_en</name>
     <message>
       <source>Come take a look at my league</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>You played {{h2hgamecount}} H2H challenges last week. Click here to see how you performed!</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>
