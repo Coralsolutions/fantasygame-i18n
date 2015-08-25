@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -69,7 +69,7 @@
     </message>
     <message>
       <source>My Position (Week)</source>
-      <translation type="unfinished"/>
+      <translation>A minha posição</translation>
     </message>
     <message>
       <source>User</source>
@@ -217,7 +217,7 @@
     </message>
     <message>
       <source>Teams</source>
-      <translation type="unfinished"/>
+      <translation>Equipas</translation>
     </message>
     <message>
       <source>View full stats</source>
@@ -441,11 +441,11 @@
     </message>
     <message>
       <source>Select</source>
-      <translation type="unfinished"/>
+      <translation>Selecionar</translation>
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuração de sistema</translation>
+      <translation>Configuração do sistema</translation>
     </message>
     <message>
       <source>Users</source>
@@ -544,11 +544,11 @@
     </message>
     <message>
       <source>Birthday</source>
-      <translation>Aniversário</translation>
+      <translation>Data de Nascimento</translation>
     </message>
     <message>
       <source>Time zone</source>
-      <translation type="unfinished"/>
+      <translation>Hora Local</translation>
     </message>
     <message>
       <source>Club Supported</source>
@@ -584,7 +584,7 @@
     </message>
     <message>
       <source>Default</source>
-      <translation type="unfinished"/>
+      <translation>Defeito</translation>
     </message>
     <message>
       <source>Select from the list:</source>
@@ -664,7 +664,7 @@
     </message>
     <message>
       <source>dd/mm/yyyy</source>
-      <translation type="unfinished"/>
+      <translation>dd/mm/aaaa</translation>
     </message>
     <message>
       <source>Promo code group</source>
@@ -680,7 +680,7 @@
     </message>
     <message>
       <source>Receive an email when my opponent accepts my challenge</source>
-      <translation>Recebe um email quando o oponente aceitar o teu desafio</translation>
+      <translation>Recebe um email quando o adversário aceitar o teu desafio</translation>
     </message>
     <message>
       <source>Receive pre-gameweek Head-to-head summary</source>
@@ -688,7 +688,7 @@
     </message>
     <message>
       <source>Receive post-gameweek Head-to-Head summary</source>
-      <translation>Recebe um sumário semanal dos frente-a-frente realizados</translation>
+      <translation>Recebe um relatório semanal dos frente-a-frente realizados</translation>
     </message>
   </context>
   <context>
@@ -718,11 +718,11 @@
     </message>
     <message>
       <source>Refresh</source>
-      <translation>Refrescar</translation>
+      <translation>Atualizar</translation>
     </message>
     <message>
       <source>Park bus</source>
-      <translation>Tudo Ao Defesa</translation>
+      <translation type="unfinished">Tudo Ao Defesa</translation>
     </message>
     <message>
       <source>All Out Attack</source>
@@ -916,7 +916,7 @@
     </message>
     <message>
       <source>Phases</source>
-      <translation type="unfinished"/>
+      <translation>Fases</translation>
     </message>
     <message>
       <source>Sub-League</source>
@@ -1020,7 +1020,7 @@
     </message>
     <message>
       <source>Post PIN to wall</source>
-      <translation>Mostrar PIN na parede</translation>
+      <translation type="unfinished">Mostrar PIN na parede</translation>
     </message>
     <message>
       <source>Facebook</source>
@@ -6279,11 +6279,11 @@
     <name>lh_abstract_messages/caption_en_en</name>
     <message>
       <source>Come take a look at my league</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>You played {{h2hgamecount}} H2H challenges last week. Click here to see how you performed!</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>
