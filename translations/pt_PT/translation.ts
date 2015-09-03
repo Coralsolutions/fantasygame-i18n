@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -704,11 +704,11 @@
     </message>
     <message>
       <source>Sign Messi on loan to get your team through a rough patch. Park the bus to ensure the points. Unlock extra transfers. Take on your friends in weekly Head-To-Head contests.</source>
-      <translation type="unfinished"/>
+      <translation>Requisite o Cristiano Ronaldo e faça a sua equipa ganhar mais pontos. Desbloqueie transferências extras. Desafie os seus amigos para Frente-a-frente semanais.</translation>
     </message>
     <message>
       <source>EngageCraft Fantasy Football is the game you know and love, but improved.</source>
-      <translation type="unfinished"/>
+      <translation>A Liga J é o jogo de futebol estratégico que vai querer jogar.</translation>
     </message>
   </context>
   <context>
@@ -2999,7 +2999,7 @@
     <name>user/registration</name>
     <message>
       <source>Personal information</source>
-      <translation>Dados pessoais</translation>
+      <translation>Informação Pessoal</translation>
     </message>
     <message>
       <source>Social accounts</source>
@@ -3023,7 +3023,7 @@
     </message>
     <message>
       <source>Password</source>
-      <translation>Palavra-passe</translation>
+      <translation>Password</translation>
     </message>
     <message>
       <source>You logged with twitter</source>
@@ -3039,7 +3039,7 @@
     </message>
     <message>
       <source>Register Your Details</source>
-      <translation>Regista os Teus Dados</translation>
+      <translation>Registo</translation>
     </message>
     <message>
       <source>Registration</source>
@@ -3163,7 +3163,7 @@
     </message>
     <message>
       <source>Enter Password</source>
-      <translation>Insere a palavra-chave</translation>
+      <translation>Insire Password</translation>
     </message>
     <message>
       <source>Enter a new password</source>
@@ -3171,23 +3171,23 @@
     </message>
     <message>
       <source>Enter a Password</source>
-      <translation>Insere uma palavra-chave</translation>
+      <translation>Insira uma Password</translation>
     </message>
     <message>
       <source>Confirm Password</source>
-      <translation>Confirma a palavra-chave</translation>
+      <translation>Confirme Password</translation>
     </message>
     <message>
       <source>Enter your new password again</source>
-      <translation>Insere a tua nova palavra-chave novamente</translation>
+      <translation>Insira a sua novo password novamente</translation>
     </message>
     <message>
       <source>Enter your password again</source>
-      <translation>Insere a tua palavra-chave novamente</translation>
+      <translation>Insira a sua password novamente</translation>
     </message>
     <message>
       <source>First name</source>
-      <translation>Primeiro nome</translation>
+      <translation>Nome</translation>
     </message>
     <message>
       <source>Surname</source>
@@ -3199,7 +3199,7 @@
     </message>
     <message>
       <source>Your email address</source>
-      <translation>O teu email</translation>
+      <translation>Insira o seu email</translation>
     </message>
     <message>
       <source>Birthday</source>
@@ -3211,7 +3211,7 @@
     </message>
     <message>
       <source>Club Supported</source>
-      <translation>Clube favorito</translation>
+      <translation>O Seu Clube</translation>
     </message>
     <message>
       <source>Team Boost Emails</source>
@@ -3231,11 +3231,11 @@
     </message>
     <message>
       <source>Opt-in to sponsor emails</source>
-      <translation>Aceitar emails de patrocinador</translation>
+      <translation>Quero receber informações promocionais da Global Media Group e seus parceiros</translation>
     </message>
     <message>
       <source>I accept the T&amp;C and Privacy Policy</source>
-      <translation>Aceito as Condições de Serviço e Política de Privacidade</translation>
+      <translation>Aceito os Termos e Condições</translation>
     </message>
     <message>
       <source>Select</source>
@@ -3438,7 +3438,7 @@
     </message>
     <message>
       <source>Please accept T&amp;Cs &amp; Privacy Policy</source>
-      <translation>Por favor aceita os T&amp;Cs e a Política de Privacidade</translation>
+      <translation>Aceito os Termos e Condições</translation>
     </message>
     <message>
       <source>Please enter your birthday</source>
@@ -3485,7 +3485,7 @@
     <name>game/kernel</name>
     <message>
       <source>Select</source>
-      <translation>Selecione</translation>
+      <translation>Escolha</translation>
     </message>
   </context>
   <context>
