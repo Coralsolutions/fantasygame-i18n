@@ -1,52 +1,729 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
-    <name>game/dashboard</name>
+    <name>lh_game_person_stat/name_en_en</name>
     <message>
-      <source>Games in play</source>
-      <translation>Jogos a decorrer</translation>
+      <source>Goals Conceded </source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>Live goals</source>
-      <translation>Golos</translation>
+      <source>Sub-Appearances </source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>Live score</source>
-      <translation>Resultado</translation>
+      <source>Appearances</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>View Matches</source>
-      <translation>Ver jogos</translation>
+      <source>Goals Conceded</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>This week leaders</source>
-      <translation>Lideres da Semana</translation>
+      <source>Clean Sheets</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>Pos</source>
-      <translation>Pos</translation>
+      <source>Goals</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>Player</source>
-      <translation>Jogador</translation>
+      <source>Assists</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>Value</source>
-      <translation>Valor</translation>
+      <source>Yellow Cards</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>(£m)</source>
-      <translation>(£m)</translation>
+      <source>Red Cards</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Week points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Month points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total Points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Popularity</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Points</source>
-      <translation>Pontos</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>Make transfers</source>
-      <translation>Transferências</translation>
+      <source>Price</source>
+      <translation type="unfinished"/>
     </message>
+    <message>
+      <source>Starts</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Sub-Appearances</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Subbed Off</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total Minutes Played</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Average Minutes Played</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Last Week Points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Points per game</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Last Month points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Form (Last 5)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Form</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred In (Overall)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred In (Month)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred In (Week)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred Out (Overall)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred Out (Month)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transferred Out (Week)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Points as starter</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Next Fixture</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_game_person_stat/name_short_en_en</name>
+    <message>
+      <source>App</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>GC</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>CS</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>G</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>A</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>YC</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>RC</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Wk</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Mth</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Tot</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Pop</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Pts</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>£m</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Sta</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>SubOn</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>SubOff</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Mins</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>AvMins</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Prev</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Ppg</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>LastMth</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Last5</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Form</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfIn (Tot)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfIn (Mth)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfIn (Wk)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfOut (Tot)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfOut (Mth)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>TrfOut (Wk)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>PtsAS</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>NF</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_fgame_reward/name_en_en</name>
+    <message>
+      <source>Watch video</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Like!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Follower</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chairman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Referer</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Loyal player</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Tinkerman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Challenger</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Promo Code</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_fgame_reward/description_en_en</name>
+    <message>
+      <source>Earn them by watching a short video or doing the actions listed below:</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Like us on Facebook</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Follow us on twitter</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Create your first Private League</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invite 5 players to join your Private League</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Login 2 or more days per Gameweek (weekly)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Make your first Gameweek transfer or captain change</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Play a head-to-head with a friend (weekly)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Enter promo code</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_joyride/title_en_en</name>
+    <message>
+      <source>Transfers</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>My Team</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game coins</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Boost team</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Head-to-Head</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Private Leagues</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Live Match Centre</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Select A Formation</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Select Your Team</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Autocomplete</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Filtering And Sorting Players</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Give Your Team A Name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Select Your Captain</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_joyride/content_en_en</name>
+    <message>
+      <source>If you want to change some of your players click 'Make Transfers'. You get 2 transfers per week, but can unlock more if you have enough coins!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>This is your team page - here you can see your points and stats for each player in your team.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>These are Game Coins - you earn coins for your activity and also if you watch videos. You can use them to unlock special weekly boosts for your team.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Click 'Boost Team' to unlock extra boosts for your team, using your Game Coins. Boosts help your team get more points and include bonus players, extra transfers a vice-captain and more!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>On the Head-to-Head page you can challenge your friends to individual weekly battles - see who can get the most weekly wins!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>If you want to set-up a Private League for your friends or join a league that a friend has already created, go to the Private Leagues page.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>The Live Match Centre page is a dashboard that updates live with goals and match scores, alongside all the live scores for your team, your players, your Private League performance and your Head-to-Head challenges. All in one place!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>First, select one formation from the list provided. Your choice will be your team's formation. You can change your formation whenever you make changes to your team by clicking this area.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Next, start picking your team by clicking the empty spaces on the pitch and choosing from the players in the list that loads.     Your team can contain no more than two players from any one club and must not exceed the £150m budget.     Remove players you want to replace by clicking the 'x' button next to their name.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>If you don't know who to choose, don't worry!    The 'Autocomplete' button will fill any empty spaces in your team for you with random selections from the list of available players.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>When choosing a player from the list, use these filters and click the column headings to sort the list by important stats such as player points, goals scored, assists, clean sheets etc. You can also search for individual players by name by clicking the &lt;i class="fa fa-search"&gt;&lt;/i&gt; icon.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Use this area to enter your team name.  Your team name can be anything, so you can either be creative or just name it after yourself!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Before confirming your team you must choose one player to be your Captain.      Choose your Captain by clicking your chosen player on the pitch below. Then click 'Submit', which will confirm your team.     Choose your captain wisely - he will score double points for your team!</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_abstract_messages/name_en_en</name>
+    <message>
+      <source>Facebook send pin to wall</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Twitter send pin</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Facebook app request message</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Notification to recipient when chairman sent email promotions</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Notification to league chairman when visitor send request to league</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>H2h notification</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Private league notification when Chairman Approval turned ON</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Notification to h2h inviter who created challenge</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Message from Private League Chairman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Watch video</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Facebook LIke</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Twitter Follow</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Chairman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Loyal Player</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Tinkerman</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Challenger</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Game Reward - Promo Code</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>When a user has not used a Team Boost for more than 3 weeks</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Head-to-Head Post weekend Summary</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Friday Reminder to use coins, get team ready for weekend</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>When the new 12th Man options are available for the new Gameweek</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_abstract_messages/msg_en_en</name>
+    <message>
+      <source>My league PIN is: {{pin}} - join my league today! </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You have been accepted into the league: {{league}} </source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source> You just earned {{coins}} coins for promo code. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>My league PIN is: {{pin}} - join my league today!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>{{inviter}} invited you to join their Private League</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>{{username}} applied to join your Private League</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>{{from}} has challenged you to a Head-to-Head contest.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You have been accepted into the league: {{league}}</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>{{oponentname}} has accepted your challenge! View your challenge.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Message to {{league}} Members from {{chairmanname}}</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} video coins. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for the Facebook ‘Like’ bonus. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for the Twitter ‘Follow’ bonus. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for creating your first Private League. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for being a loyal player. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for making your first Gameweek transfer or captain change. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for having an active H2H challenge this Gameweek. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You just earned {{coins}} coins for promo code. Click here to use them!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Reminder! You can earn more points by unlocking exciting Boosts for your team. Click here to find out more.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You played {{h2hgamecount}} H2H challenges last week. Your results were: W{{numberofwins}}, L{{numberoflosses}}, D{{numberofdraws}}. Click here  to see who you played and how many friends you are beating!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Ready for the weekend? You have {{numberofcoins}} coins to boost your team. Click here to get more!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>This week’s ‘12th Man’ options are – {{surname_players}}. Add one to your team.</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lh_abstract_messages/caption_en_en</name>
+    <message>
+      <source>Come take a look at my league</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You played {{h2hgamecount}} H2H challenges last week. Click here to see how you performed!</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/front</name>
+    <message>
+      <source>Bonus feature list</source>
+      <translation>Lista de atributos de bónus</translation>
+    </message>
+    <message>
+      <source>Extra transfer</source>
+      <translation>Transferência extra</translation>
+    </message>
+    <message>
+      <source>Vice captain</source>
+      <translation>Vice capitão</translation>
+    </message>
+    <message>
+      <source>12th man</source>
+      <translation>12º jogador</translation>
+    </message>
+    <message>
+      <source>Refresh</source>
+      <translation>Atualizar</translation>
+    </message>
+    <message>
+      <source>Park bus</source>
+      <translation>Tudo Ao Defesa</translation>
+    </message>
+    <message>
+      <source>All Out Attack</source>
+      <translation>Tudo ao ataque</translation>
+    </message>
+    <message>
+      <source>What is a Team boost ?</source>
+      <translation>O que é um Impulso de Equipa?</translation>
+    </message>
+    <message>
+      <source>Game type feature</source>
+      <translation>Atributo de tipo de jogo</translation>
+    </message>
+    <message>
+      <source>H2H series</source>
+      <translation>Série F-a-F</translation>
+    </message>
+    <message>
+      <source>One - off</source>
+      <translation>único</translation>
+    </message>
+    <message>
+      <source>Private league</source>
+      <translation>Liga privada</translation>
+    </message>
+    <message>
+      <source>Fantasy</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Updated</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Responsive design</source>
+      <translation>Desenho funcional</translation>
+    </message>
+    <message>
+      <source>Sign Messi on loan to get your team through a rough patch. Park the bus to ensure the points. Unlock extra transfers. Take on your friends in weekly Head-To-Head contests.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>EngageCraft Fantasy Football is the game you know and love, but improved.</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>kernel/message</name>
+    <message>
+      <source>Alert</source>
+      <translation>Alerta</translation>
+    </message>
+    <message>
+      <source>Can not download file content</source>
+      <translation>Não é possível receber o conteúdo do ficheiro</translation>
+    </message>
+  </context>
+  <context>
+    <name>game/dashboard</name>
     <message>
       <source>Live Match Centre</source>
       <translation>Centro de Jogos ao vivo</translation>
@@ -68,8 +745,16 @@
       <translation>Vendido</translation>
     </message>
     <message>
+      <source>Make transfers</source>
+      <translation>Transferências</translation>
+    </message>
+    <message>
       <source>My Position (Week)</source>
       <translation>A minha posição</translation>
+    </message>
+    <message>
+      <source>Pos</source>
+      <translation>Pos</translation>
     </message>
     <message>
       <source>User</source>
@@ -78,6 +763,26 @@
     <message>
       <source>Change</source>
       <translation>Alterar</translation>
+    </message>
+    <message>
+      <source>Points</source>
+      <translation>Pontos</translation>
+    </message>
+    <message>
+      <source>Games in play</source>
+      <translation>Jogos a decorrer</translation>
+    </message>
+    <message>
+      <source>Live goals</source>
+      <translation>Golos</translation>
+    </message>
+    <message>
+      <source>Live score</source>
+      <translation>Resultado</translation>
+    </message>
+    <message>
+      <source>View Matches</source>
+      <translation>Ver jogos</translation>
     </message>
     <message>
       <source>Most Bought Players</source>
@@ -98,6 +803,10 @@
     <message>
       <source>Bought by (%)</source>
       <translation>Comprado por (%)</translation>
+    </message>
+    <message>
+      <source>Player</source>
+      <translation>Jogador</translation>
     </message>
     <message>
       <source>Bought By(%)</source>
@@ -228,6 +937,14 @@
       <translation>Lideres - Esta semana</translation>
     </message>
     <message>
+      <source>Value</source>
+      <translation>Valor</translation>
+    </message>
+    <message>
+      <source>(£m)</source>
+      <translation>(£m)</translation>
+    </message>
+    <message>
       <source>Global Leaderboard</source>
       <translation>Tabela Global dos Lideres</translation>
     </message>
@@ -242,526 +959,6 @@
     <message>
       <source>Private Superleague</source>
       <translation>Superliga Privada</translation>
-    </message>
-  </context>
-  <context>
-    <name>gameadmin/gameinfo</name>
-    <message>
-      <source>General game information</source>
-      <translation>Informação geral do jogo</translation>
-    </message>
-    <message>
-      <source>Current week (with display periods)</source>
-      <translation>Semana atual (com períodos referenciados)</translation>
-    </message>
-    <message>
-      <source>Live week (only start and end dates take effect)</source>
-      <translation>Semana ao vivo (apenas entre as datas de inicio e fim)</translation>
-    </message>
-    <message>
-      <source>Current or next week (without display periods)</source>
-      <translation>Semana atual ou próxima (sem períodos referenciados)</translation>
-    </message>
-    <message>
-      <source>Vice captain week (without display periods)</source>
-      <translation>Semana do vice capitão (sem períodos referenciados)</translation>
-    </message>
-    <message>
-      <source>Can buy extra player</source>
-      <translation>Podes comprar um jogador extra</translation>
-    </message>
-    <message>
-      <source>played first match</source>
-      <translation>primeiro jogo terminado</translation>
-    </message>
-    <message>
-      <source>played last match</source>
-      <translation>último jogo terminado</translation>
-    </message>
-    <message>
-      <source>Users cannot buy boost for this week because</source>
-      <translation>Os jogadores não podem comprar "impulso" esta semana porque</translation>
-    </message>
-    <message>
-      <source>yes</source>
-      <translation>sim</translation>
-    </message>
-    <message>
-      <source>no, because</source>
-      <translation>não, porque</translation>
-    </message>
-    <message>
-      <source>12 man cut off date is not set</source>
-      <translation>A data do fim do 12º jogador não está definida</translation>
-    </message>
-    <message>
-      <source>cut off date is greated than today</source>
-      <translation>a data para retirar é maior que hoje</translation>
-    </message>
-  </context>
-  <context>
-    <name>admin/pricerange</name>
-    <message>
-      <source>Price range</source>
-      <translation>Classe de preços</translation>
-    </message>
-    <message>
-      <source>Min</source>
-      <translation>Min</translation>
-    </message>
-    <message>
-      <source>Max</source>
-      <translation>Max</translation>
-    </message>
-    <message>
-      <source>Step</source>
-      <translation>Passo</translation>
-    </message>
-  </context>
-  <context>
-    <name>system/button</name>
-    <message>
-      <source>Submit</source>
-      <translation>Enviar</translation>
-    </message>
-    <message>
-      <source>All</source>
-      <translation>Tudo</translation>
-    </message>
-    <message>
-      <source>All Teams</source>
-      <translation>Todas as equipas</translation>
-    </message>
-    <message>
-      <source>Load more</source>
-      <translation>Carregar mais</translation>
-    </message>
-    <message>
-      <source>Back</source>
-      <translation>Atrás</translation>
-    </message>
-    <message>
-      <source>Close</source>
-      <translation>Fechar</translation>
-    </message>
-    <message>
-      <source>Update</source>
-      <translation>Atualizar</translation>
-    </message>
-    <message>
-      <source>Reset Password</source>
-      <translation>Restabelecer a palavra-passe</translation>
-    </message>
-    <message>
-      <source>Login</source>
-      <translation>Entrar</translation>
-    </message>
-    <message>
-      <source>Register</source>
-      <translation>Registar</translation>
-    </message>
-    <message>
-      <source>Save</source>
-      <translation>Salvar</translation>
-    </message>
-    <message>
-      <source>Cancel</source>
-      <translation>Cancelar</translation>
-    </message>
-    <message>
-      <source>Update and send test email</source>
-      <translation>Atualizar e enviar email de teste</translation>
-    </message>
-    <message>
-      <source>Edit</source>
-      <translation>Editar</translation>
-    </message>
-    <message>
-      <source>Delete</source>
-      <translation>Apagar</translation>
-    </message>
-    <message>
-      <source>New</source>
-      <translation>Novo</translation>
-    </message>
-    <message>
-      <source>New category</source>
-      <translation>Nova categoria</translation>
-    </message>
-    <message>
-      <source>Edit category</source>
-      <translation>Editar categoria</translation>
-    </message>
-    <message>
-      <source>Remove selected policy</source>
-      <translation>Remover a regra selecionada</translation>
-    </message>
-    <message>
-      <source>Assign function</source>
-      <translation>Atribuir função</translation>
-    </message>
-    <message>
-      <source>Assign</source>
-      <translation>Atribuir</translation>
-    </message>
-    <message>
-      <source>Restore password</source>
-      <translation>Restaurar a palavra-passe</translation>
-    </message>
-    <message>
-      <source>Confirm</source>
-      <translation>Confirmar</translation>
-    </message>
-    <message>
-      <source>Remove user from the group</source>
-      <translation>Retirar o utilizador do grupo</translation>
-    </message>
-    <message>
-      <source>Assign user</source>
-      <translation>Atribuir utilizador</translation>
-    </message>
-    <message>
-      <source>Login as</source>
-      <translation>Entrar como</translation>
-    </message>
-    <message>
-      <source>Export CSV</source>
-      <translation>Exportar CSV</translation>
-    </message>
-  </context>
-  <context>
-    <name>user/edit</name>
-    <message>
-      <source>Application default time zone</source>
-      <translation>Fuso horário da aplicação</translation>
-    </message>
-    <message>
-      <source>User time zone</source>
-      <translation>Fuso horário do utilizador</translation>
-    </message>
-    <message>
-      <source>Select</source>
-      <translation>Selecionar</translation>
-    </message>
-    <message>
-      <source>System configuration</source>
-      <translation>Configuração do sistema</translation>
-    </message>
-    <message>
-      <source>Users</source>
-      <translation>Utilizadores</translation>
-    </message>
-    <message>
-      <source>User edit</source>
-      <translation>Edição de utilizador</translation>
-    </message>
-  </context>
-  <context>
-    <name>user/form/user</name>
-    <message>
-      <source>Title</source>
-      <translation>Titulo</translation>
-    </message>
-    <message>
-      <source>First name</source>
-      <translation>Primeiro nome</translation>
-    </message>
-    <message>
-      <source>Surname</source>
-      <translation>Apelido</translation>
-    </message>
-    <message>
-      <source>Email</source>
-      <translation>Email</translation>
-    </message>
-    <message>
-      <source>Your email address</source>
-      <translation>O teu email</translation>
-    </message>
-    <message>
-      <source>Password</source>
-      <translation>Palavra-chave</translation>
-    </message>
-    <message>
-      <source>Enter a new password</source>
-      <translation>Introduz a nova palavra-chave</translation>
-    </message>
-    <message>
-      <source>Confirm password</source>
-      <translation>Confirma a palavra-chave</translation>
-    </message>
-    <message>
-      <source>Repeat the new password</source>
-      <translation>Repete a nova palavra-chave</translation>
-    </message>
-    <message>
-      <source>Use my Club Supported shirt icon</source>
-      <translation>Usar o icon da camisola do meu clube</translation>
-    </message>
-    <message>
-      <source>Use my FB profile photo</source>
-      <translation>Usar a foto do perfil do FB</translation>
-    </message>
-    <message>
-      <source>Use my twitter profile photo</source>
-      <translation>Usar a foto do perfil do twitter</translation>
-    </message>
-    <message>
-      <source>Use other avatar</source>
-      <translation>Usar outro avatar</translation>
-    </message>
-    <message>
-      <source>Current Password</source>
-      <translation>Palavra-chave atual</translation>
-    </message>
-    <message>
-      <source>Enter your password</source>
-      <translation>Insere a tua palavra-chave</translation>
-    </message>
-    <message>
-      <source>New Password</source>
-      <translation>Nova palavra-chave</translation>
-    </message>
-    <message>
-      <source>Enter Password</source>
-      <translation>Insere a palavra-chave</translation>
-    </message>
-    <message>
-      <source>Enter a Password</source>
-      <translation>Insere uma palavra-chave</translation>
-    </message>
-    <message>
-      <source>Confirm Password</source>
-      <translation>Confirma a palavra-chave</translation>
-    </message>
-    <message>
-      <source>Enter your new password again</source>
-      <translation>Insere a tua nova palavra-chave novamente</translation>
-    </message>
-    <message>
-      <source>Enter your password again</source>
-      <translation>Insere a tua palavra-chave novamente</translation>
-    </message>
-    <message>
-      <source>Birthday</source>
-      <translation>Data de Nascimento</translation>
-    </message>
-    <message>
-      <source>Time zone</source>
-      <translation>Hora Local</translation>
-    </message>
-    <message>
-      <source>Club Supported</source>
-      <translation>Clube favorito</translation>
-    </message>
-    <message>
-      <source>Team Boost Emails</source>
-      <translation>Email de Impulso da equipa</translation>
-    </message>
-    <message>
-      <source>Receive monthly Game Coins Reminder</source>
-      <translation>Recebe o lembrete mensal de moedas do jogo</translation>
-    </message>
-    <message>
-      <source>Receive email with new 12th Man Options</source>
-      <translation>Recebe o email de opções do 12º jogador</translation>
-    </message>
-    <message>
-      <source>Opt-out of client emails</source>
-      <translation>Inibir emails de cliente</translation>
-    </message>
-    <message>
-      <source>Opt-in to sponsor emails</source>
-      <translation>Aceitar emails de patrocinador</translation>
-    </message>
-    <message>
-      <source>I accept the T&amp;C and Privacy Policy</source>
-      <translation>Aceito as Condições de Serviço e Política de Privacidade</translation>
-    </message>
-    <message>
-      <source>Select</source>
-      <translation>Seleciona</translation>
-    </message>
-    <message>
-      <source>Default</source>
-      <translation>Defeito</translation>
-    </message>
-    <message>
-      <source>Select from the list:</source>
-      <translation>Seleciona da lista:</translation>
-    </message>
-    <message>
-      <source>Game period</source>
-      <translation>Período de jogo</translation>
-    </message>
-    <message>
-      <source>Period type</source>
-      <translation>Tipo de período</translation>
-    </message>
-    <message>
-      <source>Season</source>
-      <translation>Época</translation>
-    </message>
-    <message>
-      <source>Private league</source>
-      <translation>Liga privada</translation>
-    </message>
-    <message>
-      <source>Search</source>
-      <translation>Procura</translation>
-    </message>
-    <message>
-      <source>Person ID</source>
-      <translation>ID pessoal</translation>
-    </message>
-    <message>
-      <source>Sub person ID</source>
-      <translation>Sub-ID pessoal</translation>
-    </message>
-    <message>
-      <source>Match</source>
-      <translation>Jogo</translation>
-    </message>
-    <message>
-      <source>Edition</source>
-      <translation>Edição</translation>
-    </message>
-    <message>
-      <source>Team</source>
-      <translation>Equipa</translation>
-    </message>
-    <message>
-      <source>Confirmed player</source>
-      <translation>Jogador confirmado</translation>
-    </message>
-    <message>
-      <source>Sort</source>
-      <translation>Ordenar</translation>
-    </message>
-    <message>
-      <source>Person name</source>
-      <translation>Nome pessoal</translation>
-    </message>
-    <message>
-      <source>Sub league</source>
-      <translation>Sub liga</translation>
-    </message>
-    <message>
-      <source>User ID</source>
-      <translation>ID de utilizador</translation>
-    </message>
-    <message>
-      <source>User Team ID</source>
-      <translation>ID da equipa do utilizador</translation>
-    </message>
-    <message>
-      <source>E-Mail</source>
-      <translation>E-Mail</translation>
-    </message>
-    <message>
-      <source>Email Address</source>
-      <translation>Endereço de E-Mail</translation>
-    </message>
-    <message>
-      <source>dd/mm/yyyy</source>
-      <translation>dd/mm/aaaa</translation>
-    </message>
-    <message>
-      <source>Promo code group</source>
-      <translation>Código promocional de grupo</translation>
-    </message>
-    <message>
-      <source>Head-to-Head Emails</source>
-      <translation>Emails de frente-a-frente</translation>
-    </message>
-    <message>
-      <source>Receive an email when someone challenges me</source>
-      <translation>Recebe um email quando fores desafiado</translation>
-    </message>
-    <message>
-      <source>Receive an email when my opponent accepts my challenge</source>
-      <translation>Recebe um email quando o adversário aceitar o teu desafio</translation>
-    </message>
-    <message>
-      <source>Receive pre-gameweek Head-to-head summary</source>
-      <translation>Recebe um sumário semanal dos frente-a-frente a realizar</translation>
-    </message>
-    <message>
-      <source>Receive post-gameweek Head-to-Head summary</source>
-      <translation>Recebe um relatório semanal dos frente-a-frente realizados</translation>
-    </message>
-  </context>
-  <context>
-    <name>game/kernel</name>
-    <message>
-      <source>Select</source>
-      <translation>Selecione</translation>
-    </message>
-  </context>
-  <context>
-    <name>pagelayout/front</name>
-    <message>
-      <source>Bonus feature list</source>
-      <translation>Lista de atributos de bónus</translation>
-    </message>
-    <message>
-      <source>Extra transfer</source>
-      <translation>Transferência extra</translation>
-    </message>
-    <message>
-      <source>Vice captain</source>
-      <translation>Vice capitão</translation>
-    </message>
-    <message>
-      <source>12th man</source>
-      <translation>12º jogador</translation>
-    </message>
-    <message>
-      <source>Refresh</source>
-      <translation>Atualizar</translation>
-    </message>
-    <message>
-      <source>Park bus</source>
-      <translation type="unfinished">Tudo Ao Defesa</translation>
-    </message>
-    <message>
-      <source>All Out Attack</source>
-      <translation>Tudo ao ataque</translation>
-    </message>
-    <message>
-      <source>What is a Team boost ?</source>
-      <translation>O que é um Impulso de Equipa?</translation>
-    </message>
-    <message>
-      <source>Game type feature</source>
-      <translation>Atributo de tipo de jogo</translation>
-    </message>
-    <message>
-      <source>H2H series</source>
-      <translation>Série F-a-F</translation>
-    </message>
-    <message>
-      <source>One - off</source>
-      <translation>único</translation>
-    </message>
-    <message>
-      <source>Private league</source>
-      <translation>Liga privada</translation>
-    </message>
-    <message>
-      <source>Responsive design</source>
-      <translation>Desenho funcional</translation>
-    </message>
-  </context>
-  <context>
-    <name>kernel/message</name>
-    <message>
-      <source>Alert</source>
-      <translation>Alerta</translation>
-    </message>
-    <message>
-      <source>Can not download file content</source>
-      <translation>Não é possível receber o conteúdo do ficheiro</translation>
     </message>
   </context>
   <context>
@@ -1020,7 +1217,7 @@
     </message>
     <message>
       <source>Post PIN to wall</source>
-      <translation type="unfinished">Mostrar PIN na parede</translation>
+      <translation>Mostrar PIN na parede</translation>
     </message>
     <message>
       <source>Facebook</source>
@@ -1193,26 +1390,6 @@
       <translation>PTS</translation>
     </message>
     <message>
-      <source>My team</source>
-      <translation>Minha equipa</translation>
-    </message>
-    <message>
-      <source>Transfers</source>
-      <translation>Transferências</translation>
-    </message>
-    <message>
-      <source>Private league</source>
-      <translation>Liga privada</translation>
-    </message>
-    <message>
-      <source>H2H</source>
-      <translation>FaF</translation>
-    </message>
-    <message>
-      <source>Boost team</source>
-      <translation>Impulsionar equipa</translation>
-    </message>
-    <message>
       <source>Load more</source>
       <translation>Carregar mais</translation>
     </message>
@@ -1255,6 +1432,10 @@
     <message>
       <source>Make Transfers</source>
       <translation>Transferências</translation>
+    </message>
+    <message>
+      <source>Boost team</source>
+      <translation>Impulsionar equipa</translation>
     </message>
     <message>
       <source>APP</source>
@@ -1309,6 +1490,22 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>My team</source>
+      <translation>Minha equipa</translation>
+    </message>
+    <message>
+      <source>Transfers</source>
+      <translation>Transferências</translation>
+    </message>
+    <message>
+      <source>Private league</source>
+      <translation>Liga privada</translation>
+    </message>
+    <message>
+      <source>H2H</source>
+      <translation>FaF</translation>
+    </message>
+    <message>
       <source>Live Match Centre</source>
       <translation>Centro de jogos em direto</translation>
     </message>
@@ -1331,6 +1528,140 @@
     <message>
       <source>Budget</source>
       <translation>Orçamento</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/button</name>
+    <message>
+      <source>All</source>
+      <translation>Tudo</translation>
+    </message>
+    <message>
+      <source>All Teams</source>
+      <translation>Todas as equipas</translation>
+    </message>
+    <message>
+      <source>Load more</source>
+      <translation>Carregar mais</translation>
+    </message>
+    <message>
+      <source>Back</source>
+      <translation>Atrás</translation>
+    </message>
+    <message>
+      <source>Close</source>
+      <translation>Fechar</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atualizar</translation>
+    </message>
+    <message>
+      <source>Reset Password</source>
+      <translation>Restabelecer a palavra-passe</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Entrar</translation>
+    </message>
+    <message>
+      <source>OK</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Salvar</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Cancelar</translation>
+    </message>
+    <message>
+      <source>Update and send test email</source>
+      <translation>Atualizar e enviar email de teste</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Editar</translation>
+    </message>
+    <message>
+      <source>Delete</source>
+      <translation>Apagar</translation>
+    </message>
+    <message>
+      <source>New</source>
+      <translation>Novo</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Nova categoria</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Editar categoria</translation>
+    </message>
+    <message>
+      <source>Remove selected policy</source>
+      <translation>Remover a regra selecionada</translation>
+    </message>
+    <message>
+      <source>Assign function</source>
+      <translation>Atribuir função</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atribuir</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation>Restaurar a palavra-passe</translation>
+    </message>
+    <message>
+      <source>Confirm</source>
+      <translation>Confirmar</translation>
+    </message>
+    <message>
+      <source>Remove user from the group</source>
+      <translation>Retirar o utilizador do grupo</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>Atribuir utilizador</translation>
+    </message>
+    <message>
+      <source>Login as</source>
+      <translation>Entrar como</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registar</translation>
+    </message>
+    <message>
+      <source>Export CSV</source>
+      <translation>Exportar CSV</translation>
+    </message>
+  </context>
+  <context>
+    <name>game/topmenu</name>
+    <message>
+      <source>My team</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transfers</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Private league</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>H2H</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Boost team</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -1900,6 +2231,77 @@
     </message>
   </context>
   <context>
+    <name>angular/translate</name>
+    <message>
+      <source>Enter team name</source>
+      <translation>Insere o nome da equipa</translation>
+    </message>
+    <message>
+      <source>Team is not ready</source>
+      <translation>A equipa não está pronta</translation>
+    </message>
+    <message>
+      <source>Full team</source>
+      <translation>Equipa completa</translation>
+    </message>
+    <message>
+      <source>Already assigned</source>
+      <translation>Já atribuído</translation>
+    </message>
+    <message>
+      <source>list is full</source>
+      <translation>lista completa</translation>
+    </message>
+    <message>
+      <source>No more than</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>players from any one club</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>During match period you can not change captain</source>
+      <translation>Durante o período de jogo não podes mudar o capitão</translation>
+    </message>
+    <message>
+      <source>You can not change vice captain</source>
+      <translation>Não podes mudar o vice capitão</translation>
+    </message>
+    <message>
+      <source>Park Bus is active. You can not transfer this player.</source>
+      <translation>Tudo Ao Defesa ativo. Não podes transferir este jogador.</translation>
+    </message>
+    <message>
+      <source>All Out Attack is active. You can not transfer this player.</source>
+      <translation>Todos ao Ataque ativo. Não podes transferir este jogador.</translation>
+    </message>
+    <message>
+      <source>Your team is already complete!</source>
+      <translation>A tua equipa já está completa!</translation>
+    </message>
+    <message>
+      <source>Too many Goalkeepers on your pitch</source>
+      <translation>Demasiados Guarda-redes no terreno</translation>
+    </message>
+    <message>
+      <source>Too many Defenders on your pitch</source>
+      <translation>Demasiados Defesas no terreno</translation>
+    </message>
+    <message>
+      <source>Too many Midfielders on your pitch</source>
+      <translation>Demasiados Meio-campistas no terreno</translation>
+    </message>
+    <message>
+      <source>Too many Forwards on your pitch</source>
+      <translation>Demasiados Avançados no terreno</translation>
+    </message>
+    <message>
+      <source>All clubs</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
     <name>kernel/button</name>
     <message>
       <source>Unlock</source>
@@ -2160,6 +2562,14 @@
       <translation>Próximo</translation>
     </message>
     <message>
+      <source>Matches</source>
+      <translation>Jogos</translation>
+    </message>
+    <message>
+      <source>Players</source>
+      <translation>Jogadores</translation>
+    </message>
+    <message>
       <source>Global Leaderboard</source>
       <translation>Tabela Global dos Lideres</translation>
     </message>
@@ -2176,24 +2586,16 @@
       <translation>Campeonato de Clubes</translation>
     </message>
     <message>
-      <source>Matches</source>
-      <translation>Jogos</translation>
-    </message>
-    <message>
-      <source>Players</source>
-      <translation>Jogadores</translation>
-    </message>
-    <message>
-      <source>Leaderboards</source>
-      <translation>Tabela de lideres</translation>
+      <source>My team</source>
+      <translation>Minha equipa</translation>
     </message>
     <message>
       <source>Statistic</source>
       <translation>Estatística</translation>
     </message>
     <message>
-      <source>My team</source>
-      <translation>Minha equipa</translation>
+      <source>Leaderboards</source>
+      <translation>Tabela de lideres</translation>
     </message>
     <message>
       <source>Lost password</source>
@@ -2726,6 +3128,241 @@
     </message>
   </context>
   <context>
+    <name>user/form/user</name>
+    <message>
+      <source>Use my Club Supported shirt icon</source>
+      <translation>Usar o icon da camisola do meu clube</translation>
+    </message>
+    <message>
+      <source>Use my FB profile photo</source>
+      <translation>Usar a foto do perfil do FB</translation>
+    </message>
+    <message>
+      <source>Use my twitter profile photo</source>
+      <translation>Usar a foto do perfil do twitter</translation>
+    </message>
+    <message>
+      <source>Use other avatar</source>
+      <translation>Usar outro avatar</translation>
+    </message>
+    <message>
+      <source>Current Password</source>
+      <translation>Palavra-chave atual</translation>
+    </message>
+    <message>
+      <source>Enter your password</source>
+      <translation>Insere a tua palavra-chave</translation>
+    </message>
+    <message>
+      <source>New Password</source>
+      <translation>Nova palavra-chave</translation>
+    </message>
+    <message>
+      <source>Enter Password</source>
+      <translation>Insere a palavra-chave</translation>
+    </message>
+    <message>
+      <source>Enter a new password</source>
+      <translation>Introduz a nova palavra-chave</translation>
+    </message>
+    <message>
+      <source>Enter a Password</source>
+      <translation>Insere uma palavra-chave</translation>
+    </message>
+    <message>
+      <source>Confirm Password</source>
+      <translation>Confirma a palavra-chave</translation>
+    </message>
+    <message>
+      <source>Enter your new password again</source>
+      <translation>Insere a tua nova palavra-chave novamente</translation>
+    </message>
+    <message>
+      <source>Enter your password again</source>
+      <translation>Insere a tua palavra-chave novamente</translation>
+    </message>
+    <message>
+      <source>First name</source>
+      <translation>Primeiro nome</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Apelido</translation>
+    </message>
+    <message>
+      <source>Email</source>
+      <translation>Email</translation>
+    </message>
+    <message>
+      <source>Your email address</source>
+      <translation>O teu email</translation>
+    </message>
+    <message>
+      <source>Birthday</source>
+      <translation>Data de Nascimento</translation>
+    </message>
+    <message>
+      <source>Time zone</source>
+      <translation>Hora Local</translation>
+    </message>
+    <message>
+      <source>Club Supported</source>
+      <translation>Clube favorito</translation>
+    </message>
+    <message>
+      <source>Team Boost Emails</source>
+      <translation>Email de Impulso da equipa</translation>
+    </message>
+    <message>
+      <source>Receive monthly Game Coins Reminder</source>
+      <translation>Recebe o lembrete mensal de moedas do jogo</translation>
+    </message>
+    <message>
+      <source>Receive email with new 12th Man Options</source>
+      <translation>Recebe o email de opções do 12º jogador</translation>
+    </message>
+    <message>
+      <source>Opt-out of client emails</source>
+      <translation>Inibir emails de cliente</translation>
+    </message>
+    <message>
+      <source>Opt-in to sponsor emails</source>
+      <translation>Aceitar emails de patrocinador</translation>
+    </message>
+    <message>
+      <source>I accept the T&amp;C and Privacy Policy</source>
+      <translation>Aceito as Condições de Serviço e Política de Privacidade</translation>
+    </message>
+    <message>
+      <source>Select</source>
+      <translation>Seleciona</translation>
+    </message>
+    <message>
+      <source>Default</source>
+      <translation>Defeito</translation>
+    </message>
+    <message>
+      <source>Select from the list:</source>
+      <translation>Seleciona da lista:</translation>
+    </message>
+    <message>
+      <source>Game period</source>
+      <translation>Período de jogo</translation>
+    </message>
+    <message>
+      <source>Period type</source>
+      <translation>Tipo de período</translation>
+    </message>
+    <message>
+      <source>Season</source>
+      <translation>Época</translation>
+    </message>
+    <message>
+      <source>Private league</source>
+      <translation>Liga privada</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Procura</translation>
+    </message>
+    <message>
+      <source>Person ID</source>
+      <translation>ID pessoal</translation>
+    </message>
+    <message>
+      <source>Sub person ID</source>
+      <translation>Sub-ID pessoal</translation>
+    </message>
+    <message>
+      <source>Match</source>
+      <translation>Jogo</translation>
+    </message>
+    <message>
+      <source>Edition</source>
+      <translation>Edição</translation>
+    </message>
+    <message>
+      <source>Team</source>
+      <translation>Equipa</translation>
+    </message>
+    <message>
+      <source>Confirmed player</source>
+      <translation>Jogador confirmado</translation>
+    </message>
+    <message>
+      <source>Sort</source>
+      <translation>Ordenar</translation>
+    </message>
+    <message>
+      <source>Person name</source>
+      <translation>Nome pessoal</translation>
+    </message>
+    <message>
+      <source>Sub league</source>
+      <translation>Sub liga</translation>
+    </message>
+    <message>
+      <source>User ID</source>
+      <translation>ID de utilizador</translation>
+    </message>
+    <message>
+      <source>User Team ID</source>
+      <translation>ID da equipa do utilizador</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titulo</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Palavra-chave</translation>
+    </message>
+    <message>
+      <source>Confirm password</source>
+      <translation>Confirma a palavra-chave</translation>
+    </message>
+    <message>
+      <source>Repeat the new password</source>
+      <translation>Repete a nova palavra-chave</translation>
+    </message>
+    <message>
+      <source>E-Mail</source>
+      <translation>E-Mail</translation>
+    </message>
+    <message>
+      <source>Email Address</source>
+      <translation>Endereço de E-Mail</translation>
+    </message>
+    <message>
+      <source>dd/mm/yyyy</source>
+      <translation>dd/mm/aaaa</translation>
+    </message>
+    <message>
+      <source>Promo code group</source>
+      <translation>Código promocional de grupo</translation>
+    </message>
+    <message>
+      <source>Head-to-Head Emails</source>
+      <translation>Emails de frente-a-frente</translation>
+    </message>
+    <message>
+      <source>Receive an email when someone challenges me</source>
+      <translation>Recebe um email quando fores desafiado</translation>
+    </message>
+    <message>
+      <source>Receive an email when my opponent accepts my challenge</source>
+      <translation>Recebe um email quando o adversário aceitar o teu desafio</translation>
+    </message>
+    <message>
+      <source>Receive pre-gameweek Head-to-head summary</source>
+      <translation>Recebe um sumário semanal dos frente-a-frente a realizar</translation>
+    </message>
+    <message>
+      <source>Receive post-gameweek Head-to-Head summary</source>
+      <translation>Recebe um relatório semanal dos frente-a-frente realizados</translation>
+    </message>
+  </context>
+  <context>
     <name>user/form</name>
     <message>
       <source>Add Password</source>
@@ -2841,11 +3478,14 @@
     </message>
   </context>
   <context>
-    <name>user/login</name>
+    <name>game/kernel</name>
     <message>
-      <source>No account exists with that email address.</source>
-      <translation>Não existe nenhuma conta com esse endereço de email.</translation>
+      <source>Select</source>
+      <translation>Selecione</translation>
     </message>
+  </context>
+  <context>
+    <name>user/login</name>
     <message>
       <source>Login</source>
       <translation>Entrar</translation>
@@ -2938,10 +3578,6 @@
   <context>
     <name>user/account</name>
     <message>
-      <source>Login with facebook</source>
-      <translation>Entrar com o facebook</translation>
-    </message>
-    <message>
       <source>Remove</source>
       <translation>Retirar</translation>
     </message>
@@ -2986,6 +3622,10 @@
       <translation>Informação pessoal</translation>
     </message>
     <message>
+      <source>Login with facebook</source>
+      <translation>Entrar com o facebook</translation>
+    </message>
+    <message>
       <source>Login with Twitter</source>
       <translation>Entrar com o Twitter</translation>
     </message>
@@ -3027,10 +3667,6 @@
     <message>
       <source>Passwords do not match</source>
       <translation>As palavras-passe não são iguais</translation>
-    </message>
-    <message>
-      <source>Password reset. You may now use your new password to login</source>
-      <translation>Palavra-passe reiniciada. Podes agora usar a nova palavra-passe para entrar</translation>
     </message>
     <message>
       <source>User not found</source>
@@ -3205,18 +3841,6 @@
   <context>
     <name>articleadmin/formarticle</name>
     <message>
-      <source>Please enter article name</source>
-      <translation>Por favor introduza um nome para o artigo</translation>
-    </message>
-    <message>
-      <source>Please enter article intro</source>
-      <translation>Por favor introduza a introdução para o artigo</translation>
-    </message>
-    <message>
-      <source>Please enter article position</source>
-      <translation>Por favor introduza a posição do artigo</translation>
-    </message>
-    <message>
       <source>Name</source>
       <translation>Nome</translation>
     </message>
@@ -3243,6 +3867,18 @@
     <message>
       <source>Hide article</source>
       <translation>Esconder o artigo</translation>
+    </message>
+    <message>
+      <source>Please enter article name</source>
+      <translation>Por favor introduza um nome para o artigo</translation>
+    </message>
+    <message>
+      <source>Please enter article intro</source>
+      <translation>Por favor introduza a introdução para o artigo</translation>
+    </message>
+    <message>
+      <source>Please enter article position</source>
+      <translation>Por favor introduza a posição do artigo</translation>
     </message>
   </context>
   <context>
@@ -3601,8 +4237,67 @@
       <translation>Porta</translation>
     </message>
     <message>
+      <source>Time settings</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Time</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Settings updated</source>
       <translation>Configurações atualizadas</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/update</name>
+    <message>
+      <source>System update</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Database</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Comparing current structure, please wait...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Elastic</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Database structure check</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Your database does not require any updates</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Queries which will be executed on update</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Updating...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Elastic structure check</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Your elastic does not require any updates</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Update information</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -3974,15 +4669,14 @@
     </message>
   </context>
   <context>
+    <name>user/social</name>
+    <message>
+      <source>Thanks for registering with your social profile. To confirm your registration, please provide us with the following extra information...</source>
+      <translation>Obrigado por te registares com o teu perfil social. Para confirmar o registo, por favor providencia a seguinte informação extra...</translation>
+    </message>
+  </context>
+  <context>
     <name>user/new</name>
-    <message>
-      <source>If you already have an account you can map it with your social account.</source>
-      <translation>Se já tens uma conta podes juntá-la à tua conta social.</translation>
-    </message>
-    <message>
-      <source>Registration</source>
-      <translation>Registo</translation>
-    </message>
     <message>
       <source>Register Your Details</source>
       <translation type="unfinished"/>
@@ -4009,53 +4703,7 @@
     </message>
   </context>
   <context>
-    <name>user/mapaccounts</name>
-    <message>
-      <source>Is that you?</source>
-      <translation>És mesmo tu?</translation>
-    </message>
-    <message>
-      <source>Link to my account</source>
-      <translation>Link para a minha conta</translation>
-    </message>
-    <message>
-      <source>My profile</source>
-      <translation>O meu perfil</translation>
-    </message>
-    <message>
-      <source>Please enter your login information</source>
-      <translation>Por favor introduz a informação de entrada</translation>
-    </message>
-    <message>
-      <source>Map accounts</source>
-      <translation>Juntar contas</translation>
-    </message>
-    <message>
-      <source>Incorrect login or password</source>
-      <translation>Nome ou palavra-passe incorretos</translation>
-    </message>
-    <message>
-      <source>E-mail</source>
-      <translation>E-mail</translation>
-    </message>
-    <message>
-      <source>Password</source>
-      <translation>Palavra-passe</translation>
-    </message>
-  </context>
-  <context>
-    <name>user/social</name>
-    <message>
-      <source>Thanks for registering with your social profile. To confirm your registration, please provide us with the following extra information...</source>
-      <translation>Obrigado por te registares com o teu perfil social. Para confirmar o registo, por favor providencia a seguinte informação extra...</translation>
-    </message>
-  </context>
-  <context>
     <name>form/contactus</name>
-    <message>
-      <source>Nature of query</source>
-      <translation>Natureza da pergunta</translation>
-    </message>
     <message>
       <source>Contact Us</source>
       <translation>Contacta-nos</translation>
@@ -4115,6 +4763,64 @@
     <message>
       <source>Your message has been sent. You will receive a reply from our team shortly.</source>
       <translation>A tua mensagem foi enviada. Vais receber uma resposta da nossa equipa em breve.</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Please enter nature of query!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter your message!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>contact/form</name>
+    <message>
+      <source>Registration problems</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Login or password</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Team Selection</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Transfers</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Captains</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Points</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Personal Details/Preferences</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Other</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -4221,6 +4927,105 @@
     <message>
       <source>December</source>
       <translation>Dezembro</translation>
+    </message>
+  </context>
+  <context>
+    <name>gameuserteam/validate</name>
+    <message>
+      <source>Could not find active session</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Weekly limit has been reached</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Weekly limit during game week has been reached</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Monthly limit has been reached</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Overall limit has been reached</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a captain!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You cannot change user while he is still your vice captain</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You cannot change player while you have bought an attack or park bus for it</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You cannot change player while he is your team captain</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Could not find a user team player</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Max 1 same player per team</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Player position in this layout does not exists</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Previous player contract was not closed!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Not enough funds</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You have reached same team players limit</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Captain was not found in user team</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You cannot set player as captain while he is your vice captain</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Captain change not allowed</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid week</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Your captain cannot be your vice captain also</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User team player could not be found</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User team does not have this player in his squad</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You can have only one 12 man</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>This player is not available as 12 man in this week</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -4526,18 +5331,6 @@
   </context>
   <context>
     <name>h2h/createaddusers</name>
-    <message>
-      <source>You can not send invitation to yourself</source>
-      <translation>Não podes enviar convites a ti próprio</translation>
-    </message>
-    <message>
-      <source>You can not invite this user</source>
-      <translation>Não podes convidar este jogador</translation>
-    </message>
-    <message>
-      <source>You can not send an invitation this Gameweek to</source>
-      <translation>Não podes enviar convites esta semana de jogos a</translation>
-    </message>
     <message>
       <source>Search Game Users</source>
       <translation>Procura Jogadores</translation>
@@ -5003,10 +5796,6 @@
   </context>
   <context>
     <name>abstract/edit</name>
-    <message>
-      <source>Updated and Email send</source>
-      <translation>Atualizado e Email enviado</translation>
-    </message>
     <message>
       <source>Updated</source>
       <translation>Atualizado</translation>
@@ -5502,788 +6291,25 @@
     </message>
   </context>
   <context>
-    <name>angular/translate</name>
+    <name>system/time</name>
     <message>
-      <source>No more than 2 players from any one club</source>
-      <translation>Não mais de 3 jogadores de qualquer clube</translation>
-    </message>
-    <message>
-      <source>Enter team name</source>
-      <translation>Insere o nome da equipa</translation>
-    </message>
-    <message>
-      <source>Team is not ready</source>
-      <translation>A equipa não está pronta</translation>
-    </message>
-    <message>
-      <source>Full team</source>
-      <translation>Equipa completa</translation>
-    </message>
-    <message>
-      <source>Already assigned</source>
-      <translation>Já atribuído</translation>
-    </message>
-    <message>
-      <source>list is full</source>
-      <translation>lista completa</translation>
-    </message>
-    <message>
-      <source>No more than</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>players from any one club</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>During match period you can not change captain</source>
-      <translation>Durante o período de jogo não podes mudar o capitão</translation>
-    </message>
-    <message>
-      <source>You can not change vice captain</source>
-      <translation>Não podes mudar o vice capitão</translation>
-    </message>
-    <message>
-      <source>Park Bus is active. You can not transfer this player.</source>
-      <translation>Tudo Ao Defesa ativo. Não podes transferir este jogador.</translation>
-    </message>
-    <message>
-      <source>All Out Attack is active. You can not transfer this player.</source>
-      <translation>Todos ao Ataque ativo. Não podes transferir este jogador.</translation>
-    </message>
-    <message>
-      <source>Your team is already complete!</source>
-      <translation>A tua equipa já está completa!</translation>
-    </message>
-    <message>
-      <source>Too many Goalkeepers on your pitch</source>
-      <translation>Demasiados Guarda-redes no terreno</translation>
-    </message>
-    <message>
-      <source>Too many Defenders on your pitch</source>
-      <translation>Demasiados Defesas no terreno</translation>
-    </message>
-    <message>
-      <source>Too many Midfielders on your pitch</source>
-      <translation>Demasiados Meio-campistas no terreno</translation>
-    </message>
-    <message>
-      <source>Too many Forwards on your pitch</source>
-      <translation>Demasiados Avançados no terreno</translation>
-    </message>
-    <message>
-      <source>All clubs</source>
+      <source>Settings updated</source>
       <translation type="unfinished"/>
     </message>
   </context>
   <context>
-    <name>system/update</name>
+    <name>user/edit</name>
     <message>
-      <source>System update</source>
-      <translation type="unfinished"/>
+      <source>System configuration</source>
+      <translation>Configuração do sistema</translation>
     </message>
     <message>
-      <source>Database</source>
-      <translation type="unfinished"/>
+      <source>Users</source>
+      <translation>Utilizadores</translation>
     </message>
     <message>
-      <source>Comparing current structure, please wait...</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Elastic</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Database structure check</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Update</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Your database does not require any updates</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Queries which will be executed on update</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Updating...</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Elastic structure check</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Your elastic does not require any updates</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Update information</source>
-      <translation type="unfinished"/>
-    </message>
-  </context>
-  <context>
-    <name>lh_game_person_stat/name_en_en</name>
-    <message>
-      <source>Goals Conceded </source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Sub-Appearances </source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Appearances</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Goals Conceded</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Clean Sheets</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Goals</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Assists</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Yellow Cards</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Red Cards</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Week points</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Month points</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Total Points</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Popularity</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Points</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Price</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Starts</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Sub-Appearances</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Subbed Off</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Total Minutes Played</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Average Minutes Played</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Last Week Points</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Points per game</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Last Month points</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Form (Last 5)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Form</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Transferred In (Overall)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Transferred In (Month)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Transferred In (Week)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Transferred Out (Overall)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Transferred Out (Month)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Transferred Out (Week)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Points as starter</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Next Fixture</source>
-      <translation type="unfinished"/>
-    </message>
-  </context>
-  <context>
-    <name>lh_game_person_stat/name_short_en_en</name>
-    <message>
-      <source>App</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>GC</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>CS</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>G</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>A</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>YC</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>RC</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Wk</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Mth</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Tot</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Pop</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Pts</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>£m</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Sta</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>SubOn</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>SubOff</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Mins</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>AvMins</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Prev</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Ppg</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>LastMth</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Last5</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Form</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>TrfIn (Tot)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>TrfIn (Mth)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>TrfIn (Wk)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>TrfOut (Tot)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>TrfOut (Mth)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>TrfOut (Wk)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>PtsAS</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>NF</source>
-      <translation type="unfinished"/>
-    </message>
-  </context>
-  <context>
-    <name>lh_fgame_reward/name_en_en</name>
-    <message>
-      <source>Like!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Follower</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Loyal player</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Watch video</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Like us on facebook</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Follow us on twitter</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Chairman</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Referer</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Loyal players</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Tinkerman</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Challenger</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Promo Code</source>
-      <translation type="unfinished"/>
-    </message>
-  </context>
-  <context>
-    <name>lh_fgame_reward/description_en_en</name>
-    <message>
-      <source>Like us on Facebook</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Follow us on twitter</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Login 2 or more days per Gameweek (weekly)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Play a head-to-head with a friend (weekly)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Earn them by watching a short video or doing the actions listed below:</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Create your first Private League</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Invite 5 players to join your Private League</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Login more than 2 days per week</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Make your first Gameweek transfer or captain change</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Play a head-to-head with a friend</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Enter promo code</source>
-      <translation type="unfinished"/>
-    </message>
-  </context>
-  <context>
-    <name>lh_joyride/title_en_en</name>
-    <message>
-      <source>Transfers</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>My Team</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Game coins</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Boost team</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Head-to-Head</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Private Leagues</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Live Match Centre</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Select A Formation</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Select Your Team</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Autocomplete</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Filtering And Sorting Players</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Give Your Team A Name</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Select Your Captain</source>
-      <translation type="unfinished"/>
-    </message>
-  </context>
-  <context>
-    <name>lh_joyride/content_en_en</name>
-    <message>
-      <source>If you want to change some of your players click 'Make Transfers'. You get 2 transfers per week, but can unlock more if you have enough coins!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>This is your team page - here you can see your points and stats for each player in your team.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>These are Game Coins - you earn coins for your activity and also if you watch videos. You can use them to unlock special weekly boosts for your team.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Click 'Boost Team' to unlock extra boosts for your team, using your Game Coins. Boosts help your team get more points and include bonus players, extra transfers a vice-captain and more!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>On the Head-to-Head page you can challenge your friends to individual weekly battles - see who can get the most weekly wins!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>If you want to set-up a Private League for your friends or join a league that a friend has already created, go to the Private Leagues page.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>The Live Match Centre page is a dashboard that updates live with goals and match scores, alongside all the live scores for your team, your players, your Private League performance and your Head-to-Head challenges. All in one place!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>First, select one formation from the list provided. Your choice will be your team's formation. You can change your formation whenever you make changes to your team by clicking this area.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Next, start picking your team by clicking the empty spaces on the pitch and choosing from the players in the list that loads.     Your team can contain no more than two players from any one club and must not exceed the £150m budget.     Remove players you want to replace by clicking the 'x' button next to their name.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>If you don't know who to choose, don't worry!    The 'Autocomplete' button will fill any empty spaces in your team for you with random selections from the list of available players.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>When choosing a player from the list, use these filters and click the column headings to sort the list by important stats such as player points, goals scored, assists, clean sheets etc. You can also search for individual players by name by clicking the &lt;i class="fa fa-search"&gt;&lt;/i&gt; icon.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Use this area to enter your team name.  Your team name can be anything, so you can either be creative or just name it after yourself!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Before confirming your team you must choose one player to be your Captain.      Choose your Captain by clicking your chosen player on the pitch below. Then click 'Submit', which will confirm your team.     Choose your captain wisely - he will score double points for your team!</source>
-      <translation type="unfinished"/>
-    </message>
-  </context>
-  <context>
-    <name>lh_abstract_messages/name_en_en</name>
-    <message>
-      <source>Facebook send pin to wall</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Twitter send pin</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Facebook app request message</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Notification to recipient when chairman sent email promotions</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Notification to league chairman when visitor send request to league</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>H2h notification</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Private league notification when Chairman Approval turned ON</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Notification to h2h inviter who created challenge</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Message from Private League Chairman</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Game Reward - Watch video</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Game Reward - Facebook LIke</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Game Reward - Twitter Follow</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Game Reward - Chairman</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Game Reward - Loyal Player</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Game Reward - Tinkerman</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Game Reward - Challenger</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Game Reward - Promo Code</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>When a user has not used a Team Boost for more than 3 weeks</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Head-to-Head Post weekend Summary</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Friday Reminder to use coins, get team ready for weekend</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>When the new 12th Man options are available for the new Gameweek</source>
-      <translation type="unfinished"/>
-    </message>
-  </context>
-  <context>
-    <name>lh_abstract_messages/msg_en_en</name>
-    <message>
-      <source>My league PIN is: {{pin}} - join my league today! </source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You have been accepted into the league: {{league}} </source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source> You just earned {{coins}} coins for promo code. Click here to use them!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>My league PIN is: {{pin}} - join my league today!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>{{inviter}} invited you to join their Private League</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>{{username}} applied to join your Private League</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>{{from}} has challenged you to a Head-to-Head contest.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You have been accepted into the league: {{league}}</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>{{oponentname}} has accepted your challenge! View your challenge.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Message to {{league}} Members from {{chairmanname}}</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You just earned {{coins}} video coins. Click here to use them!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You just earned {{coins}} coins for the Facebook ‘Like’ bonus. Click here to use them!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You just earned {{coins}} coins for the Twitter ‘Follow’ bonus. Click here to use them!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You just earned {{coins}} coins for creating your first Private League. Click here to use them!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You just earned {{coins}} coins for being a loyal player. Click here to use them!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You just earned {{coins}} coins for making your first Gameweek transfer or captain change. Click here to use them!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You just earned {{coins}} coins for having an active H2H challenge this Gameweek. Click here to use them!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You just earned {{coins}} coins for promo code. Click here to use them!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Reminder! You can earn more points by unlocking exciting Boosts for your team. Click here to find out more.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You played {{h2hgamecount}} H2H challenges last week. Your results were: W{{numberofwins}}, L{{numberoflosses}}, D{{numberofdraws}}. Click here  to see who you played and how many friends you are beating!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Ready for the weekend? You have {{numberofcoins}} coins to boost your team. Click here to get more!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>This week’s ‘12th Man’ options are – {{surname_players}}. Add one to your team.</source>
-      <translation type="unfinished"/>
-    </message>
-  </context>
-  <context>
-    <name>lh_abstract_messages/caption_en_en</name>
-    <message>
-      <source>Come take a look at my league</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>You played {{h2hgamecount}} H2H challenges last week. Click here to see how you performed!</source>
-      <translation type="unfinished"/>
+      <source>User edit</source>
+      <translation>Edição de utilizador</translation>
     </message>
   </context>
 </TS>
