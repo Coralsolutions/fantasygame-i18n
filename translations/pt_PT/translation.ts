@@ -3515,6 +3515,14 @@
       <translation>Esqueci a palavra-passe</translation>
     </message>
     <message>
+      <source>Register</source>
+      <translation>Registar</translation>
+    </message>
+    <message>
+      <source>Don't have an account</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Log in with Facebook</source>
       <translation>Entrar com o Facebook</translation>
     </message>
@@ -3525,10 +3533,6 @@
     <message>
       <source>Log in with Twitter</source>
       <translation>Entrar com o Twitter</translation>
-    </message>
-    <message>
-      <source>Register</source>
-      <translation>Registar</translation>
     </message>
     <message>
       <source>Frontpage</source>
@@ -5379,6 +5383,18 @@
       <source>You can not send an invitation this Gameweek to</source>
       <translation>Não podes enviar convites esta semana de jogos a</translation>
     </message>
+    <message>
+      <source>Please enter your friend's name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter your friend's email address</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter your friend's contacts</source>
+      <translation type="unfinished"/>
+    </message>
   </context>
   <context>
     <name>h2h/createchallenge</name>
@@ -5660,6 +5676,10 @@
     <message>
       <source>Invalid type</source>
       <translation>Tipo inválido</translation>
+    </message>
+    <message>
+      <source>Challenges Sent. Check 'My Challenges' for the status of your challenges!</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -6001,6 +6021,18 @@
     <message>
       <source>Case not found</source>
       <translation>Caso não encontrado</translation>
+    </message>
+    <message>
+      <source>Extra Transfers. Enter a smaller number or unlock the 'Refresh XI' boost'</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>more Extra Transfers available to unlock this Gameweek. The quantity you entered exceeds this number.</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
