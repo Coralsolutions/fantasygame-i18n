@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -725,6 +725,10 @@
   <context>
     <name>game/dashboard</name>
     <message>
+      <source>Value (£M)</source>
+      <translation>Valor (M€)</translation>
+    </message>
+    <message>
       <source>Live Match Centre</source>
       <translation>Centro de Jogos ao vivo</translation>
     </message>
@@ -797,8 +801,8 @@
       <translation>Clube</translation>
     </message>
     <message>
-      <source>Value (£M)</source>
-      <translation>Valor (M€)</translation>
+      <source>Value</source>
+      <translation>Valor</translation>
     </message>
     <message>
       <source>Bought by (%)</source>
@@ -939,10 +943,6 @@
     <message>
       <source>Leaders – this week</source>
       <translation>Lideres - Esta semana</translation>
-    </message>
-    <message>
-      <source>Value</source>
-      <translation>Valor</translation>
     </message>
     <message>
       <source>(£m)</source>
@@ -1354,6 +1354,10 @@
   <context>
     <name>game/myteam</name>
     <message>
+      <source>£m</source>
+      <translation>M€</translation>
+    </message>
+    <message>
       <source>Enter player name</source>
       <translation>Insira o nome do jogador</translation>
     </message>
@@ -1514,8 +1518,8 @@
       <translation>Centro de jogos em direto</translation>
     </message>
     <message>
-      <source>£m</source>
-      <translation>M€</translation>
+      <source>m</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Gc</source>
@@ -2353,12 +2357,12 @@
   <context>
     <name>system/modal</name>
     <message>
-      <source>Price</source>
-      <translation>Preço</translation>
-    </message>
-    <message>
       <source>£</source>
       <translation>€</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Preço</translation>
     </message>
     <message>
       <source>Points</source>
