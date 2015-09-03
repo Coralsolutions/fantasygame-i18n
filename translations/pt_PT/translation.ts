@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -1665,7 +1665,7 @@
     </message>
     <message>
       <source>Boost team</source>
-      <translation>Centro de jogos</translation>
+      <translation>Impulsionar</translation>
     </message>
   </context>
   <context>
