@@ -704,11 +704,11 @@
     </message>
     <message>
       <source>Sign Messi on loan to get your team through a rough patch. Park the bus to ensure the points. Unlock extra transfers. Take on your friends in weekly Head-To-Head contests.</source>
-      <translation type="unfinished"/>
+      <translation>Requisite o Cristiano Ronaldo e faça a sua equipa ganhar mais pontos. Desbloqueie transferências extras. Desafie os seus amigos para Frente-a-frente semanais.</translation>
     </message>
     <message>
       <source>EngageCraft Fantasy Football is the game you know and love, but improved.</source>
-      <translation type="unfinished"/>
+      <translation>A Liga J é o jogo de futebol estratégico que vai querer jogar.</translation>
     </message>
   </context>
   <context>
