@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -1645,23 +1645,23 @@
     <name>game/topmenu</name>
     <message>
       <source>My team</source>
-      <translation type="unfinished"/>
+      <translation>Equipa</translation>
     </message>
     <message>
       <source>Transfers</source>
-      <translation type="unfinished"/>
+      <translation>Transferências</translation>
     </message>
     <message>
       <source>Private league</source>
-      <translation type="unfinished"/>
+      <translation>Ligas</translation>
     </message>
     <message>
       <source>H2H</source>
-      <translation type="unfinished"/>
+      <translation>FAF</translation>
     </message>
     <message>
       <source>Boost team</source>
-      <translation type="unfinished"/>
+      <translation>Centro de jogos</translation>
     </message>
   </context>
   <context>
