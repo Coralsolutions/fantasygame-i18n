@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -879,6 +879,10 @@
     <message>
       <source>No data</source>
       <translation>Sem dados</translation>
+    </message>
+    <message>
+      <source>Position</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>My current top scoring player</source>
