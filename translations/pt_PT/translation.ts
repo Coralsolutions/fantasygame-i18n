@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -950,7 +950,7 @@
     </message>
     <message>
       <source>Global Leaderboard</source>
-      <translation>Tabela Global dos Lideres</translation>
+      <translation>Tabela dos Lideres</translation>
     </message>
     <message>
       <source>Best 3 Weeks</source>
@@ -1109,11 +1109,11 @@
     </message>
     <message>
       <source>Monthly</source>
-      <translation>Mensal</translation>
+      <translation>Mes</translation>
     </message>
     <message>
       <source>Weekly</source>
-      <translation>Semanal</translation>
+      <translation>Semana</translation>
     </message>
     <message>
       <source>Phases</source>
@@ -1173,7 +1173,7 @@
     </message>
     <message>
       <source>Email PIN</source>
-      <translation>Enviar PIN por email</translation>
+      <translation>Enviar PIN</translation>
     </message>
     <message>
       <source>You can not send more than 20 mails</source>
@@ -2001,19 +2001,19 @@
     </message>
     <message>
       <source>GK</source>
-      <translation type="unfinished"/>
+      <translation>GR</translation>
     </message>
     <message>
       <source>DF</source>
-      <translation type="unfinished"/>
+      <translation>DF</translation>
     </message>
     <message>
       <source>MF</source>
-      <translation type="unfinished"/>
+      <translation>MD</translation>
     </message>
     <message>
       <source>ST</source>
-      <translation type="unfinished"/>
+      <translation>AV</translation>
     </message>
     <message>
       <source>Select a team</source>
@@ -2037,7 +2037,7 @@
     </message>
     <message>
       <source>Select Your Team</source>
-      <translation>Escolhe a Tua Equipa</translation>
+      <translation>Escolhe Equipa</translation>
     </message>
     <message>
       <source>Confirm Your Team</source>
@@ -2579,7 +2579,7 @@
     </message>
     <message>
       <source>Global Leaderboard</source>
-      <translation>Tabela Global dos Lideres</translation>
+      <translation>Tabela dos Lideres</translation>
     </message>
     <message>
       <source>Best 3 weeks</source>
@@ -2933,7 +2933,7 @@
     </message>
     <message>
       <source>Email league</source>
-      <translation>Email para a liga</translation>
+      <translation>Email Liga</translation>
     </message>
     <message>
       <source>Delete</source>
@@ -5330,11 +5330,11 @@
     </message>
     <message>
       <source>Pending challenges</source>
-      <translation>Desafios pendentes</translation>
+      <translation>Pendentes</translation>
     </message>
     <message>
       <source>Challenge Requests: Gameweek</source>
-      <translation>Pedidos de Desafios: Semana</translation>
+      <translation>Pedidos</translation>
     </message>
     <message>
       <source>Blocked Users</source>
