@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -1750,6 +1750,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>for Week</source>
+      <translation>para a semana</translation>
+    </message>
+    <message>
       <source>My game boosts</source>
       <translation>Os meu impulsos de jogo</translation>
     </message>
@@ -1778,16 +1782,12 @@
       <translation>Seleciona um impulso</translation>
     </message>
     <message>
-      <source>for Week</source>
-      <translation>para a semana</translation>
+      <source>Get more coins</source>
+      <translation>Consegue mais moedas</translation>
     </message>
     <message>
       <source>Game coins</source>
       <translation>Moedas de jogo</translation>
-    </message>
-    <message>
-      <source>Get more coins</source>
-      <translation>Consegue mais moedas</translation>
     </message>
     <message>
       <source>Extra transfer</source>
@@ -2058,6 +2058,22 @@
     <message>
       <source>Select a captain</source>
       <translation>Escolhe um capitão</translation>
+    </message>
+    <message>
+      <source>Forward</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Defender</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Midfielder</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Keeper</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Select team</source>
@@ -2983,6 +2999,10 @@
   <context>
     <name>privateleague/main</name>
     <message>
+      <source>Join Requests</source>
+      <translation>Pedidos para Entrar</translation>
+    </message>
+    <message>
       <source>Table</source>
       <translation>Tabela</translation>
     </message>
@@ -2993,10 +3013,6 @@
     <message>
       <source>League Options</source>
       <translation>Opções da Liga</translation>
-    </message>
-    <message>
-      <source>Join Requests</source>
-      <translation>Pedidos para Entrar</translation>
     </message>
   </context>
   <context>
@@ -5062,12 +5078,12 @@
   <context>
     <name>coin/earn</name>
     <message>
-      <source>Get more coins</source>
-      <translation>Recebe mais moedas</translation>
-    </message>
-    <message>
       <source>Coin history</source>
       <translation>Histórico de moedas</translation>
+    </message>
+    <message>
+      <source>Get more coins</source>
+      <translation>Recebe mais moedas</translation>
     </message>
     <message>
       <source>Need more coins to get team boosts in the Game Rewards store?</source>
@@ -5524,16 +5540,20 @@
   <context>
     <name>game/main</name>
     <message>
+      <source>Requests</source>
+      <translation>Pedidos</translation>
+    </message>
+    <message>
+      <source>History</source>
+      <translation>Histórico</translation>
+    </message>
+    <message>
       <source>My challenges</source>
       <translation>Os meus desafios</translation>
     </message>
     <message>
       <source>Challenge requests</source>
       <translation>Desafios pedidos</translation>
-    </message>
-    <message>
-      <source>Requests</source>
-      <translation>Pedidos</translation>
     </message>
     <message>
       <source>Set up a challenge</source>
@@ -5546,10 +5566,6 @@
     <message>
       <source>Challenge history</source>
       <translation>Histórico de desafios</translation>
-    </message>
-    <message>
-      <source>History</source>
-      <translation>Histórico</translation>
     </message>
     <message>
       <source>You have no new challenge requests</source>
