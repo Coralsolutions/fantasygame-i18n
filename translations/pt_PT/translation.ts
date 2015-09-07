@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -4518,6 +4518,14 @@
     <message>
       <source>Status</source>
       <translation>Estado</translation>
+    </message>
+    <message>
+      <source>Reload</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Reload selected</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
