@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
@@ -1407,7 +1407,7 @@
     </message>
     <message>
       <source>Gameweek</source>
-      <translation>Semana de jogo</translation>
+      <translation>Jornada</translation>
     </message>
     <message>
       <source>Team budget</source>
@@ -1795,7 +1795,7 @@
     </message>
     <message>
       <source>Extra Gameweek Transfers</source>
-      <translation>Transferências extra da semana de jogo</translation>
+      <translation>Transferências extra da Jornada</translation>
     </message>
     <message>
       <source>Unlock</source>
@@ -1843,7 +1843,7 @@
     </message>
     <message>
       <source>Unlocking the ‘All Out Attack’ boost will double the points for all of your forwards in the stated Gameweek.</source>
-      <translation>Desbloquear o impulso 'Tudo ao ataque' duplica os pontos de todos os teus avançados na referida semana de jogos.</translation>
+      <translation>Desbloquear o impulso 'Tudo ao ataque' duplica os pontos de todos os teus avançados na referida Jornadas.</translation>
     </message>
     <message>
       <source>Important points to note</source>
@@ -1859,7 +1859,7 @@
     </message>
     <message>
       <source>Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</source>
-      <translation>Desbloquear o impulso 'Tudo Ao Defesa' duplica os pontos de todos os teus defesas na referida semana de jogos</translation>
+      <translation>Desbloquear o impulso 'Tudo Ao Defesa' duplica os pontos de todos os teus defesas na referida Jornadas</translation>
     </message>
     <message>
       <source>Once selected, you will not be able to transfer any of your defenders out of your team until the Gameweek (for which the boost has been chosen) is complete.</source>
@@ -1963,7 +1963,7 @@
     </message>
     <message>
       <source>Once selected, your Vice-Captain cannot be transferred out of your team until the Gameweek (for which he has been chosen) is complete.</source>
-      <translation>Depois de escolhido, não conseguirás transferir o teu Vice-Capitão até ao final da semana de jogos (para a qual foi escolhido) estar terminada.</translation>
+      <translation>Depois de escolhido, não conseguirás transferir o teu Vice-Capitão até ao final da Jornadas (para a qual foi escolhido) estar terminada.</translation>
     </message>
     <message>
       <source>Your Vice-Captain cannot be the same player as your Captain</source>
@@ -5397,11 +5397,11 @@
     </message>
     <message>
       <source>You have already challenged this user this Gameweek</source>
-      <translation>Já desafiaste este jogador nesta semana de jogos</translation>
+      <translation>Já desafiaste este jogador nesta Jornadas</translation>
     </message>
     <message>
       <source>You can not send an invitation this Gameweek to</source>
-      <translation>Não podes enviar convites esta semana de jogos a</translation>
+      <translation>Não podes enviar convites esta Jornadas a</translation>
     </message>
     <message>
       <source>Please enter your friend's name</source>
@@ -5920,7 +5920,7 @@
     </message>
     <message>
       <source>The Gameweek deadline for unlocking this boost has passed.</source>
-      <translation>O prazo para desbloquear impulsos desta semana de jogos, já terminou.</translation>
+      <translation>O prazo para desbloquear impulsos desta Jornadas, já terminou.</translation>
     </message>
     <message>
       <source>Enter the number of transfers you want to unlock</source>
@@ -5932,7 +5932,7 @@
     </message>
     <message>
       <source>Extra Gameweek Transfers</source>
-      <translation>Transferências Extra da Semana de Jogos</translation>
+      <translation>Transferências Extra da Jornadas</translation>
     </message>
     <message>
       <source>This boost gives you</source>
@@ -5956,7 +5956,7 @@
     </message>
     <message>
       <source>after the first match of Gameweek</source>
-      <translation>depois do primeiro jogo da Semana de Jogos</translation>
+      <translation>depois do primeiro jogo da Jornadas</translation>
     </message>
     <message>
       <source>on</source>
@@ -5984,7 +5984,7 @@
     </message>
     <message>
       <source>This boost gives you 11 extra transfers to use this Gameweek.</source>
-      <translation>Este impulso dá-te 11 transferências extra para usares nesta Semana de Jogos.</translation>
+      <translation>Este impulso dá-te 11 transferências extra para usares nesta Jornadas.</translation>
     </message>
     <message>
       <source>Park Bus</source>
