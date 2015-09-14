@@ -789,6 +789,10 @@
       <translation>Ver jogos</translation>
     </message>
     <message>
+      <source>NO GAMES IN PLAY</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Most Bought Players</source>
       <translation>Jogadores mais comprados</translation>
     </message>
@@ -3642,6 +3646,10 @@
       <translation>Grupo de jogadores</translation>
     </message>
     <message>
+      <source>System statistic</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Additional user information</source>
       <translation>Informação adicional do jogador</translation>
     </message>
@@ -4222,6 +4230,10 @@
       <translation>Jogadores e a suas permissões</translation>
     </message>
     <message>
+      <source>Statistic</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Users</source>
       <translation>Jogadores</translation>
     </message>
@@ -4576,6 +4588,34 @@
     <message>
       <source>Private league teams</source>
       <translation>Equipas da liga privada</translation>
+    </message>
+    <message>
+      <source>Statistic menu</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Main statistic</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Popularity of each boost - number of users unlocking</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Most popular boost (overall)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total number of users who made a transfer</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total users with minumum 1 active Head to Head</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total users who have unlocked matchday transfer</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Strada edition</source>
@@ -6231,6 +6271,18 @@
   <context>
     <name>gameajax/saveTeam</name>
     <message>
+      <source>Not all players are set correctly or contract is closed</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Player is not in correct position</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Captain is not in players list</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Team name is missing</source>
       <translation>Falta o nome da equipa</translation>
     </message>
@@ -6253,6 +6305,10 @@
     <message>
       <source>Player not set</source>
       <translation>Jogador não definido</translation>
+    </message>
+    <message>
+      <source>No player in this game</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Not all players are set</source>
@@ -6374,6 +6430,10 @@
     <message>
       <source>User edit</source>
       <translation>Edição de utilizador</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation type="unfinished"></translation>
     </message>
   </context>
 </TS>
