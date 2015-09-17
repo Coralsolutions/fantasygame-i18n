@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS language="pt_PT">
   <context>
     <name>lh_game_person_stat/name_en_en</name>
     <message>
       <source>Goals Conceded </source>
-      <translation type="unfinished"/>
+      <translation>Golos Sofridos </translation>
     </message>
     <message>
       <source>Sub-Appearances </source>
@@ -17,7 +17,7 @@
     </message>
     <message>
       <source>Goals Conceded</source>
-      <translation type="unfinished"/>
+      <translation>Golos Sofridos</translation>
     </message>
     <message>
       <source>Clean Sheets</source>
@@ -25,47 +25,47 @@
     </message>
     <message>
       <source>Goals</source>
-      <translation type="unfinished"/>
+      <translation>Golos</translation>
     </message>
     <message>
       <source>Assists</source>
-      <translation type="unfinished"/>
+      <translation>Assistências</translation>
     </message>
     <message>
       <source>Yellow Cards</source>
-      <translation type="unfinished"/>
+      <translation>Cartões Amarelos</translation>
     </message>
     <message>
       <source>Red Cards</source>
-      <translation type="unfinished"/>
+      <translation>Cartões Vermelhos</translation>
     </message>
     <message>
       <source>Week points</source>
-      <translation type="unfinished"/>
+      <translation>Pontuação semanal</translation>
     </message>
     <message>
       <source>Month points</source>
-      <translation type="unfinished"/>
+      <translation>Pontuação Mensal</translation>
     </message>
     <message>
       <source>Total Points</source>
-      <translation type="unfinished"/>
+      <translation>Pontuação Total</translation>
     </message>
     <message>
       <source>Popularity</source>
-      <translation type="unfinished"/>
+      <translation>Popularidade</translation>
     </message>
     <message>
       <source>Points</source>
-      <translation type="unfinished"/>
+      <translation>Pontos</translation>
     </message>
     <message>
       <source>Price</source>
-      <translation type="unfinished"/>
+      <translation>Preço</translation>
     </message>
     <message>
       <source>Starts</source>
-      <translation type="unfinished"/>
+      <translation>Começo</translation>
     </message>
     <message>
       <source>Sub-Appearances</source>
@@ -77,23 +77,23 @@
     </message>
     <message>
       <source>Total Minutes Played</source>
-      <translation type="unfinished"/>
+      <translation>Total de Minutos Jogados</translation>
     </message>
     <message>
       <source>Average Minutes Played</source>
-      <translation type="unfinished"/>
+      <translation>Média de Minutos Jogados</translation>
     </message>
     <message>
       <source>Last Week Points</source>
-      <translation type="unfinished"/>
+      <translation>Pontuação da Última Semana</translation>
     </message>
     <message>
       <source>Points per game</source>
-      <translation type="unfinished"/>
+      <translation>Pontuação por Jogo</translation>
     </message>
     <message>
       <source>Last Month points</source>
-      <translation type="unfinished"/>
+      <translation>Pontuação do Último Mês</translation>
     </message>
     <message>
       <source>Form (Last 5)</source>
@@ -105,31 +105,31 @@
     </message>
     <message>
       <source>Transferred In (Overall)</source>
-      <translation type="unfinished"/>
+      <translation>Aquisições (Totais)</translation>
     </message>
     <message>
       <source>Transferred In (Month)</source>
-      <translation type="unfinished"/>
+      <translation>Aquisições (Mensais)</translation>
     </message>
     <message>
       <source>Transferred In (Week)</source>
-      <translation type="unfinished"/>
+      <translation>Aquisições (Semanais)</translation>
     </message>
     <message>
       <source>Transferred Out (Overall)</source>
-      <translation type="unfinished"/>
+      <translation>Vendas (Totais)</translation>
     </message>
     <message>
       <source>Transferred Out (Month)</source>
-      <translation type="unfinished"/>
+      <translation>Vendas (Mensais)</translation>
     </message>
     <message>
       <source>Transferred Out (Week)</source>
-      <translation type="unfinished"/>
+      <translation>vendas (Semanais)</translation>
     </message>
     <message>
       <source>Points as starter</source>
-      <translation type="unfinished"/>
+      <translation>Pontuação inicial</translation>
     </message>
     <message>
       <source>Next Fixture</source>
@@ -140,7 +140,7 @@
     <name>lh_game_person_stat/name_short_en_en</name>
     <message>
       <source>App</source>
-      <translation type="unfinished"/>
+      <translation>App</translation>
     </message>
     <message>
       <source>GC</source>
@@ -176,7 +176,7 @@
     </message>
     <message>
       <source>Tot</source>
-      <translation type="unfinished"/>
+      <translation>Tot</translation>
     </message>
     <message>
       <source>Pop</source>
@@ -184,11 +184,11 @@
     </message>
     <message>
       <source>Pts</source>
-      <translation type="unfinished"/>
+      <translation>Pts</translation>
     </message>
     <message>
       <source>£m</source>
-      <translation type="unfinished"/>
+      <translation>M€</translation>
     </message>
     <message>
       <source>Sta</source>
@@ -267,19 +267,19 @@
     <name>lh_fgame_reward/name_en_en</name>
     <message>
       <source>Watch video</source>
-      <translation type="unfinished"/>
+      <translation>Ver Videos</translation>
     </message>
     <message>
       <source>Like!</source>
-      <translation type="unfinished"/>
+      <translation>Like!</translation>
     </message>
     <message>
       <source>Follower</source>
-      <translation type="unfinished"/>
+      <translation>Seguir</translation>
     </message>
     <message>
       <source>Chairman</source>
-      <translation type="unfinished"/>
+      <translation>Presidente da Liga</translation>
     </message>
     <message>
       <source>Referer</source>
@@ -287,97 +287,97 @@
     </message>
     <message>
       <source>Loyal player</source>
-      <translation type="unfinished"/>
+      <translation>Jogador Leal</translation>
     </message>
     <message>
       <source>Tinkerman</source>
-      <translation type="unfinished"/>
+      <translation>Mexer na Equipa</translation>
     </message>
     <message>
       <source>Challenger</source>
-      <translation type="unfinished"/>
+      <translation>Desafiar para Frente-a-Frente</translation>
     </message>
     <message>
       <source>Promo Code</source>
-      <translation type="unfinished"/>
+      <translation>Código Promocional</translation>
     </message>
   </context>
   <context>
     <name>lh_fgame_reward/description_en_en</name>
     <message>
       <source>Earn them by watching a short video or doing the actions listed below:</source>
-      <translation type="unfinished"/>
+      <translation>Ganhe créditos vendo videos ou fazendo alguma das acções em baixo:</translation>
     </message>
     <message>
       <source>Like us on Facebook</source>
-      <translation type="unfinished"/>
+      <translation>Faça Like na nossa página do Facebook</translation>
     </message>
     <message>
       <source>Follow us on twitter</source>
-      <translation type="unfinished"/>
+      <translation>Siga-nos no Twitter</translation>
     </message>
     <message>
       <source>Create your first Private League</source>
-      <translation type="unfinished"/>
+      <translation>Crie a sua primeira Liga Privada</translation>
     </message>
     <message>
       <source>Invite 5 players to join your Private League</source>
-      <translation type="unfinished"/>
+      <translation>Convide 5 jogadores para se juntarem à sua Liga Privada</translation>
     </message>
     <message>
       <source>Login 2 or more days per Gameweek (weekly)</source>
-      <translation type="unfinished"/>
+      <translation>Faça login 2 ou mais vezes por Jornada</translation>
     </message>
     <message>
       <source>Make your first Gameweek transfer or captain change</source>
-      <translation type="unfinished"/>
+      <translation>Faça transferências ou altere o seu capitão de equipa todas as jornadas</translation>
     </message>
     <message>
       <source>Play a head-to-head with a friend (weekly)</source>
-      <translation type="unfinished"/>
+      <translation>Desafie os seus amigos para um Frente-a-Frente (Semanalmente)</translation>
     </message>
     <message>
       <source>Enter promo code</source>
-      <translation type="unfinished"/>
+      <translation>Introduza o código promocional</translation>
     </message>
   </context>
   <context>
     <name>lh_joyride/title_en_en</name>
     <message>
       <source>Transfers</source>
-      <translation type="unfinished"/>
+      <translation>Transferências</translation>
     </message>
     <message>
       <source>My Team</source>
-      <translation type="unfinished"/>
+      <translation>Minha Equipa</translation>
     </message>
     <message>
       <source>Game coins</source>
-      <translation type="unfinished"/>
+      <translation>Créditos</translation>
     </message>
     <message>
       <source>Boost team</source>
-      <translation type="unfinished"/>
+      <translation>Usar Créditos</translation>
     </message>
     <message>
       <source>Head-to-Head</source>
-      <translation type="unfinished"/>
+      <translation>Frente-a-Frente</translation>
     </message>
     <message>
       <source>Private Leagues</source>
-      <translation type="unfinished"/>
+      <translation>Ligas Privadas</translation>
     </message>
     <message>
       <source>Live Match Centre</source>
-      <translation type="unfinished"/>
+      <translation>Actualizações Estatísticas em Directo</translation>
     </message>
     <message>
       <source>Select A Formation</source>
-      <translation type="unfinished"/>
+      <translation>Escolha o modelo tático em que quer jogar</translation>
     </message>
     <message>
       <source>Select Your Team</source>
-      <translation type="unfinished"/>
+      <translation>Seleccione a sua Equipa</translation>
     </message>
     <message>
       <source>Autocomplete</source>
@@ -385,58 +385,58 @@
     </message>
     <message>
       <source>Filtering And Sorting Players</source>
-      <translation type="unfinished"/>
+      <translation>Filtrar e Ordenar Jogadores</translation>
     </message>
     <message>
       <source>Give Your Team A Name</source>
-      <translation type="unfinished"/>
+      <translation>Escolha o nome da sua Equipa</translation>
     </message>
     <message>
       <source>Select Your Captain</source>
-      <translation type="unfinished"/>
+      <translation>Escolha o Capitão de Equipa</translation>
     </message>
   </context>
   <context>
     <name>lh_joyride/content_en_en</name>
     <message>
       <source>If you want to change some of your players click 'Make Transfers'. You get 2 transfers per week, but can unlock more if you have enough coins!</source>
-      <translation type="unfinished"/>
+      <translation>Se pretender alterar algum dos seus jogadores, clique em "Transferências". Pode fazer 2 transferências por semana, mas pode aquirir mais transferências se tiver créditos suficientes para tal.</translation>
     </message>
     <message>
       <source>This is your team page - here you can see your points and stats for each player in your team.</source>
-      <translation type="unfinished"/>
+      <translation>Esta é a página da sua Equipa - aqui pode visualizar a pontuação e informação de cada jogador da sua equipa.</translation>
     </message>
     <message>
       <source>These are Game Coins - you earn coins for your activity and also if you watch videos. You can use them to unlock special weekly boosts for your team.</source>
-      <translation type="unfinished"/>
+      <translation>Créditos - pode ganhar créditos por interagir com o jogo e por ver vídeos. Pode utilizar os créditos para aquirir extras que vão impulsionar a sua equipa.</translation>
     </message>
     <message>
       <source>Click 'Boost Team' to unlock extra boosts for your team, using your Game Coins. Boosts help your team get more points and include bonus players, extra transfers a vice-captain and more!</source>
-      <translation type="unfinished"/>
+      <translation>Clique em "Usar Créditos" para adquirir extras através de créditos para impulsionar a sua equipa. Estes extras ajudam a sua equipa a obter mais pontos e incluem transferências extra, vice-capitão, 12º jogador, entre muito mais!</translation>
     </message>
     <message>
       <source>On the Head-to-Head page you can challenge your friends to individual weekly battles - see who can get the most weekly wins!</source>
-      <translation type="unfinished"/>
+      <translation>Na página do Frente-a-Frente pode desafiar os seus amigos para confrontos semanais - veja quem consegue ganhar mais pontos!</translation>
     </message>
     <message>
       <source>If you want to set-up a Private League for your friends or join a league that a friend has already created, go to the Private Leagues page.</source>
-      <translation type="unfinished"/>
+      <translation>Se pretender criar a sua Liga Privada ou juntar-se a uma Liga de um amigo, aceda à página das Ligas Privadas.</translation>
     </message>
     <message>
       <source>The Live Match Centre page is a dashboard that updates live with goals and match scores, alongside all the live scores for your team, your players, your Private League performance and your Head-to-Head challenges. All in one place!</source>
-      <translation type="unfinished"/>
+      <translation>Na página das Actualizações Estatísticas em Directo poderá conferir os golos, as pontuações, as actualizações ao vivo da Liga Privada, os desafios Frente-a-Frente, entre muito mais. Toda a informação ao vivo e num único local!</translation>
     </message>
     <message>
       <source>First, select one formation from the list provided. Your choice will be your team's formation. You can change your formation whenever you make changes to your team by clicking this area.</source>
-      <translation type="unfinished"/>
+      <translation>Primeiro, terá que escolher o modelo táctico em que quer jogar. O modelo que escolher irá definir a formação da sua equipa. Pode sempre alterar o modelo tático, clicando nessa área.</translation>
     </message>
     <message>
       <source>Next, start picking your team by clicking the empty spaces on the pitch and choosing from the players in the list that loads.     Your team can contain no more than two players from any one club and must not exceed the £150m budget.     Remove players you want to replace by clicking the 'x' button next to their name.</source>
-      <translation type="unfinished"/>
+      <translation>Depois de escolher o modelo táctico, deverá escolher a sua equipa, clicando em cima da posição que o jogador ocupa dentro do campo e escolhendo um jogador da lista apresentada. A sua equipa não pode exceder 2 jogadores de cada clube nem os 150M€ que tem de orçamento. Se pretender eliminar um jogador, clique no botão "X" que aparece perto do jogador.</translation>
     </message>
     <message>
       <source>If you don't know who to choose, don't worry!    The 'Autocomplete' button will fill any empty spaces in your team for you with random selections from the list of available players.</source>
-      <translation type="unfinished"/>
+      <translation>Se não sabe que jogadores deve escolher, pode clicar no botão "Equipa Aleatória" que o sistema gera automaticamente uma equipa.</translation>
     </message>
     <message>
       <source>When choosing a player from the list, use these filters and click the column headings to sort the list by important stats such as player points, goals scored, assists, clean sheets etc. You can also search for individual players by name by clicking the &lt;i class="fa fa-search"&gt;&lt;/i&gt; icon.</source>
@@ -1209,11 +1209,11 @@
     </message>
     <message>
       <source>Are you sure you want to remove this team from your league?</source>
-      <translation>Tens a certeza que queres retirar esta equipa da tua liga?</translation>
+      <translation>Tem a certeza que pretende eliminar esta equipa da sua liga?</translation>
     </message>
     <message>
       <source>Are you sure you want to remove your team from this league?</source>
-      <translation>Tens a certeza que queres retirar a tua equipa desta liga?</translation>
+      <translation>Tem a certeza que pretende eliminar a sua equipa desta liga?</translation>
     </message>
     <message>
       <source>No results at this moment</source>
@@ -1221,7 +1221,7 @@
     </message>
     <message>
       <source>Share your PIN</source>
-      <translation>Partilhar o teu PIN</translation>
+      <translation>Partilhar o PIN</translation>
     </message>
     <message>
       <source>Post PIN to wall</source>
@@ -1245,15 +1245,15 @@
     </message>
     <message>
       <source>You already accepted the invitation</source>
-      <translation>Já aceitaste o convite</translation>
+      <translation>Já aceitou o convite</translation>
     </message>
     <message>
       <source>Your invitation time has expired</source>
-      <translation>O teu convite expirou</translation>
+      <translation>O seu convite expirou</translation>
     </message>
     <message>
       <source>Could not find your invitation</source>
-      <translation>Não foi possível encontrar o teu convite</translation>
+      <translation>Não foi possível encontrar o seu convite</translation>
     </message>
     <message>
       <source>League is closed and can not be promoted</source>
@@ -1261,7 +1261,7 @@
     </message>
     <message>
       <source>Please select join request</source>
-      <translation>Por favor, escolhe o pedido para entrar</translation>
+      <translation>Por favor, escolha o pedido para entrar</translation>
     </message>
     <message>
       <source>January</source>
@@ -1313,7 +1313,7 @@
     </message>
     <message>
       <source>Thank you! Your message was sent to league members</source>
-      <translation>Obrigado! A tua mensagem foi enviada os membros da liga</translation>
+      <translation>Obrigado! A sua mensagem foi enviada os membros da liga</translation>
     </message>
     <message>
       <source>Settings updated</source>
@@ -1321,7 +1321,7 @@
     </message>
     <message>
       <source>Emails sent to your friends!</source>
-      <translation>Emails enviados aos teus amigos!</translation>
+      <translation>Emails enviados aos seus amigos!</translation>
     </message>
     <message>
       <source>League</source>
@@ -1435,7 +1435,7 @@
     </message>
     <message>
       <source>REMOVE</source>
-      <translation>Retirar</translation>
+      <translation>Eliminar</translation>
     </message>
     <message>
       <source>ADD</source>
@@ -1724,19 +1724,19 @@
     </message>
     <message>
       <source>Please note</source>
-      <translation>Por favor repara</translation>
+      <translation>Nota</translation>
     </message>
     <message>
       <source>Once selected, your Vice-Captain cannot be transferred out of your team until the Gameweek for which he has been chosen is complete.</source>
-      <translation>Depois de escolher, o teu Vice-Capitão não pode ser vendido da tua equipa até que a semana de jogos para que ele foi escolhido, termine.</translation>
+      <translation>Depois de selecionado, o seu Vice-Capitão não pode ser vendido da sua equipa antes dessa jornada ter terminado.</translation>
     </message>
     <message>
       <source>Please Note: Players with boosts will not score 2x points as your captain, so choose a player without a boost.</source>
-      <translation>Por favor repare: Jogadores com impulsos adicionados, não somam 2x os pontos como capitão, escolhe então um jogador sem impulsos adicionados.</translation>
+      <translation type="unfinished">Nota: Jogadores com impulsos adicionados, não somam 2x os pontos como capitão, escolhe então um jogador sem impulsos adicionados.</translation>
     </message>
     <message>
       <source>Select your captain by clicking a player on the pitch below. Then click the ‘Submit’ button to confirm your choice.</source>
-      <translation>Escolhe o teu capitão, clicando num jogador no campo abaixo. Depois clica no botão "Enviar" para confirmares a tua escolha.</translation>
+      <translation>selecione o seu capitão, clicando num jogador no campo abaixo. Depois clique no botão "Enviar" para confirmar a sua escolha.</translation>
     </message>
     <message>
       <source>Pts</source>
@@ -1744,14 +1744,14 @@
     </message>
     <message>
       <source>Select Extra Player</source>
-      <translation>Escolhe um Jogador Extra</translation>
+      <translation>Escolha um Jogador Extra</translation>
     </message>
   </context>
   <context>
     <name>game/boostteam</name>
     <message>
       <source> for Week</source>
-      <translation type="unfinished"/>
+      <translation> por Semana</translation>
     </message>
     <message>
       <source>for Week</source>
@@ -1759,7 +1759,7 @@
     </message>
     <message>
       <source>My game boosts</source>
-      <translation>Os meu impulsos de jogo</translation>
+      <translation>Os meu Extras</translation>
     </message>
     <message>
       <source>Date</source>
@@ -1767,15 +1767,15 @@
     </message>
     <message>
       <source>Game boost</source>
-      <translation>Impulso de Jogo</translation>
+      <translation>Extras do Jogo</translation>
     </message>
     <message>
       <source>Coins used</source>
-      <translation>Moedas usadas</translation>
+      <translation>Créditos usados</translation>
     </message>
     <message>
       <source>No boosts unlocked this week</source>
-      <translation>Sem impulsos desbloqueados esta semana</translation>
+      <translation>Sem extras desbloqueados esta semana</translation>
     </message>
     <message>
       <source>Back</source>
@@ -1783,15 +1783,15 @@
     </message>
     <message>
       <source>Select a boost</source>
-      <translation>Seleciona um impulso</translation>
+      <translation>Selecione um extra</translation>
     </message>
     <message>
       <source>Get more coins</source>
-      <translation>Consegue mais moedas</translation>
+      <translation>Consiga mais créditos</translation>
     </message>
     <message>
       <source>Game coins</source>
-      <translation>Moedas de jogo</translation>
+      <translation>Créditos</translation>
     </message>
     <message>
       <source>Extra transfer</source>
@@ -1831,7 +1831,7 @@
     </message>
     <message>
       <source>Park Bus</source>
-      <translation>Tudo Ao Defesa</translation>
+      <translation>Estacionar Autocarro</translation>
     </message>
     <message>
       <source>Double all defender points</source>
@@ -1847,7 +1847,7 @@
     </message>
     <message>
       <source>Unlocking the ‘All Out Attack’ boost will double the points for all of your forwards in the stated Gameweek.</source>
-      <translation>Desbloquear o impulso 'Tudo ao ataque' duplica os pontos de todos os teus avançados na referida Jornadas.</translation>
+      <translation>Desbloquear o extra 'Tudo ao ataque' duplica os pontos de todos os seus avançados na referida Jornada.</translation>
     </message>
     <message>
       <source>Important points to note</source>
@@ -1855,27 +1855,27 @@
     </message>
     <message>
       <source>Once selected, you will not be able to transfer any of your forwards out of your team until the Gameweek (for which the boost has been chosen) is complete</source>
-      <translation>Depois de escolhido, não conseguirás transferir os teus avançados até ao final da semana de jogos (para qual o impulso foi escolhido) estar terminada</translation>
+      <translation>Depois de selecionados, não será possível transferir os seus avançados até ao final da jornada (para qual o extra foi escolhido) estar terminada</translation>
     </message>
     <message>
       <source>If one of your forwards is your captain/Vice-Captain, his points will only be doubled once.</source>
-      <translation>Se algum dos teus avançados for capitão/vice-capitão, os seu pontos só serão duplicados uma vez.</translation>
+      <translation>Se algum dos seus avançados for capitão/vice-capitão, os seus pontos só serão duplicados uma vez.</translation>
     </message>
     <message>
       <source>Unlocking the ‘Park Bus’ boost will double the points for all of your defenders in the stated Gameweek</source>
-      <translation>Desbloquear o impulso 'Tudo Ao Defesa' duplica os pontos de todos os teus defesas na referida Jornadas</translation>
+      <translation>Desbloquear o extra 'Tudo à Defesa' duplica os pontos de todos os seus defesas na referida Jornada</translation>
     </message>
     <message>
       <source>Once selected, you will not be able to transfer any of your defenders out of your team until the Gameweek (for which the boost has been chosen) is complete.</source>
-      <translation>Depois de escolhido, não conseguirás transferir os teus defesas até ao final da semana de jogos (para qual o impulso foi escolhido) estar terminada.</translation>
+      <translation>Depois de selecionados, não vai ser possível transferir os seus defesas até ao final da jornada (na qual o extra foi escolhido) estar terminada.</translation>
     </message>
     <message>
       <source>If one of your defenders is your captain/Vice-Captain, his points will only be doubled once.</source>
-      <translation>Se algum dos teus defesas for capitão/vice-capitão, os seu pontos só serão duplicados uma vez.</translation>
+      <translation>Se algum dos seus defesas for capitão/vice-capitão, os seus pontos só serão duplicados uma vez.</translation>
     </message>
     <message>
       <source>Beware, negative points will also be doubled!</source>
-      <translation>Cuidado, pontos negativos também serão duplicados!</translation>
+      <translation>Tenha em atenção que os pontos negativos também serão duplicados!</translation>
     </message>
     <message>
       <source>Unlocking the Refresh XI boost will add 11 additional transfers to your transfer quota for the current Gameweek. Perfect for refreshing your entire team!</source>
@@ -6433,7 +6433,7 @@
     </message>
     <message>
       <source>Statistic</source>
-      <translation type="unfinished"></translation>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>
