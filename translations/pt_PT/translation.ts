@@ -4903,7 +4903,7 @@
     <name>system/mail</name>
     <message>
       <source>Click here</source>
-      <translation>Clica aqui</translation>
+      <translation>Cliquea aqui</translation>
     </message>
     <message>
       <source>or</source>
@@ -4919,7 +4919,7 @@
     </message>
     <message>
       <source>click here</source>
-      <translation>clica aqui</translation>
+      <translation>clique aqui</translation>
     </message>
     <message>
       <source>&amp; more</source>
@@ -5864,7 +5864,7 @@
     <name>system/emails</name>
     <message>
       <source>Click here</source>
-      <translation>Clica aqui</translation>
+      <translation>Clique aqui</translation>
     </message>
   </context>
   <context>
