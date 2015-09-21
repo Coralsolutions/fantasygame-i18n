@@ -224,7 +224,7 @@
     </message>
     <message>
       <source>Last5</source>
-      <translation type="unfinished"/>
+      <translation>Últimos 5</translation>
     </message>
     <message>
       <source>Form</source>
@@ -440,26 +440,26 @@
     </message>
     <message>
       <source>When choosing a player from the list, use these filters and click the column headings to sort the list by important stats such as player points, goals scored, assists, clean sheets etc. You can also search for individual players by name by clicking the &lt;i class="fa fa-search"&gt;&lt;/i&gt; icon.</source>
-      <translation type="unfinished"/>
+      <translation>Quando seleccionar um jogador da lista, use os filtros e clique nos títulos da coluna para ordenar a lista por importância: pontos do jogador, golos, assitências, etc. Também pode procurar os jogadores pelo nome, clicando no ícone da pesquisa.</translation>
     </message>
     <message>
       <source>Use this area to enter your team name.  Your team name can be anything, so you can either be creative or just name it after yourself!</source>
-      <translation type="unfinished"/>
+      <translation>Utilize esta área para inserir o nome da sua equipa. Pode escolher qualquer nome.</translation>
     </message>
     <message>
       <source>Before confirming your team you must choose one player to be your Captain.      Choose your Captain by clicking your chosen player on the pitch below. Then click 'Submit', which will confirm your team.     Choose your captain wisely - he will score double points for your team!</source>
-      <translation type="unfinished"/>
+      <translation>Antes de confirmar a sua equipa, deve escolher o seu Capitão de Equipa. Para escolher o capitão, clique no jogador que pretende seleccionar. Depois clique em "Submeter" para confirmar a sua equipa. Tenha em atenção que o seu capitão irá pontuar a dobrar.</translation>
     </message>
   </context>
   <context>
     <name>lh_abstract_messages/name_en_en</name>
     <message>
       <source>Facebook send pin to wall</source>
-      <translation type="unfinished"/>
+      <translation>Partilhar PIN no Facebook</translation>
     </message>
     <message>
       <source>Twitter send pin</source>
-      <translation type="unfinished"/>
+      <translation>Enviar PIN via Twitter</translation>
     </message>
     <message>
       <source>Facebook app request message</source>
@@ -467,177 +467,177 @@
     </message>
     <message>
       <source>Notification to recipient when chairman sent email promotions</source>
-      <translation type="unfinished"/>
+      <translation>Notificação ao destinatário quando o Presidente envia e-mails promocionais.</translation>
     </message>
     <message>
       <source>Notification to league chairman when visitor send request to league</source>
-      <translation type="unfinished"/>
+      <translation>Notificação ao presidente da liga quando há um pedido para entrar na liga.</translation>
     </message>
     <message>
       <source>H2h notification</source>
-      <translation type="unfinished"/>
+      <translation>Notificação de FaF</translation>
     </message>
     <message>
       <source>Private league notification when Chairman Approval turned ON</source>
-      <translation type="unfinished"/>
+      <translation>Notificação da Liga Privada quando a aprovação do Presidente fica ON</translation>
     </message>
     <message>
       <source>Notification to h2h inviter who created challenge</source>
-      <translation type="unfinished"/>
+      <translation>Notificação do anfitrião do desafio FaF</translation>
     </message>
     <message>
       <source>Message from Private League Chairman</source>
-      <translation type="unfinished"/>
+      <translation>Mensagem do Presidente da Liga Privada</translation>
     </message>
     <message>
       <source>Game Reward - Watch video</source>
-      <translation type="unfinished"/>
+      <translation>Recompensa - veja o video</translation>
     </message>
     <message>
       <source>Game Reward - Facebook LIke</source>
-      <translation type="unfinished"/>
+      <translation>Recompensa - Like no Facebook</translation>
     </message>
     <message>
       <source>Game Reward - Twitter Follow</source>
-      <translation type="unfinished"/>
+      <translation>Recompensa - Seguir no Twitter</translation>
     </message>
     <message>
       <source>Game Reward - Chairman</source>
-      <translation type="unfinished"/>
+      <translation>Pecompensa - Presidente da Liga Privada</translation>
     </message>
     <message>
       <source>Game Reward - Loyal Player</source>
-      <translation type="unfinished"/>
+      <translation>Recompensa - Jogador Leal</translation>
     </message>
     <message>
       <source>Game Reward - Tinkerman</source>
-      <translation type="unfinished"/>
+      <translation>Recompensa - Mexer na Equipa</translation>
     </message>
     <message>
       <source>Game Reward - Challenger</source>
-      <translation type="unfinished"/>
+      <translation>Recompensa - Desafiar para Frente-a-Frente</translation>
     </message>
     <message>
       <source>Game Reward - Promo Code</source>
-      <translation type="unfinished"/>
+      <translation>Recompensa - Códigos Promocionais</translation>
     </message>
     <message>
       <source>When a user has not used a Team Boost for more than 3 weeks</source>
-      <translation type="unfinished"/>
+      <translation>Quando um utilizador não usa os créditos há mais de 3 semanas</translation>
     </message>
     <message>
       <source>Head-to-Head Post weekend Summary</source>
-      <translation type="unfinished"/>
+      <translation>Post semanal sumário do Frente-a-Frente</translation>
     </message>
     <message>
       <source>Friday Reminder to use coins, get team ready for weekend</source>
-      <translation type="unfinished"/>
+      <translation>Lembrete à sexta-feira para usar os créditos e preparar a equipa para o fim de semana</translation>
     </message>
     <message>
       <source>When the new 12th Man options are available for the new Gameweek</source>
-      <translation type="unfinished"/>
+      <translation>Quando as novas opções do 12º jogador estão disponíveis para a nova jornada</translation>
     </message>
   </context>
   <context>
     <name>lh_abstract_messages/msg_en_en</name>
     <message>
       <source>My league PIN is: {{pin}} - join my league today! </source>
-      <translation type="unfinished"/>
+      <translation>O PIN da minha Liga é {{pin}} - junte-se à minha liga hoje! </translation>
     </message>
     <message>
       <source>You have been accepted into the league: {{league}} </source>
-      <translation type="unfinished"/>
+      <translation>Foi aceite na Liga:  {{league}} </translation>
     </message>
     <message>
       <source> You just earned {{coins}} coins for promo code. Click here to use them!</source>
-      <translation type="unfinished"/>
+      <translation> Ganhou {{coins}} créditos através do código promocional. Clique aqui para utiliza-los!</translation>
     </message>
     <message>
       <source>My league PIN is: {{pin}} - join my league today!</source>
-      <translation type="unfinished"/>
+      <translation>O PIN da minha Liga é: {{pin}} - junte-se à minha liga hoje!</translation>
     </message>
     <message>
       <source>{{inviter}} invited you to join their Private League</source>
-      <translation type="unfinished"/>
+      <translation>{{inviter}} convidou-o para se juntar à sua Liga Privada</translation>
     </message>
     <message>
       <source>{{username}} applied to join your Private League</source>
-      <translation type="unfinished"/>
+      <translation>{{username}} pediu para se juntar à sua Liga Privada</translation>
     </message>
     <message>
       <source>{{from}} has challenged you to a Head-to-Head contest.</source>
-      <translation type="unfinished"/>
+      <translation>{{from}} desafiou-o para um duelo Frente-a-Frente.</translation>
     </message>
     <message>
       <source>You have been accepted into the league: {{league}}</source>
-      <translation type="unfinished"/>
+      <translation>Foi aceite na Liga: {{league}}</translation>
     </message>
     <message>
       <source>{{oponentname}} has accepted your challenge! View your challenge.</source>
-      <translation type="unfinished"/>
+      <translation>{{oponentname}} aceitou o seu desafio! Aceda ao seu desafio.</translation>
     </message>
     <message>
       <source>Message to {{league}} Members from {{chairmanname}}</source>
-      <translation type="unfinished"/>
+      <translation>Mensagem do {{chairmanname}} para os membros da Liga {{league}}</translation>
     </message>
     <message>
       <source>You just earned {{coins}} video coins. Click here to use them!</source>
-      <translation type="unfinished"/>
+      <translation>Ganhou {{coins}} créditos por ver o video. Clique aqui para utiliza-los!</translation>
     </message>
     <message>
       <source>You just earned {{coins}} coins for the Facebook ‘Like’ bonus. Click here to use them!</source>
-      <translation type="unfinished"/>
+      <translation>Ganhou {{coins}} créditos por ter feito like no Facebook. Clique aqui para utiliza-los!</translation>
     </message>
     <message>
       <source>You just earned {{coins}} coins for the Twitter ‘Follow’ bonus. Click here to use them!</source>
-      <translation type="unfinished"/>
+      <translation>Ganhou {{coins}} créditos por seguir-nos no Twitter. Clique aqui para utiliza-los!</translation>
     </message>
     <message>
       <source>You just earned {{coins}} coins for creating your first Private League. Click here to use them!</source>
-      <translation type="unfinished"/>
+      <translation>Ganhou {{coins}} créditos por criar a sua primeira Liga Privada. Clique aqui para utiliza-los!</translation>
     </message>
     <message>
       <source>You just earned {{coins}} coins for being a loyal player. Click here to use them!</source>
-      <translation type="unfinished"/>
+      <translation>Ganhou {{coins}} créditos por ser um jogador leal. Clique aqui para utiliza-los!</translation>
     </message>
     <message>
       <source>You just earned {{coins}} coins for making your first Gameweek transfer or captain change. Click here to use them!</source>
-      <translation type="unfinished"/>
+      <translation>Ganhou {{coins}} créditos por ter feito a sua primeira transferência da jornada ou por ter alterado o seu capitão de equipa. Clique aqui para utiliza-los!</translation>
     </message>
     <message>
       <source>You just earned {{coins}} coins for having an active H2H challenge this Gameweek. Click here to use them!</source>
-      <translation type="unfinished"/>
+      <translation>Ganhou {{coins}} créditos por ter activado o desafio Frente-a-Frente nesta jornada. Clique aqui para utiliza-los!</translation>
     </message>
     <message>
       <source>You just earned {{coins}} coins for promo code. Click here to use them!</source>
-      <translation type="unfinished"/>
+      <translation>Ganhou {{coins}} créditos do código promocional. Clique aqui para utiliza-los!</translation>
     </message>
     <message>
       <source>Reminder! You can earn more points by unlocking exciting Boosts for your team. Click here to find out more.</source>
-      <translation type="unfinished"/>
+      <translation>Lembre-se! Pode ganhar mais pontos adquirindo extras para impulsionar a sua equipa. Clique aqui para ver mais.</translation>
     </message>
     <message>
       <source>You played {{h2hgamecount}} H2H challenges last week. Your results were: W{{numberofwins}}, L{{numberoflosses}}, D{{numberofdraws}}. Click here  to see who you played and how many friends you are beating!</source>
-      <translation type="unfinished"/>
+      <translation>Jogou o desafio Frente-a-Frente {{h2hgamecount}} na semana passada. Os seus resultador foram: W{{numberofwins}}, L{{numberoflosses}}, D{{numberofdraws}}. Clique aqui para ver com quem jogou e como estão as classificações!</translation>
     </message>
     <message>
       <source>Ready for the weekend? You have {{numberofcoins}} coins to boost your team. Click here to get more!</source>
-      <translation type="unfinished"/>
+      <translation>Preparado para o fim de semana? Tem disponíveis {{numberofcoins}} créditos para impulsionar a sua equipa. Clique aqui para ganhar mais!</translation>
     </message>
     <message>
       <source>This week’s ‘12th Man’ options are – {{surname_players}}. Add one to your team.</source>
-      <translation type="unfinished"/>
+      <translation>As opções do 12º jogador para esta semana são – {{surname_players}}. Adquira um para a sua equipa.</translation>
     </message>
   </context>
   <context>
     <name>lh_abstract_messages/caption_en_en</name>
     <message>
       <source>Come take a look at my league</source>
-      <translation type="unfinished"/>
+      <translation>Venha ver a minha liga</translation>
     </message>
     <message>
       <source>You played {{h2hgamecount}} H2H challenges last week. Click here to see how you performed!</source>
-      <translation type="unfinished"/>
+      <translation>Jogou {{h2hgamecount}} desafios Frente-a-Frente na semana passada. Clique aqui para ver as classificações!</translation>
     </message>
   </context>
   <context>
@@ -692,11 +692,11 @@
     </message>
     <message>
       <source>Fantasy</source>
-      <translation type="unfinished"/>
+      <translation>Liga</translation>
     </message>
     <message>
       <source>Updated</source>
-      <translation type="unfinished"/>
+      <translation>Actualizada</translation>
     </message>
     <message>
       <source>Responsive design</source>
@@ -790,7 +790,7 @@
     </message>
     <message>
       <source>NO GAMES IN PLAY</source>
-      <translation type="unfinished"/>
+      <translation>Sem jogos a decorrer</translation>
     </message>
     <message>
       <source>Most Bought Players</source>
@@ -890,7 +890,7 @@
     </message>
     <message>
       <source>Position</source>
-      <translation type="unfinished"/>
+      <translation>Posição</translation>
     </message>
     <message>
       <source>My current top scoring player</source>
@@ -1578,7 +1578,7 @@
     </message>
     <message>
       <source>OK</source>
-      <translation type="unfinished"/>
+      <translation>OK</translation>
     </message>
     <message>
       <source>Save</source>
@@ -1732,7 +1732,7 @@
     </message>
     <message>
       <source>Please Note: Players with boosts will not score 2x points as your captain, so choose a player without a boost.</source>
-      <translation type="unfinished">Nota: Jogadores com impulsos adicionados, não somam 2x os pontos como capitão, escolhe então um jogador sem impulsos adicionados.</translation>
+      <translation>Nota: Jogadores que já pontuem a dobrar, tal como o capitão, não receberão mais pontos, como tal deverá escolher outro jogador.</translation>
     </message>
     <message>
       <source>Select your captain by clicking a player on the pitch below. Then click the ‘Submit’ button to confirm your choice.</source>
@@ -2065,19 +2065,19 @@
     </message>
     <message>
       <source>Forward</source>
-      <translation type="unfinished"/>
+      <translation>Avançado</translation>
     </message>
     <message>
       <source>Defender</source>
-      <translation type="unfinished"/>
+      <translation>Defesa</translation>
     </message>
     <message>
       <source>Midfielder</source>
-      <translation type="unfinished"/>
+      <translation>Médio</translation>
     </message>
     <message>
       <source>Keeper</source>
-      <translation type="unfinished"/>
+      <translation>Guarda-redes</translation>
     </message>
     <message>
       <source>Select team</source>
@@ -2159,11 +2159,11 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation type="unfinished"/>
+      <translation>Sim</translation>
     </message>
     <message>
       <source>No</source>
-      <translation type="unfinished"/>
+      <translation>Não</translation>
     </message>
   </context>
   <context>
@@ -2282,11 +2282,11 @@
     </message>
     <message>
       <source>No more than</source>
-      <translation type="unfinished"/>
+      <translation>Não mais do que</translation>
     </message>
     <message>
       <source>players from any one club</source>
-      <translation type="unfinished"/>
+      <translation>Jogadores de qualquer clube</translation>
     </message>
     <message>
       <source>During match period you can not change captain</source>
@@ -2326,7 +2326,7 @@
     </message>
     <message>
       <source>All clubs</source>
-      <translation type="unfinished"/>
+      <translation>Todos os clubes</translation>
     </message>
   </context>
   <context>
@@ -2671,7 +2671,7 @@
     </message>
     <message>
       <source>Update</source>
-      <translation type="unfinished"/>
+      <translation>Actualizar</translation>
     </message>
     <message>
       <source>Home</source>
@@ -3458,7 +3458,7 @@
     </message>
     <message>
       <source>Invalid time zone</source>
-      <translation type="unfinished"/>
+      <translation>Campo de fuso horário inválido</translation>
     </message>
     <message>
       <source>Please accept T&amp;Cs &amp; Privacy Policy</source>
@@ -3498,7 +3498,7 @@
     </message>
     <message>
       <source>Choose your time zone</source>
-      <translation type="unfinished"/>
+      <translation>Escolha o fuso horário</translation>
     </message>
     <message>
       <source>Please choose a default user group</source>
@@ -3544,7 +3544,7 @@
     </message>
     <message>
       <source>Don't have an account</source>
-      <translation type="unfinished"/>
+      <translation>Ainda não se registou?</translation>
     </message>
     <message>
       <source>Log in with Facebook</source>
@@ -3564,7 +3564,7 @@
     </message>
     <message>
       <source>Oh snap! Something went wrong. We are working on it to already.</source>
-      <translation type="unfinished"/>
+      <translation>Pedimos desculpa! Ocorreu um erro. Estamos a tentar resolver.</translation>
     </message>
     <message>
       <source>Quick navigation</source>
@@ -3647,7 +3647,7 @@
     </message>
     <message>
       <source>System statistic</source>
-      <translation type="unfinished"/>
+      <translation>Estatísticas do sistema</translation>
     </message>
     <message>
       <source>Additional user information</source>
@@ -4231,7 +4231,7 @@
     </message>
     <message>
       <source>Statistic</source>
-      <translation type="unfinished"/>
+      <translation>Estatística</translation>
     </message>
     <message>
       <source>Users</source>
@@ -4278,11 +4278,11 @@
     </message>
     <message>
       <source>Time settings</source>
-      <translation type="unfinished"/>
+      <translation>Configurações da hora</translation>
     </message>
     <message>
       <source>Time</source>
-      <translation type="unfinished"/>
+      <translation>Hora</translation>
     </message>
     <message>
       <source>Settings updated</source>
@@ -4293,15 +4293,15 @@
     <name>system/update</name>
     <message>
       <source>System update</source>
-      <translation type="unfinished"/>
+      <translation>Actualizações do sistema</translation>
     </message>
     <message>
       <source>Database</source>
-      <translation type="unfinished"/>
+      <translation>Base de dados</translation>
     </message>
     <message>
       <source>Comparing current structure, please wait...</source>
-      <translation type="unfinished"/>
+      <translation>Comparando com a estrutura actual, aguarde por favor...</translation>
     </message>
     <message>
       <source>Elastic</source>
@@ -4309,23 +4309,23 @@
     </message>
     <message>
       <source>Database structure check</source>
-      <translation type="unfinished"/>
+      <translation>Confirmar a estrutura da base de dados</translation>
     </message>
     <message>
       <source>Update</source>
-      <translation type="unfinished"/>
+      <translation>Actualizar</translation>
     </message>
     <message>
       <source>Your database does not require any updates</source>
-      <translation type="unfinished"/>
+      <translation>A sua base de dados não requer qualquer actualização</translation>
     </message>
     <message>
       <source>Queries which will be executed on update</source>
-      <translation type="unfinished"/>
+      <translation>Perguntas que serão feitas na actualização</translation>
     </message>
     <message>
       <source>Updating...</source>
-      <translation type="unfinished"/>
+      <translation>Actualizando...</translation>
     </message>
     <message>
       <source>Elastic structure check</source>
@@ -4337,7 +4337,7 @@
     </message>
     <message>
       <source>Update information</source>
-      <translation type="unfinished"/>
+      <translation>Actualizar informação</translation>
     </message>
   </context>
   <context>
@@ -4533,7 +4533,7 @@
     </message>
     <message>
       <source>Reload</source>
-      <translation type="unfinished"/>
+      <translation>Recarregar</translation>
     </message>
     <message>
       <source>Reload selected</source>
@@ -4591,31 +4591,31 @@
     </message>
     <message>
       <source>Statistic menu</source>
-      <translation type="unfinished"/>
+      <translation>Menu de estatísticas</translation>
     </message>
     <message>
       <source>Main statistic</source>
-      <translation type="unfinished"/>
+      <translation>Estatísticas principais</translation>
     </message>
     <message>
       <source>Popularity of each boost - number of users unlocking</source>
-      <translation type="unfinished"/>
+      <translation>Popularidade dos extras - número de utilizadores que já os adquiriram</translation>
     </message>
     <message>
       <source>Most popular boost (overall)</source>
-      <translation type="unfinished"/>
+      <translation>Extra mais popular (no geral)</translation>
     </message>
     <message>
       <source>Total number of users who made a transfer</source>
-      <translation type="unfinished"/>
+      <translation>Número total de utilizadores que fizeram uma transferência</translation>
     </message>
     <message>
       <source>Total users with minumum 1 active Head to Head</source>
-      <translation type="unfinished"/>
+      <translation>Total de utilizadores com pelo menos um desafio Frente-a-Frente activo</translation>
     </message>
     <message>
       <source>Total users who have unlocked matchday transfer</source>
-      <translation type="unfinished"/>
+      <translation>Total de utilizadores que tenham adquirido uma transferência extra na jornada</translation>
     </message>
     <message>
       <source>Strada edition</source>
@@ -4651,7 +4651,7 @@
     </message>
     <message>
       <source>Update match</source>
-      <translation type="unfinished"/>
+      <translation>Actualização do jogo</translation>
     </message>
     <message>
       <source>All period matches</source>
@@ -4755,7 +4755,7 @@
     <name>user/new</name>
     <message>
       <source>Register Your Details</source>
-      <translation type="unfinished"/>
+      <translation>Registe os seus dados</translation>
     </message>
     <message>
       <source>Register</source>
@@ -4845,19 +4845,19 @@
     <name>feedback/form</name>
     <message>
       <source>Please enter nature of query!</source>
-      <translation type="unfinished"/>
+      <translation>Por favor, coloque a questão!</translation>
     </message>
     <message>
       <source>Please enter name!</source>
-      <translation type="unfinished"/>
+      <translation>Coloque o nome!</translation>
     </message>
     <message>
       <source>Invalid e-mail address!</source>
-      <translation type="unfinished"/>
+      <translation>E-mail invalido!</translation>
     </message>
     <message>
       <source>Please enter your message!</source>
-      <translation type="unfinished"/>
+      <translation>Coloque a sua mensagem!</translation>
     </message>
     <message>
       <source>Please enter captcha code!</source>
@@ -4868,27 +4868,27 @@
     <name>contact/form</name>
     <message>
       <source>Registration problems</source>
-      <translation type="unfinished"/>
+      <translation>Problemas do registo</translation>
     </message>
     <message>
       <source>Login or password</source>
-      <translation type="unfinished"/>
+      <translation>Login ou palavra-passe</translation>
     </message>
     <message>
       <source>Team Selection</source>
-      <translation type="unfinished"/>
+      <translation>Selecção da equipa</translation>
     </message>
     <message>
       <source>Transfers</source>
-      <translation type="unfinished"/>
+      <translation>Transferências</translation>
     </message>
     <message>
       <source>Captains</source>
-      <translation type="unfinished"/>
+      <translation>Capitão de equipa</translation>
     </message>
     <message>
       <source>Points</source>
-      <translation type="unfinished"/>
+      <translation>Pontuação</translation>
     </message>
     <message>
       <source>Personal Details/Preferences</source>
@@ -4896,7 +4896,7 @@
     </message>
     <message>
       <source>Other</source>
-      <translation type="unfinished"/>
+      <translation>Outros</translation>
     </message>
   </context>
   <context>
@@ -5009,59 +5009,59 @@
     <name>gameuserteam/validate</name>
     <message>
       <source>Could not find active session</source>
-      <translation type="unfinished"/>
+      <translation>Não foi possível encontrar sessão activa</translation>
     </message>
     <message>
       <source>Weekly limit has been reached</source>
-      <translation type="unfinished"/>
+      <translation>Limite semanal atingido</translation>
     </message>
     <message>
       <source>Weekly limit during game week has been reached</source>
-      <translation type="unfinished"/>
+      <translation>Limite semanal da jornada atingido</translation>
     </message>
     <message>
       <source>Monthly limit has been reached</source>
-      <translation type="unfinished"/>
+      <translation>Limite mensal atingido</translation>
     </message>
     <message>
       <source>Overall limit has been reached</source>
-      <translation type="unfinished"/>
+      <translation>Limite global atingido</translation>
     </message>
     <message>
       <source>Please choose a captain!</source>
-      <translation type="unfinished"/>
+      <translation>Escolha o capitão!</translation>
     </message>
     <message>
       <source>You cannot change user while he is still your vice captain</source>
-      <translation type="unfinished"/>
+      <translation>Não é possível alterar o vice-capitão enquanto a jornada estiver a decorrer.</translation>
     </message>
     <message>
       <source>You cannot change player while you have bought an attack or park bus for it</source>
-      <translation type="unfinished"/>
+      <translation>Se adquirir os extras "Estacionar Autocarro" ou "Duplicar Pontos dos seus Avançados", não pode alterar o jogador que seleccionou para esses extras enquanto a jornada estiver a decorrer.</translation>
     </message>
     <message>
       <source>You cannot change player while he is your team captain</source>
-      <translation type="unfinished"/>
+      <translation>Não pode alterar o capitão enquanto a jornada estiver a decorrer.</translation>
     </message>
     <message>
       <source>Could not find a user team player</source>
-      <translation type="unfinished"/>
+      <translation>Não foi possível encontrar um jogador da equipa do utilizador</translation>
     </message>
     <message>
       <source>Max 1 same player per team</source>
-      <translation type="unfinished"/>
+      <translation>Max 1mesmo jogador por equipa</translation>
     </message>
     <message>
       <source>Player position in this layout does not exists</source>
-      <translation type="unfinished"/>
+      <translation>Não existe a posição deste jogador neste layout</translation>
     </message>
     <message>
       <source>Previous player contract was not closed!</source>
-      <translation type="unfinished"/>
+      <translation>Contracto do jogador anterior não foi fechado!</translation>
     </message>
     <message>
       <source>Not enough funds</source>
-      <translation type="unfinished"/>
+      <translation>Sem créditos suficientes</translation>
     </message>
     <message>
       <source>You have reached same team players limit</source>
@@ -5069,39 +5069,39 @@
     </message>
     <message>
       <source>Captain was not found in user team</source>
-      <translation type="unfinished"/>
+      <translation>Capitão não encontrado na equipa do utilizador</translation>
     </message>
     <message>
       <source>You cannot set player as captain while he is your vice captain</source>
-      <translation type="unfinished"/>
+      <translation>Não pode definir um jogador como capitão se ele for o seu vice-capitão</translation>
     </message>
     <message>
       <source>Captain change not allowed</source>
-      <translation type="unfinished"/>
+      <translation>Alteração de capitão não permitida</translation>
     </message>
     <message>
       <source>Invalid week</source>
-      <translation type="unfinished"/>
+      <translation>Semana inválida</translation>
     </message>
     <message>
       <source>Your captain cannot be your vice captain also</source>
-      <translation type="unfinished"/>
+      <translation>O seu capitão não pode ser em simultaneo o seu vice-capitão</translation>
     </message>
     <message>
       <source>User team player could not be found</source>
-      <translation type="unfinished"/>
+      <translation>Jogador da equipa do utilizador não encontrado</translation>
     </message>
     <message>
       <source>User team does not have this player in his squad</source>
-      <translation type="unfinished"/>
+      <translation>Equipa do utilizador não tem esse jogador na sua equipa</translation>
     </message>
     <message>
       <source>You can have only one 12 man</source>
-      <translation type="unfinished"/>
+      <translation>Só pode ter um 12º jogador</translation>
     </message>
     <message>
       <source>This player is not available as 12 man in this week</source>
-      <translation type="unfinished"/>
+      <translation>Este jogador não está disponível esta semana na lista do 12º jogador</translation>
     </message>
   </context>
   <context>
@@ -5453,15 +5453,15 @@
     </message>
     <message>
       <source>Please enter your friend's name</source>
-      <translation type="unfinished"/>
+      <translation>Insira o nome do seu amigo</translation>
     </message>
     <message>
       <source>Please enter your friend's email address</source>
-      <translation type="unfinished"/>
+      <translation>Insira o e-mail do seu amigo</translation>
     </message>
     <message>
       <source>Please enter your friend's contacts</source>
-      <translation type="unfinished"/>
+      <translation>Insira o contacto do seu amigo</translation>
     </message>
   </context>
   <context>
@@ -5747,7 +5747,7 @@
     </message>
     <message>
       <source>Challenges Sent. Check 'My Challenges' for the status of your challenges!</source>
-      <translation type="unfinished"/>
+      <translation>Desafio enviado. Verifique o estado dos seus desafios em "Meus Desafios"</translation>
     </message>
   </context>
   <context>
@@ -5976,7 +5976,7 @@
     </message>
     <message>
       <source>The Gameweek limit is</source>
-      <translation type="unfinished"/>
+      <translation>O limite da jornada é</translation>
     </message>
     <message>
       <source>Extra Gameweek Transfers</source>
@@ -6092,15 +6092,15 @@
     </message>
     <message>
       <source>Extra Transfers. Enter a smaller number or unlock the 'Refresh XI' boost'</source>
-      <translation type="unfinished"/>
+      <translation>Transferências extra. Digite um número menor ou desbloqueie o extra 'Alterar Equipa'</translation>
     </message>
     <message>
       <source>You have</source>
-      <translation type="unfinished"/>
+      <translation>Tem</translation>
     </message>
     <message>
       <source>more Extra Transfers available to unlock this Gameweek. The quantity you entered exceeds this number.</source>
-      <translation type="unfinished"/>
+      <translation>mais Transferências Extra estão disponíveis para adquirir esta jornada. A quantidade que colocou excede este número.</translation>
     </message>
   </context>
   <context>
@@ -6134,7 +6134,7 @@
     </message>
     <message>
       <source>Current phase</source>
-      <translation type="unfinished"/>
+      <translation>fase corrente</translation>
     </message>
     <message>
       <source>Total</source>
@@ -6272,15 +6272,15 @@
     <name>gameajax/saveTeam</name>
     <message>
       <source>Not all players are set correctly or contract is closed</source>
-      <translation type="unfinished"/>
+      <translation>Nem todos os jogadores estão definidos corretamente ou os seus contracto estão fechados</translation>
     </message>
     <message>
       <source>Player is not in correct position</source>
-      <translation type="unfinished"/>
+      <translation>O jogador não está na posição correcta</translation>
     </message>
     <message>
       <source>Captain is not in players list</source>
-      <translation type="unfinished"/>
+      <translation>O capitão não está na lista de jogadores</translation>
     </message>
     <message>
       <source>Team name is missing</source>
@@ -6308,7 +6308,7 @@
     </message>
     <message>
       <source>No player in this game</source>
-      <translation type="unfinished"/>
+      <translation>Nenhum jogador neste jogo</translation>
     </message>
     <message>
       <source>Not all players are set</source>
@@ -6414,7 +6414,7 @@
     <name>system/time</name>
     <message>
       <source>Settings updated</source>
-      <translation type="unfinished"/>
+      <translation>Configurações actualizadas</translation>
     </message>
   </context>
   <context>
@@ -6433,7 +6433,7 @@
     </message>
     <message>
       <source>Statistic</source>
-      <translation type="unfinished"/>
+      <translation>Estatísticas</translation>
     </message>
   </context>
 </TS>
